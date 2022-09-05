@@ -19,12 +19,12 @@ redirect_from:
 
 Hello! I am Chen Sun (孙晨), a master student from [Huazhong University of Science and Technology](http://english.hust.edu.cn) advised by [Prof. Liang Gao](https://scholar.google.com/citations?user=NqIi8_8AAAAJ&hl=zh-CN). Before this, I received my bachelor from [Qiming College](https://qiming.hust.edu.cn/), aslo in Huazhong University of Science and Technology.
 
-I am interested in **Deep Learning** and **Computer Vision**. Currently, my research mainly focus on the **Data-Limited problems** in the **industrial inspection**, such as few-shot learning, semi-supervised learning and domain adaptation. Please feel free to contact me if you are interested in my research.
+I am interested in **Deep Learning** and **Computer Vision**. Currently, my research mainly focus on the **Data-Limited problems**, such as few-shot learning, semi-supervised learning and domain adaptation, especially in the **industrial inspection field**,. Please feel free to contact me if you are interested in my research.
 
 # 🔥 News
-- *2022.08*: &nbsp;🎉🎉 I got **The First Prize Oral Presentation Winner** and **Outstanding Poster Award Winner** in the IEEE CASE 2022 student event.
+- *2022.08*: &nbsp;🎉🎉 I get **The First Prize Oral Presentation Winner** and **Outstanding Poster Award Winner** in the IEEE CASE 2022 student event.
 - *2022.05*: &nbsp;🎉🎉 One paper is accepted by IEEE CASE 2022.
-- *2022.05*: &nbsp;🎉🎉 We got in the **Mathematical Modeling Stars Nomination** in the 18th China Post-graduate Mathematical Contest.
+- *2022.05*: &nbsp;🎉🎉 We get in the **Mathematical Modeling Stars Nomination** in the 18th China Post-graduate Mathematical Contest.
 - *2022.03*: &nbsp;🎉🎉 One paper is accepted by IEEE CSCWD 2022.
 
 # 📝 Publications 
@@ -49,7 +49,7 @@ I am interested in **Deep Learning** and **Computer Vision**. Currently, my rese
 
 **Chen Sun**, Qian Wan, Zhaofu Li, Liang Gao, Xinyu Li and Yiping Gao
 
-[**[Paper]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) [**[Code]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) [**[Slide]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) [**[Poster]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+[**[Paper]**](../docs/CASE22_paper.pdf) [**[Code]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) [**[Slide]**](../docs/CASE22_slide.pdf) [**[Poster]**](../docs/CASE2022_poster.pdf)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
