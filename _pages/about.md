@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Chen Sun (孙晨), a master student from [Huazhong University of Science and Technology](http://english.hust.edu.cn) advised by [Prof. Liang Gao](https://scholar.google.com/citations?user=NqIi8_8AAAAJ&hl=zh-CN). Before this, I received my bachelor from [Qiming College](https://qiming.hust.edu.cn/), aslo in Huazhong University of Science and Technology.
+Hello! I am Chen Sun (孙晨), a master student from [Huazhong University of Science and Technology \(HUST\)](http://english.hust.edu.cn) advised by [Prof. Liang Gao](https://scholar.google.com/citations?user=NqIi8_8AAAAJ&hl=zh-CN). Before this, I received my bachelor from [Qiming College](https://qiming.hust.edu.cn/), aslo in Huazhong University of Science and Technology.
 
-I am interested in **Deep Learning** and **Computer Vision**. Currently, my research mainly focus on the **Data-Limited problems**, such as few-shot learning, semi-supervised learning and domain adaptation, especially in the **industrial inspection field**,. Please feel free to contact me if you are interested in my research.
+I am interested in **Deep Learning** and **Computer Vision**. Currently, my research mainly focus on the **Data-Limited problems**, such as few-shot learning, semi-supervised learning and domain adaptation, especially in the **industrial inspection field**. Please feel free to contact me if you are interested in my research.
 
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 I get **The First Prize Oral Presentation Winner** and **Outstanding Poster Award Winner** in the IEEE CASE 2022 student event.
@@ -36,7 +36,7 @@ I am interested in **Deep Learning** and **Computer Vision**. Currently, my rese
 
 **Chen Sun**, Liang Gao, Xinyu Li and Yiping Gao
 
-[**[Paper]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) [**[Code]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) [**[Slide]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+[**[Paper]**](https://arxiv.org/abs/2209.00519) [**[Code]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
@@ -49,7 +49,7 @@ I am interested in **Deep Learning** and **Computer Vision**. Currently, my rese
 
 **Chen Sun**, Qian Wan, Zhaofu Li, Liang Gao, Xinyu Li and Yiping Gao
 
-[**[Paper]**](../docs/CASE22_paper.pdf) [**[Code]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) [**[Slide]**](../docs/CASE22_slide.pdf) [**[Poster]**](../docs/CASE2022_poster.pdf)
+[**[Paper]**](../docs/CASE22_paper.pdf) [**[Code]**](https://github.com/Chan-Sun/CopperDefect) [**[Slide]**](https://drive.google.com/file/d/1WS6NejmhvomDTz4rfyYIgDS82Ji_e3Ll/view?usp=sharing) [**[Poster]**](https://drive.google.com/file/d/1WZkMQMzAGuA6aGl83a2D4G9aYiWVaFoO/view?usp=sharing)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
@@ -57,7 +57,7 @@ I am interested in **Deep Learning** and **Computer Vision**. Currently, my rese
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCWD 2022</div><img src='./images/CSCWD2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Outlier-Aware Method for UWB Indoor Positioning in NLoS Situations](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**An Outlier-Aware Method for UWB Indoor Positioning in NLoS Situations**
 
 Chuan Liu, Yunkang Cao, **Chen Sun**, Weiming Shen, Xinyu Li and Liang Gao
 
@@ -66,15 +66,31 @@ Chuan Liu, Yunkang Cao, **Chen Sun**, Weiming Shen, Xinyu Li and Liang Gao
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 🎖 Selected Awards
+## Honors and Scholarship
+
+- First-class Scholarship for Postgraduates, HUST, 2020, 2021, 2022
+- Third Prize of Zhixing Scholarship, HUST, 2021
+- Merit Postgraduate student, HUST, 2021, 2022
+- Excellent Graduates, HUST, 2019
+
+## Competition Awards
+- **Mathematical Modeling Stars Nomination** in the 18th China Post-graduate Mathematical Contest, 2022.05
+- The third prize (8/264) in the 1st AI Innovation & Application Competition Industrial Intelligence Track, 2021.12
+- The second prize in the 8th Hubei Province Mechanical Innovation and Design Competition. 2018.05
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ### *2020.09 - 2023.06 (expected), Huazhong University of Science and Technology*
+  State Key Laboratory of Digital Manufacturing Equipment and Technology                               
+  ***M.S.*** in Mechanical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: Liang Gao
+ 
+- ### *2016.09 - 2020.06, Huazhong University of Science and Technology*
+  Qiming College                                                                         
+  ***B.S.*** in Mechanical Design, Manufacture & Automation &nbsp;&nbsp;&nbsp; **Advisor**: Zhigang Wu
+  
+  <!-- Thesis: pass -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
