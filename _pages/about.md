@@ -24,7 +24,7 @@ I am interested in **Deep Learning** and **Computer Vision**. Currently, my rese
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 I get **The First Prize Oral Presentation Winner** and **Outstanding Poster Award Winner** in the IEEE CASE 2022 student event.
 - *2022.05*: &nbsp;🎉🎉 One paper is accepted by IEEE CASE 2022.
-- *2022.05*: &nbsp;🎉🎉 We get in the **Mathematical Modeling Stars Nomination** in the 18th China Post-graduate Mathematical Contest.
+- *2022.05*: &nbsp;🎉🎉 We get **The Mathematical Modeling Stars Nomination** in the 18th China Post-graduate Mathematical Contest.
 - *2022.03*: &nbsp;🎉🎉 One paper is accepted by IEEE CSCWD 2022.
 
 # 📝 Publications 
@@ -36,7 +36,7 @@ I am interested in **Deep Learning** and **Computer Vision**. Currently, my rese
 
 **Chen Sun**, Liang Gao, Xinyu Li and Yiping Gao
 
-[**[Paper]**](https://arxiv.org/abs/2209.00519) [**[Code]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+[**[Paper]**](https://arxiv.org/abs/2209.00519) [**[Code]**](https://github.com/Chan-Sun/DKAN)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
@@ -67,6 +67,11 @@ Chuan Liu, Yunkang Cao, **Chen Sun**, Weiming Shen, Xinyu Li and Liang Gao
 </div>
 </div>
 
+# 💻 Projects
+
+* Multi-View VR Glass Inspection with GoerTech (under progress)
+* Semi-supervised Detection
+* Under-water Sonar Image Detection
 
 # 🎖 Selected Awards
 ## Honors and Scholarship
