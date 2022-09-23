@@ -34,6 +34,8 @@ I am interested in **Deep Learning** and **Computer Vision**. Currently, my rese
 
 **A New Knowledge Distillation Network for Incremental Few-Shot Surface Defect Detection**
 
+Under Review
+
 **Chen Sun**, Liang Gao, Xinyu Li and Yiping Gao
 
 [**[Paper]**](https://arxiv.org/abs/2209.00519) [**[Code]**](https://github.com/Chan-Sun/DKAN)
@@ -47,6 +49,8 @@ I am interested in **Deep Learning** and **Computer Vision**. Currently, my rese
 
 **Anchor-based Detection and Height Estimation Framework for Particle Defects on Cathodic Copper Plate Surface**
 
+IEEE International Conference on Automation Science and Engineering 2022 (IEEE CASE 2022) 
+
 **Chen Sun**, Qian Wan, Zhaofu Li, Liang Gao, Xinyu Li and Yiping Gao
 
 [**[Paper]**](../docs/CASE22_paper.pdf) [**[Code]**](https://github.com/Chan-Sun/CopperDefect) [**[Slide]**](https://drive.google.com/file/d/1WS6NejmhvomDTz4rfyYIgDS82Ji_e3Ll/view?usp=sharing) [**[Poster]**](https://drive.google.com/file/d/1WZkMQMzAGuA6aGl83a2D4G9aYiWVaFoO/view?usp=sharing)
@@ -59,6 +63,8 @@ I am interested in **Deep Learning** and **Computer Vision**. Currently, my rese
 
 **An Outlier-Aware Method for UWB Indoor Positioning in NLoS Situations**
 
+IEEE International Conference on Computer Supported Cooperative Work in Design 2022 (IEEE CSCWD 2022)
+
 Chuan Liu, Yunkang Cao, **Chen Sun**, Weiming Shen, Xinyu Li and Liang Gao
 
 [**[Paper]**](https://ieeexplore.ieee.org/document/9776125)
@@ -69,9 +75,14 @@ Chuan Liu, Yunkang Cao, **Chen Sun**, Weiming Shen, Xinyu Li and Liang Gao
 
 # 💻 Projects
 
-* Multi-View VR Glass Inspection with GoerTech (under progress)
-* Semi-supervised Detection
-* Under-water Sonar Image Detection
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Semi-Det</div><img src='./images/semi_frame.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Semi-supervised Industrial Inspection**
+[**[Github]**](https://github.com/Chan-Sun/Semi-Inspection)
+
+</div>
+</div>
 
 # 🎖 Selected Awards
 ## Honors and Scholarship
