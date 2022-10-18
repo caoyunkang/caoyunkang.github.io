@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Chen Sun (孙晨), a master student from [Huazhong University of Science and Technology \(HUST\)](http://english.hust.edu.cn) advised by [Prof. Liang Gao](https://scholar.google.com/citations?user=NqIi8_8AAAAJ&hl=zh-CN). Before this, I received my bachelor from [Qiming College](https://qiming.hust.edu.cn/), aslo in Huazhong University of Science and Technology.
+Hello! I am Chen Sun (孙晨), a master student from [Huazhong University of Science and Technology \(HUST\)](http://english.hust.edu.cn) advised by [Prof. Liang Gao](https://scholar.google.com/citations?user=NqIi8_8AAAAJ&hl=zh-CN). Before this, I received my bachelor from [Qiming College](https://qiming.hust.edu.cn/), also in Huazhong University of Science and Technology.
 
-I am interested in **Deep Learning** and **Computer Vision**. Currently, my research mainly focus on the **Data-Limited problems**, such as few-shot learning, semi-supervised learning and domain adaptation, especially in the **industrial inspection field**. Please feel free to contact me if you are interested in my research.
+I am interested in **Deep Learning** and **Computer Vision**. Currently, my research mainly focus on the **Data-Limited problems**, such as few-shot learning, semi-supervised learning, and domain adaptation, especially in the **industrial inspection field**. Please feel free to contact me if you are interested in my research.
 
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 I get **The First Prize Oral Presentation Winner** and **Outstanding Poster Award Winner** in the IEEE CASE 2022 student event.
