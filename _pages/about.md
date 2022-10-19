@@ -19,7 +19,9 @@ redirect_from:
 
 Hello! I am Chen Sun (孙晨), a master student from [Huazhong University of Science and Technology \(HUST\)](http://english.hust.edu.cn) advised by [Prof. Liang Gao](https://scholar.google.com/citations?user=NqIi8_8AAAAJ&hl=zh-CN). Before this, I received my bachelor from [Qiming College](https://qiming.hust.edu.cn/), also in Huazhong University of Science and Technology.
 
-I am interested in **Deep Learning** and **Computer Vision**. Currently, my research mainly focus on the **Data-Limited problems**, such as few-shot learning, semi-supervised learning, and domain adaptation, especially in the **industrial inspection field**. Please feel free to contact me if you are interested in my research.
+I am interested in **Deep Learning** and **Computer Vision**. Currently, my research mainly focus on the **Data-efficient Learning** and **Transfer Learning**, especially their application in the **industrial inspection field**. I am also trying to combine deep learning with robotics. We are working on **Robotized Intelligent Manufacturing** to explore fast and accurate quality inspection for large-scale multi-view objects.
+
+**I plan to pursue a Ph.D. degree after graduation (in 2023). Please feel free to contact me if you are interested in my research.**
 
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 I get **The First Prize Oral Presentation Winner** and **Outstanding Poster Award Winner** in the IEEE CASE 2022 student event.
@@ -27,49 +29,73 @@ I am interested in **Deep Learning** and **Computer Vision**. Currently, my rese
 - *2022.05*: &nbsp;🎉🎉 We get **The Mathematical Modeling Stars Nomination** in the 18th China Post-graduate Mathematical Contest.
 - *2022.03*: &nbsp;🎉🎉 One paper is accepted by IEEE CSCWD 2022.
 
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='./images/DKAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A New Knowledge Distillation Network for Incremental Few-Shot Surface Defect Detection**
-
-Under Review
+## A New Knowledge Distillation Network for Incremental Few-Shot Surface Defect Detection
 
 **Chen Sun**, Liang Gao, Xinyu Li and Yiping Gao
 
-[**[Paper]**](https://arxiv.org/abs/2209.00519) [**[Code]**](https://github.com/Chan-Sun/DKAN)
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+Under Review
+
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/abs/2209.00519" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://github.com/Chan-Sun/DKAN">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CASE 2022</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Anchor-based Detection and Height Estimation Framework for Particle Defects on Cathodic Copper Plate Surface**
-
-IEEE International Conference on Automation Science and Engineering 2022 (IEEE CASE 2022) 
+## Anchor-based Detection and Height Estimation Framework for Particle Defects on Cathodic Copper Plate Surface
 
 **Chen Sun**, Qian Wan, Zhaofu Li, Liang Gao, Xinyu Li and Yiping Gao
 
-[**[Paper]**](../docs/CASE22_paper.pdf) [**[Code]**](https://github.com/Chan-Sun/CopperDefect) [**[Slide]**](https://drive.google.com/file/d/1WS6NejmhvomDTz4rfyYIgDS82Ji_e3Ll/view?usp=sharing) [**[Poster]**](https://drive.google.com/file/d/1WZkMQMzAGuA6aGl83a2D4G9aYiWVaFoO/view?usp=sharing)
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+IEEE International Conference on Automation Science and Engineering 2022 (IEEE CASE 2022)
+
+<i class='fas fa-award' style='color:#aa0000'> The First Prize Oral Presentation Winner</i>
+<i class='fas fa-award' style='color:#aa0000'> Outstanding Poster Award Winner</i>
+
+<div class="extra-links">
+    <a class="_blank" href="../docs/CASE22_paper.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://github.com/Chan-Sun/CopperDefect">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> Code
+    </a>
+    <a class="_blank" href="https://drive.google.com/file/d/1WS6NejmhvomDTz4rfyYIgDS82Ji_e3Ll/view?usp=sharing">
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Slide
+    </a>
+    <a class="_blank" href="https://drive.google.com/file/d/1WZkMQMzAGuA6aGl83a2D4G9aYiWVaFoO/view?usp=sharing">
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Poster
+    </a>
 </div>
 </div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCWD 2022</div><img src='./images/CSCWD2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**An Outlier-Aware Method for UWB Indoor Positioning in NLoS Situations**
-
-IEEE International Conference on Computer Supported Cooperative Work in Design 2022 (IEEE CSCWD 2022)
+## An Outlier-Aware Method for UWB Indoor Positioning in NLoS Situations
 
 Chuan Liu, Yunkang Cao, **Chen Sun**, Weiming Shen, Xinyu Li and Liang Gao
 
-[**[Paper]**](https://ieeexplore.ieee.org/document/9776125)
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+IEEE International Conference on Computer Supported Cooperative Work in Design 2022 (IEEE CSCWD 2022)
+
+<div class="extra-links">
+    <a class="_blank" href="https://ieeexplore.ieee.org/document/9776125" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
 </div>
 </div>
 
@@ -78,13 +104,13 @@ Chuan Liu, Yunkang Cao, **Chen Sun**, Weiming Shen, Xinyu Li and Liang Gao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Semi-Det</div><img src='./images/semi_frame.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Semi-supervised Industrial Inspection**
+## Semi-supervised Industrial Inspection
 [**[Github]**](https://github.com/Chan-Sun/Semi-Inspection)
-
 </div>
 </div>
 
-# 🎖 Selected Awards
+
+# 🥇 Selected Awards
 ## Honors and Scholarship
 
 - First-class Scholarship for Postgraduates, HUST, 2020, 2021, 2022
@@ -93,7 +119,7 @@ Chuan Liu, Yunkang Cao, **Chen Sun**, Weiming Shen, Xinyu Li and Liang Gao
 - Excellent Graduates, HUST, 2019
 
 ## Competition Awards
-- **Mathematical Modeling Stars Nomination** in the 18th China Post-graduate Mathematical Contest, 2022.05
+- **Mathematical Modeling Stars Nomination (TOP 2)** in the 18th China Post-graduate Mathematical Contest, 2022.05
 - The third prize (8/264) in the 1st AI Innovation & Application Competition Industrial Intelligence Track, 2021.12
 - The second prize in the 8th Hubei Province Mechanical Innovation and Design Competition. 2018.05
 
@@ -104,7 +130,7 @@ Chuan Liu, Yunkang Cao, **Chen Sun**, Weiming Shen, Xinyu Li and Liang Gao
  
 - ### *2016.09 - 2020.06, Huazhong University of Science and Technology*
   Qiming College                                                                         
-  ***B.S.*** in Mechanical Design, Manufacture & Automation &nbsp;&nbsp;&nbsp; **Advisor**: Zhigang Wu
+  ***B.S.*** in Mechanical Design, Manufacture & Automation &nbsp;&nbsp;&nbsp; 
   
   <!-- Thesis: pass -->
 
