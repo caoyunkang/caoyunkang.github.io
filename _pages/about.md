@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Chen Sun (孙晨), a master student from [Huazhong University of Science and Technology \(HUST\)](http://english.hust.edu.cn) advised by [Prof. Liang Gao](https://scholar.google.com/citations?user=NqIi8_8AAAAJ&hl=zh-CN). Before this, I received my bachelor from [Qiming College](https://qiming.hust.edu.cn/), also in Huazhong University of Science and Technology.
+Hello! I am Chen Sun (孙晨), a master student from [Huazhong University of Science and Technology \(HUST\)](http://english.hust.edu.cn) advised by [Prof. Liang Gao](https://scholar.google.com/citations?user=NqIi8_8AAAAJ&hl=zh-CN). Before this, I received my bachelor from [Qiming College](https://qiming.hust.edu.cn/), an elite program in Huazhong University of Science and Technology.
 
 I am interested in **Deep Learning** and **Computer Vision**. Currently, my research mainly focus on the **Data-efficient Learning** and **Transfer Learning**, especially their application in the **industrial inspection field**. I am also trying to combine deep learning with robotics. We are working on **Robotized Intelligent Manufacturing** to explore fast and accurate quality inspection for large-scale multi-view objects.
 
@@ -69,7 +69,7 @@ IEEE International Conference on Automation Science and Engineering 2022 (IEEE C
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
     <a class="_blank" href="https://github.com/Chan-Sun/CopperDefect">
-        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> Code
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a>
     <a class="_blank" href="https://drive.google.com/file/d/1WS6NejmhvomDTz4rfyYIgDS82Ji_e3Ll/view?usp=sharing">
         <i class="fas fa-newspaper" aria-hidden="true"></i> Slide
