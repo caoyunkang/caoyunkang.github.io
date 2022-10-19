@@ -65,7 +65,7 @@ IEEE International Conference on Automation Science and Engineering 2022 (IEEE C
 <i class='fas fa-award' style='color:#aa0000'> Outstanding Poster Award Winner</i>
 
 <div class="extra-links">
-    <a class="_blank" href="../files/CASE22_paper.pdf" >
+    <a class="_blank" href="../files/CASE2022_paper.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
     <a class="_blank" href="https://github.com/Chan-Sun/CopperDefect">
