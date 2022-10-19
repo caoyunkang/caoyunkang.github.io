@@ -99,7 +99,7 @@ IEEE International Conference on Computer Supported Cooperative Work in Design 2
 </div>
 </div>
 
-# 💻 Projects
+<!-- # 💻 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Semi-Det</div><img src='./images/semi_frame.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -107,7 +107,7 @@ IEEE International Conference on Computer Supported Cooperative Work in Design 2
 ## Semi-supervised Industrial Inspection
 [**[Github]**](https://github.com/Chan-Sun/Semi-Inspection)
 </div>
-</div>
+</div> -->
 
 
 # 🥇 Selected Awards
