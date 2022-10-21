@@ -47,6 +47,20 @@ I am also trying to combine deep learning with robotics. We are working on **Rob
 
 Knowledge-based Systems
 
+<div class="extra-links">
+    <a class="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705122004038" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    <a class="_blank" href="https://github.com/caoyunkang/IKD">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CASE 2022</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 ## Collaborative Discrepancy Optimization for Reliable Image Anomaly Detection
 
 **Yunkang Cao**, Xiaohao Xu, Zhaoge Liu, Weiming Shen
@@ -65,11 +79,26 @@ Chuan Liu, Jingwei Wang, **Yunkang Cao**, Min Liu, Weiming Shen
 
 Knowledge-based Systems
 
+<div class="extra-links">
+    <a class="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705122008590" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+</div>
+
 ## Semi-supervised Knowledge Distillation for Tiny Defect Detection
 
 **Yunkang Cao**, Yanan Song, Xiaohao Xu, Shuya Li, Yuhao Yu, Yiheng Zhang, Weiming Shen
 
 IEEE International Conference on Computer Supported Cooperative Work in Design 2022 (IEEE CSCWD 2022)
+
+<div class="extra-links">
+    <a class="_blank" href="https://ieeexplore.ieee.org/document/9776026" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+</div>
+</div>
 
 ## Position Encoding Enhanced Feature Mapping for Image Anomaly Detection
 
@@ -77,61 +106,20 @@ Qian Wan, **Yunkang Cao**, Liang Gao, Weiming Shen, Xinyu Li
 
 IEEE International Conference on Automation Science and Engineering 2022 (IEEE CASE 2022)
 
-## An Outlier-Aware Method for UWB Indoor Positioning in Non-line-of-sight Situations.
-
-Chuan Liu, **Yunkang Cao**, Chen Sun, Weiming Shen, Xinyu Li
-
-IEEE International Conference on Computer Supported Cooperative Work in Design 2022 (IEEE CSCWD 2022)
-
-
-
 <div class="extra-links">
-    <a class="_blank" href="https://arxiv.org/abs/2209.00519" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> arXiv
-    </a>
-    <a class="_blank" href="https://github.com/Chan-Sun/DKAN">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CASE 2022</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Anchor-based Detection and Height Estimation Framework for Particle Defects on Cathodic Copper Plate Surface
-
-**Chen Sun**, Qian Wan, Zhaofu Li, Liang Gao, Xinyu Li and Yiping Gao
-
-IEEE International Conference on Automation Science and Engineering 2022 (IEEE CASE 2022)
-
-<i class='fas fa-award' style='color:#aa0000'> The First Prize Oral Presentation Winner</i>
-<i class='fas fa-award' style='color:#aa0000'> Outstanding Poster Award Winner</i>
-
-<div class="extra-links">
-    <a class="_blank" href="../files/CASE2022_paper.pdf" >
+    <a class="_blank" href="https://www.researchgate.net/publication/361254312_Position_Encoding_Enhanced_Feature_Mapping_for_Image_Anomaly_Detection" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
-    <a class="_blank" href="https://github.com/Chan-Sun/CopperDefect">
+    <a class="_blank" href="https://github.com/caoyunkang/PFM-and-PEFM-for-Image-Anomaly-Detection-and-Segmentation">
         <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a>
-    <a class="_blank" href="https://drive.google.com/file/d/1WS6NejmhvomDTz4rfyYIgDS82Ji_e3Ll/view?usp=sharing">
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Slide
-    </a>
-    <a class="_blank" href="https://drive.google.com/file/d/1WZkMQMzAGuA6aGl83a2D4G9aYiWVaFoO/view?usp=sharing">
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Poster
-    </a>
 </div>
 </div>
 </div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCWD 2022</div><img src='./images/CSCWD2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 ## An Outlier-Aware Method for UWB Indoor Positioning in NLoS Situations
 
-Chuan Liu, Yunkang Cao, **Chen Sun**, Weiming Shen, Xinyu Li and Liang Gao
+Chuan Liu, **Yunkang Cao**, Chen Sun, Weiming Shen, Xinyu Li and Liang Gao
 
 IEEE International Conference on Computer Supported Cooperative Work in Design 2022 (IEEE CSCWD 2022)
 
@@ -143,37 +131,25 @@ IEEE International Conference on Computer Supported Cooperative Work in Design 2
 </div>
 </div>
 
-<!-- # 💻 Projects
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Semi-Det</div><img src='./images/semi_frame.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Semi-supervised Industrial Inspection
-[**[Github]**](https://github.com/Chan-Sun/Semi-Inspection)
-</div>
-</div> -->
-
 
 # 🥇 Selected Awards
 ## Honors and Scholarship
 
-- First-class Scholarship for Postgraduates, HUST, 2020, 2021, 2022
-- Third Prize of Zhixing Scholarship, HUST, 2021
-- Merit Postgraduate student, HUST, 2021, 2022
-- Excellent Graduates, HUST, 2019
+- First-class Scholarship for Postgraduates, HUST, 2020.09, 2021.09, 2022.09
+- Student Award for Research and Innovation, 2022.05
+- **Mathematical Modeling Stars Nomination (TOP 2)** in the 18th China Post-graduate Mathematical Contest, 2022.05
+- Merit Postgraduate student, HUST, 2021.09
+- Excellent Graduates, HUST, 2019.06
+- National Scholarship (**the highest scholarship for B.E**), 2017.09, 2019.09
 
 ## Competition Awards
-- **Mathematical Modeling Stars Nomination (TOP 2)** in the 18th China Post-graduate Mathematical Contest, 2022.05
-- The third prize (8/264) in the 1st AI Innovation & Application Competition Industrial Intelligence Track, 2021.12
-- The second prize in the 8th Hubei Province Mechanical Innovation and Design Competition. 2018.05
 
 # 📖 Educations
-- ### *2020.09 - 2023.06 (expected), Huazhong University of Science and Technology*
+- ### *2020.09 - 2025.06 (expected), Huazhong University of Science and Technology*
   State Key Laboratory of Digital Manufacturing Equipment and Technology                               
-  ***M.S.*** in Mechanical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: Liang Gao
+  ***Ph.D. Candidate*** in Mechanical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: Weiming Shen
  
 - ### *2016.09 - 2020.06, Huazhong University of Science and Technology*
-  Qiming College                                                                         
   ***B.S.*** in Mechanical Design, Manufacture & Automation &nbsp;&nbsp;&nbsp; 
   
   <!-- Thesis: pass -->
