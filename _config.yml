@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chen Sun"
+title                    : "Yunkang CAO"
 description              : --------------
-repository               : "Chan-Sun/Chan-Sun.github.io"
+repository               : "caoyunkang/caoyunkang.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chen Sun"
+  name             : "Yunkang CAO"
   avatar           : "images/profile.png"
   bio              : "Huazhong University of Science and Technology"
   location         : "Hubei, China"
   employer         :
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "chensun935@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Chen-Sun-58"
+  email            : "caoyunkang0207@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Yunkang-Cao"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Chan-Sun"
+  github           : "https://github.com/caoyunkang"
   google_plus      :
   keybase          :
   instagram        :
