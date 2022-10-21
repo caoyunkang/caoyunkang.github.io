@@ -28,10 +28,12 @@ I am also trying to combine deep learning with robotics. We are working on **Rob
 **I plan to pursue a visitor position in the next year (2023) with the funding of CSC (China Scholarship Council). Please feel free to contact me if you are interested in my research.**
 
 # 🔥 News
-- *2022.08*: &nbsp;🎉🎉 I get **The First Prize Oral Presentation Winner** and **Outstanding Poster Award Winner** in the IEEE CASE 2022 student event.
+- *2022.10*: &nbsp;🎉🎉 We receive a major revision for the paper "Collaborative Discrepancy Optimization for Reliable Image Anomaly Detection" submiited to IEEE TII.
+- *2022.09*: &nbsp;🎉🎉 One paper is accepted by Knowledge-based Systems.
 - *2022.05*: &nbsp;🎉🎉 One paper is accepted by IEEE CASE 2022.
 - *2022.05*: &nbsp;🎉🎉 We get **The Mathematical Modeling Stars Nomination** in the 18th China Post-graduate Mathematical Contest.
-- *2022.03*: &nbsp;🎉🎉 One paper is accepted by IEEE CSCWD 2022.
+- *2022.03*: &nbsp;🎉🎉 Two paper is accepted by IEEE CSCWD 2022.
+- *2022.03*: &nbsp;🎉🎉 One paper is accepted by Knowledge-based System.
 
 
 # 📝 Publications 
@@ -39,11 +41,49 @@ I am also trying to combine deep learning with robotics. We are working on **Rob
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='./images/DKAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## A New Knowledge Distillation Network for Incremental Few-Shot Surface Defect Detection
+## Informative Knowledge Distillation for image anomaly detection
 
-**Chen Sun**, Liang Gao, Xinyu Li and Yiping Gao
+**Yunkang Cao**, Qian Wan, Weiming Shen and Liang Gao
 
-Under Review
+Knowledge-based Systems
+
+## Collaborative Discrepancy Optimization for Reliable Image Anomaly Detection
+
+**Yunkang Cao**, Xiaohao Xu, Zhaoge Liu, Weiming Shen
+
+IEEE Transactions on Industrial Informatics, Major Revision
+
+## Open-set Supervised Anomaly Localization via Union Discrepancy Learners
+
+**Yunkang Cao**, Xiaohao Xu, Weiming Shen
+
+IEEE Transactions on Cybernetics, Under Review
+
+## GON: End-to-end Optimization Framework for Constraint Graph Optimization Problems
+
+Chuan Liu, Jingwei Wang, **Yunkang Cao**, Min Liu, Weiming Shen
+
+Knowledge-based Systems
+
+## Semi-supervised Knowledge Distillation for Tiny Defect Detection
+
+**Yunkang Cao**, Yanan Song, Xiaohao Xu, Shuya Li, Yuhao Yu, Yiheng Zhang, Weiming Shen
+
+IEEE International Conference on Computer Supported Cooperative Work in Design 2022 (IEEE CSCWD 2022)
+
+## Position Encoding Enhanced Feature Mapping for Image Anomaly Detection
+
+Qian Wan, **Yunkang Cao**, Liang Gao, Weiming Shen, Xinyu Li
+
+IEEE International Conference on Automation Science and Engineering 2022 (IEEE CASE 2022)
+
+## An Outlier-Aware Method for UWB Indoor Positioning in Non-line-of-sight Situations.
+
+Chuan Liu, **Yunkang Cao**, Chen Sun, Weiming Shen, Xinyu Li
+
+IEEE International Conference on Computer Supported Cooperative Work in Design 2022 (IEEE CSCWD 2022)
+
+
 
 <div class="extra-links">
     <a class="_blank" href="https://arxiv.org/abs/2209.00519" >
