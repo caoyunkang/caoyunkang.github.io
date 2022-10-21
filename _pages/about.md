@@ -67,12 +67,22 @@ Knowledge-based Systems
 
 IEEE Transactions on Industrial Informatics, Major Revision
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CASE 2022</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 ## Open-set Supervised Anomaly Localization via Union Discrepancy Learners
 
 **Yunkang Cao**, Xiaohao Xu, Weiming Shen
 
 IEEE Transactions on Cybernetics, Under Review
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CASE 2022</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 ## GON: End-to-end Optimization Framework for Constraint Graph Optimization Problems
 
 Chuan Liu, Jingwei Wang, **Yunkang Cao**, Min Liu, Weiming Shen
@@ -86,6 +96,8 @@ Knowledge-based Systems
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CASE 2022</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 ## Semi-supervised Knowledge Distillation for Tiny Defect Detection
 
 **Yunkang Cao**, Yanan Song, Xiaohao Xu, Shuya Li, Yuhao Yu, Yiheng Zhang, Weiming Shen
@@ -100,6 +112,8 @@ IEEE International Conference on Computer Supported Cooperative Work in Design 2
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CASE 2022</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 ## Position Encoding Enhanced Feature Mapping for Image Anomaly Detection
 
 Qian Wan, **Yunkang Cao**, Liang Gao, Weiming Shen, Xinyu Li
@@ -117,6 +131,8 @@ IEEE International Conference on Automation Science and Engineering 2022 (IEEE C
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCWD 2022</div><img src='./images/CSCWD2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 ## An Outlier-Aware Method for UWB Indoor Positioning in NLoS Situations
 
 Chuan Liu, **Yunkang Cao**, Chen Sun, Weiming Shen, Xinyu Li and Liang Gao
