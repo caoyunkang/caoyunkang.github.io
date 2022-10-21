@@ -21,9 +21,11 @@ Hello! I am Yunkang CAO (曹云康), a Ph.D candidate from [Huazhong University 
 advised by [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). 
 Before this, I received my bachelor in Huazhong University of Science and Technology, majoring in Mechanical Design, Manufacture & Automation.
 
-I am interested in **Deep Learning** and **Computer Vision**. Currently, my research mainly focus on the **Data-efficient Learning** and **Transfer Learning**, especially their application in the **industrial inspection field**. I am also trying to combine deep learning with robotics. We are working on **Robotized Intelligent Manufacturing** to explore fast and accurate quality inspection for large-scale multi-view objects.
+I am interested in **Deep Learning** and **Computer Vision**. 
+Currently, my research mainly focus on the **2D & 3D Anomaly Detection**, especially their application in the **industrial inspection field**. 
+I am also trying to combine deep learning with robotics. We are working on **Robotized Intelligent Manufacturing** to explore fast and accurate quality inspection for large-scale multi-view objects.
 
-**I plan to pursue a Ph.D. degree after graduation (in 2023). Please feel free to contact me if you are interested in my research.**
+**I plan to pursue a visitor position in the next year (2023) with the funding of CSC (China Scholarship Council). Please feel free to contact me if you are interested in my research.**
 
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 I get **The First Prize Oral Presentation Winner** and **Outstanding Poster Award Winner** in the IEEE CASE 2022 student event.
