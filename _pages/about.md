@@ -38,7 +38,7 @@ I am also trying to combine deep learning with robotics. We are working on **Rob
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='./images/KBS-2022-3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/KBS-2022-3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Informative Knowledge Distillation for image anomaly detection
@@ -58,7 +58,7 @@ Knowledge-based Systems
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Collaborative Discrepancy Optimization for Reliable Image Anomaly Detection
@@ -70,7 +70,7 @@ IEEE Transactions on Industrial Informatics, Major Revision
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CASE 2022</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Open-set Supervised Anomaly Localization via Union Discrepancy Learners
@@ -82,7 +82,7 @@ IEEE Transactions on Cybernetics, Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CASE 2022</div><img src='./images/KBS-2022-8.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/KBS-2022-8.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## GON: End-to-end Optimization Framework for Constraint Graph Optimization Problems
@@ -98,7 +98,7 @@ Knowledge-based Systems
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CASE 2022</div><img src='./images/CSCWD2022-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCWD 2022</div><img src='./images/CSCWD2022-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Semi-supervised Knowledge Distillation for Tiny Defect Detection
