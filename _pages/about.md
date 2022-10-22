@@ -168,7 +168,7 @@ IEEE International Conference on Computer Supported Cooperative Work in Design 2
 ## Competition Awards
 
 # 📖 Educations
-- ### *2020.09 - 2025.06 (expected), Huazhong University of Science and Technology*
+- ### *2020.09 - present, Huazhong University of Science and Technology*
   State Key Laboratory of Digital Manufacturing Equipment and Technology                               
   ***Ph.D. Candidate*** in Mechanical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: Weiming Shen
  
