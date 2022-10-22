@@ -23,7 +23,7 @@ Before this, I received my bachelor degree in Huazhong University of Science & T
 
 I am interested in **Deep Learning** and **Computer Vision**. 
 Currently, my research mainly focuses on **2D and 3D Anomaly Detection**, especially their application in the **industrial inspection field**, 
-and their promising applications for the security of future **Autonomous Driving**.
+and their promising applications for the safety of future **Autonomous Driving**.
 
 [comment]: <> (I am also trying to combine deep learning with robotics. )
 
