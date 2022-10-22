@@ -25,10 +25,10 @@ I am interested in **Deep Learning** and **Computer Vision**.
 Currently, my research mainly focus on the **2D & 3D Anomaly Detection**, especially their application in the **industrial inspection field**. 
 I am also trying to combine deep learning with robotics. We are working on **Robotized Intelligent Manufacturing** to explore fast and accurate quality inspection for large-scale multi-view objects.
 
-**I plan to pursue a visitor position in the next year (2023) with the funding of CSC (China Scholarship Council). Please feel free to contact me if you are interested in my research.**
+**I plan to pursue a visitor position in the next year (2023) supported by the funding of CSC (China Scholarship Council). Please feel free to contact me if you are interested in my research.**
 
 # 🔥 News
-- *2022.10*: &nbsp;🎉🎉 We receive a major revision for the paper "Collaborative Discrepancy Optimization for Reliable Image Anomaly Detection" submiited to IEEE TII.
+- *2022.10*: &nbsp;🎉🎉 We receive a major revision for the paper submitted to IEEE TII.
 - *2022.09*: &nbsp;🎉🎉 One paper is accepted by Knowledge-based Systems.
 - *2022.05*: &nbsp;🎉🎉 One paper is accepted by IEEE CASE 2022.
 - *2022.05*: &nbsp;🎉🎉 We get **The Mathematical Modeling Stars Nomination** in the 18th China Post-graduate Mathematical Contest.
@@ -95,6 +95,7 @@ Knowledge-based Systems
     <a class="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705122008590" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
+</div>
 </div>
 </div>
 
