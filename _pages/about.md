@@ -58,23 +58,25 @@ Knowledge-based Systems
 </div>
 </div>
 
-[comment]: <> (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>)
+<div style="display:none"><div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
 
-[comment]: <> (<div class='paper-box-text' markdown="1">)
+<div class='paper-box-text' markdown="1">
 
-[comment]: <> (## Collaborative Discrepancy Optimization for Reliable Image Anomaly Detection)
+## Collaborative Discrepancy Optimization for Reliable Image Anomaly Detection
 
-[comment]: <> (**Yunkang Cao**, Xiaohao Xu, Zhaoge Liu, Weiming Shen)
+**Yunkang Cao**, Xiaohao Xu, Zhaoge Liu, Weiming Shen
 
-[comment]: <> (IEEE Transactions on Industrial Informatics, Major Revision)
+IEEE Transactions on Industrial Informatics, Major Revision
 
-[comment]: <> (</div>)
+</div>
 
-[comment]: <> (</div>)
+</div>
+</div>
 
-[comment]: <> (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>)
 
-[comment]: <> (<div class='paper-box-text' markdown="1">)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
 
 ## Open-set Supervised Anomaly Localization via Union Discrepancy Learners
 
