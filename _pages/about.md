@@ -17,22 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Yunkang CAO (曹云康), a Ph.D candidate from [Huazhong University of Science and Technology \(HUST\)](http://english.hust.edu.cn) 
+Hello! I am Yunkang CAO (曹云康), a Ph.D. candidate from [Huazhong University of Science and Technology \(HUST\)](http://english.hust.edu.cn) 
 advised by [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). 
-Before this, I received my bachelor in Huazhong University of Science and Technology, majoring in Mechanical Design, Manufacture & Automation.
+Before this, I received my bachelor in Huazhong University of Science & Technology, majoring in Mechanical Design, Manufacture & Automation.
 
 I am interested in **Deep Learning** and **Computer Vision**. 
-Currently, my research mainly focus on the **2D & 3D Anomaly Detection**, especially their application in the **industrial inspection field**. 
-I am also trying to combine deep learning with robotics. We are working on **Robotized Intelligent Manufacturing** to explore fast and accurate quality inspection for large-scale multi-view objects.
+Currently, my research mainly focuses on the **2D & 3D Anomaly Detection**, especially their application in the **industrial inspection field**, 
+as well as their promising applications for the security of future **Autonomous Driving**.
 
-**I plan to pursue a visitor position in the next year (2023) supported by the funding of CSC (China Scholarship Council). Please feel free to contact me if you are interested in my research.**
+[comment]: <> (I am also trying to combine deep learning with robotics. )
+
+[comment]: <> (We are working on **Robotized Intelligent Manufacturing** to explore fast and accurate quality inspection for large-scale multi-view objects.)
+
+**I plan to pursue a visitor position in the next year (2023) supported by the funding of CSC (China Scholarship Council). 
+Please feel free to contact me if you are interested in my research.**
 
 # 🔥 News
 - *2022.10*: &nbsp;🎉🎉 We receive a major revision for the paper submitted to IEEE TII.
 - *2022.09*: &nbsp;🎉🎉 One paper is accepted by Knowledge-based Systems.
 - *2022.05*: &nbsp;🎉🎉 One paper is accepted by IEEE CASE 2022.
 - *2022.05*: &nbsp;🎉🎉 We get **The Mathematical Modeling Stars Nomination** in the 18th China Post-graduate Mathematical Contest.
-- *2022.03*: &nbsp;🎉🎉 Two paper is accepted by IEEE CSCWD 2022.
+- *2022.03*: &nbsp;🎉🎉 Two papers are accepted by IEEE CSCWD 2022.
 - *2022.03*: &nbsp;🎉🎉 One paper is accepted by Knowledge-based System.
 
 
@@ -169,8 +174,6 @@ IEEE International Conference on Computer Supported Cooperative Work in Design 2
 - Merit Postgraduate student, HUST, 2021.09
 - Excellent Graduates, HUST, 2019.06
 - National Scholarship (**the highest scholarship for B.E**), 2017.09, 2019.09
-
-## Competition Awards
 
 # 📖 Educations
 - ### *2020.09 - present, Huazhong University of Science and Technology*
