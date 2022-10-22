@@ -74,7 +74,7 @@ IEEE Transactions on Industrial Informatics, Major Revision
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB</div><img src='./images/TCYB-2022-09.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -87,7 +87,7 @@ IEEE Transactions on Cybernetics, Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/TCYB-2022-09.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/KBS-2022-8.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## GON: End-to-end Optimization Framework for Constraint Graph Optimization Problems
