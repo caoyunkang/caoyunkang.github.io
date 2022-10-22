@@ -19,11 +19,11 @@ redirect_from:
 
 Hello! I am Yunkang CAO (曹云康), a Ph.D. candidate from [Huazhong University of Science and Technology \(HUST\)](http://english.hust.edu.cn) 
 advised by [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). 
-Before this, I received my bachelor in Huazhong University of Science & Technology, majoring in Mechanical Design, Manufacture & Automation.
+Before this, I received my bachelor degree in Huazhong University of Science & Technology, majoring in Mechanical Design, Manufacture & Automation.
 
 I am interested in **Deep Learning** and **Computer Vision**. 
-Currently, my research mainly focuses on the **2D & 3D Anomaly Detection**, especially their application in the **industrial inspection field**, 
-as well as their promising applications for the security of future **Autonomous Driving**.
+Currently, my research mainly focuses on **2D and 3D Anomaly Detection**, especially their application in the **industrial inspection field**, 
+and their promising applications for the security of future **Autonomous Driving**.
 
 [comment]: <> (I am also trying to combine deep learning with robotics. )
 
