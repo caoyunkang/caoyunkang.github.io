@@ -92,6 +92,32 @@ IEEE Transactions on Cybernetics, Under Review
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">To be submitted to PR</div><img src='./images/VIDF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## VIDF: Viewpoint-Invariant Deep Feature for Point Cloud Anomaly Detection
+
+**Yunkang Cao**, Weiming Shen
+
+**To be submitted** to Pattern Recognition.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">To be submitted to TII</div><img src='./images/MaskedTeacher.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## A Masked Reverse Knowledge Distillation Method for Anomaly Detection
+
+Yuxin Jiang, **Yunkang Cao**, Weiming Shen
+
+**To be submitted** to IEEE Transactions on Industrial Informatics.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/KBS-2022-8.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
