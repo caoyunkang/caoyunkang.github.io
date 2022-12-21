@@ -29,7 +29,7 @@ and their promising applications for the safety of future **Autonomous Driving**
 
 [comment]: <> (We are working on **Robotized Intelligent Manufacturing** to explore fast and accurate quality inspection for large-scale multi-view objects.)
 
-**I plan to pursue a visitor position in the next year (2023) supported by funding from CSC (China Scholarship Council). 
+**I plan to pursue a visiting doctoral student position in the next year (2023) supported by funding from CSC (China Scholarship Council). 
 Please feel free to contact me if you are interested in my research.**
 
 # 🔥 News
