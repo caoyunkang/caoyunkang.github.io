@@ -33,6 +33,7 @@ and their promising applications for the safety of future **Autonomous Driving**
 Please feel free to contact me if you are interested in my research.**
 
 # 🔥 News
+- *2023.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TII.
 - *2022.10*: &nbsp;🎉🎉 We receive a major revision for the paper submitted to IEEE TII.
 - *2022.09*: &nbsp;🎉🎉 One paper is accepted by Knowledge-based Systems.
 - *2022.05*: &nbsp;🎉🎉 One paper is accepted by IEEE CASE 2022.
@@ -63,24 +64,21 @@ Knowledge-based Systems
 </div>
 </div>
 
-<div style="display:none"><div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='./images/TII-CDO-2023-01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Collaborative Discrepancy Optimization for Reliable Image Anomaly Detection
+## Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization 
 
 **Yunkang Cao**, Xiaohao Xu, Zhaoge Liu, Weiming Shen
 
-IEEE Transactions on Industrial Informatics, Major Revision
+IEEE Transactions on Industrial Informatics
 
 </div>
+</div>
 
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB</div><img src='./images/TCYB-2022-09.png' alt="sym" width="100%"></div></div>
-
 <div class='paper-box-text' markdown="1">
 
 ## Open-set Supervised Anomaly Localization via Union Discrepancy Learners
@@ -92,6 +90,17 @@ IEEE Transactions on Cybernetics, Under Review
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/MaskedTeacher.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## A Masked Reverse Knowledge Distillation Method for Anomaly Detection
+
+Yuxin Jiang, **Yunkang Cao**, Weiming Shen
+
+Knowledge-based Systems, Under Review
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">To be submitted to PR</div><img src='./images/VIDF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -106,17 +115,6 @@ IEEE Transactions on Cybernetics, Under Review
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">To be submitted to TII</div><img src='./images/MaskedTeacher.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## A Masked Reverse Knowledge Distillation Method for Anomaly Detection
-
-Yuxin Jiang, **Yunkang Cao**, Weiming Shen
-
-**To be submitted** to IEEE Transactions on Industrial Informatics.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/KBS-2022-8.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
