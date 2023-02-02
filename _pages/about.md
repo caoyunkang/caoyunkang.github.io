@@ -73,6 +73,15 @@ Knowledge-based Systems
 
 IEEE Transactions on Industrial Informatics
 
+<div class="extra-links">
+    <a class="_blank" href="https://ieeexplore.ieee.org/document/10034849" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    <a class="_blank" href="https://github.com/caoyunkang/CDO">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
 </div>
 </div>
 
