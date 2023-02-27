@@ -196,6 +196,16 @@ IEEE International Conference on Computer Supported Cooperative Work in Design 2
 </div>
 </div>
 
+# 💻 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='./images/RobotDet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Multi-View Industrial Inspection with Robot Arms
+
+Robot assisted Industrial inspection for workpieces with curved and reflective surfaces (e.g. [VR glasses](../images/VR.png), Car's steering wheel covers)
+</div>
+</div>
 
 # 🥇 Selected Awards
 
