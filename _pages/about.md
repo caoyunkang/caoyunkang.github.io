@@ -17,20 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Yunkang CAO (曹云康), a Ph.D. candidate from [Huazhong University of Science and Technology \(HUST\)](http://english.hust.edu.cn) 
-advised by [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). 
-Before this, I received my bachelor degree in Huazhong University of Science & Technology, majoring in Mechanical Design, Manufacture & Automation.
+Greetings! My name is Yunkang CAO (曹云康) and I am a Ph.D. candidate at [Huazhong University of Science and Technology \(HUST\)](http://english.hust.edu.cn)
+under the supervision of [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). 
+I have a bachelor's degree in Mechanical Design, Manufacture & Automation from the same university.
 
-I am interested in **Deep Learning** and **Computer Vision**. 
-Currently, my research mainly focuses on **2D and 3D Anomaly Detection**, especially their application in the **industrial inspection field**, 
-and their promising applications for the safety of future **Autonomous Driving**.
+My research interests are **Deep Learning** and **Computer Vision**, with a focus on **2D and 3D Anomaly Detection**. I apply
+these techniques to **Industrial Inspection** problems and work on **Robotized Intelligent Manufacturing** to explore fast and accurate quality inspection for large-scale multi-view objects.
+In addition, I am also intested in exploring their potential for enhancing **Medical Diagnosis** or **Autonomous Driving safety**.
 
-[comment]: <> (I am also trying to combine deep learning with robotics. )
-
-[comment]: <> (We are working on **Robotized Intelligent Manufacturing** to explore fast and accurate quality inspection for large-scale multi-view objects.)
-
-**I plan to pursue a visiting doctoral student position in the next year (2023) supported by funding from CSC (China Scholarship Council). 
-Please feel free to contact me if you are interested in my research.**
+**I am looking for a visiting doctoral student position in 2023 with funding from CSC (China Scholarship Council). 
+If you are interested in my research, please do not hesitate to contact me.**
 
 # 🔥 News
 - *2023.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TII.
