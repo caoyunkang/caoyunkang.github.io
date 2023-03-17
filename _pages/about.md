@@ -107,7 +107,7 @@ Knowledge-based Systems, Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='./images/CPMF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='./images/CPMF.tif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection
