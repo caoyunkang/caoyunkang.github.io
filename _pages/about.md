@@ -107,14 +107,14 @@ Knowledge-based Systems, Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">To be submitted to PR</div><img src='./images/VIDF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='./images/CPMF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## VIDF: Viewpoint-Invariant Deep Feature for Point Cloud Anomaly Detection
+## Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection
 
-**Yunkang Cao**, Weiming Shen
+**Yunkang Cao**, Xiaohao Xu, Weiming Shen
 
-**To be submitted** to Pattern Recognition.
+Pattern Recognition, Under Review
 
 </div>
 </div>
