@@ -116,6 +116,15 @@ Knowledge-based Systems, Under Review
 
 Pattern Recognition, Under Review
 
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/ftp/arxiv/papers/2303/2303.13194.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    <a class="_blank" href="https://github.com/caoyunkang/CPMF">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
 </div>
 </div>
 
