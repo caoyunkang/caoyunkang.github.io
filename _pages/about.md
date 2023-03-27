@@ -29,6 +29,15 @@ In addition, I am also intested in exploring their potential for enhancing **Med
 If you are interested in my research, please do not hesitate to contact me.**
 
 # 🔥 News
+- *2023.03*: &nbsp;🎉🎉 We published a new paper related to point cloud anomaly detection, Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection. 
+  <div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/ftp/arxiv/papers/2303/2303.13194.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    <a class="_blank" href="https://github.com/caoyunkang/CPMF">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+  </div>
 - *2023.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TII.
 - *2022.10*: &nbsp;🎉🎉 We receive a major revision for the paper submitted to IEEE TII.
 - *2022.09*: &nbsp;🎉🎉 One paper is accepted by Knowledge-based Systems.
