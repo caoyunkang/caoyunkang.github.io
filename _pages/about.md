@@ -23,12 +23,12 @@ I have a bachelor's degree in Mechanical Design, Manufacture & Automation from t
 
 My research interests are **Deep Learning** and **Computer Vision**, with a focus on **2D and 3D Anomaly Detection**. I apply
 these techniques to **Industrial Inspection** problems and work on **Robotized Intelligent Manufacturing** to explore fast and accurate quality inspection for large-scale multi-view objects.
-In addition, I am also intested in exploring their potential for enhancing **Medical Diagnosis** or **Autonomous Driving safety**.
 
 **I am looking for a visiting doctoral student position in 2023 with funding from CSC (China Scholarship Council). 
 If you are interested in my research, please do not hesitate to contact me.**
 
 # 🔥 News
+- *2023.05*: &nbsp;🎉🎉 We receive a major revision for the paper submitted to KBS.
 - *2023.04*: &nbsp;🎉🎉 We built a project addressing [zero-shot anomaly detection](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection).
   We develop this interesting demo by combining Grounding DINO and Segment Anything!
 - *2023.03*: &nbsp;🎉🎉 We published a new paper related to point cloud anomaly detection, Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection. 
@@ -113,7 +113,7 @@ IEEE Transactions on Cybernetics, Under Review
 
 Yuxin Jiang, **Yunkang Cao**, Weiming Shen
 
-Knowledge-based Systems, Under Review
+Knowledge-based Systems, Major Revision
 
 </div>
 </div>
