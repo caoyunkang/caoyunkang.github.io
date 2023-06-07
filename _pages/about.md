@@ -29,25 +29,16 @@ If you are interested in my research, please do not hesitate to contact me.**
 
 # 🔥 News
 - *2023.06*: &nbsp;🎉🎉 We won the 2nd place in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge).
-- *2023.05*: &nbsp;🎉🎉 We released [Segment Any Anomaly without Training via Hybrid Prompt Regularization](http://arxiv.org/abs/2305.10724).
+- *2023.05*: &nbsp;🎉🎉 We released [Segment Any Anomaly without Training via Hybrid Prompt Regularization](http://arxiv.org/abs/2305.10724) for zero-shot anomaly segmentation.
 - *2023.05*: &nbsp;🎉🎉 Our paper addressed high-resolution image anomaly detection [High-Resolution Image Anomaly Detection via Spatiotemporal Consistency Incorporated Knowledge Distillation]() has been accepted by IEEE CASE 2023.
 - *2023.04*: &nbsp;🎉🎉 We built a project addressing [zero-shot anomaly detection](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection).
-- *2023.03*: &nbsp;🎉🎉 We published a new paper related to point cloud anomaly detection, Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection. 
-  <div class="extra-links">
-    <a class="_blank" href="https://arxiv.org/ftp/arxiv/papers/2303/2303.13194.pdf" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-    <a class="_blank" href="https://github.com/caoyunkang/CPMF">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-  </div>
-- *2023.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TII.
-- *2022.10*: &nbsp;🎉🎉 We receive a major revision for the paper submitted to IEEE TII.
+- *2023.03*: &nbsp;🎉🎉 We released [Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection](https://arxiv.org/abs/2303.13194) for point cloud anomaly detection.
+- *2023.01*: &nbsp;🎉🎉 [Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization](https://ieeexplore.ieee.org/document/10034849) is accepted by IEEE TII.
 - *2022.09*: &nbsp;🎉🎉 One paper is accepted by Knowledge-based Systems.
 - *2022.05*: &nbsp;🎉🎉 One paper is accepted by IEEE CASE 2022.
 - *2022.05*: &nbsp;🎉🎉 We get **The Mathematical Modeling Stars Nomination** in the 18th China Post-graduate Mathematical Contest.
 - *2022.03*: &nbsp;🎉🎉 Two papers are accepted by IEEE CSCWD 2022.
-- *2022.03*: &nbsp;🎉🎉 One paper is accepted by Knowledge-based System.
+- *2022.03*: &nbsp;🎉🎉 [Informative Knowledge Distillation for image anomaly detection](https://www.sciencedirect.com/science/article/pii/S0950705122004038) is accepted by Knowledge-based System.
 
 
 # 📝 Publications 
