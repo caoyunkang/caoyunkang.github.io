@@ -30,6 +30,7 @@ If you are interested in my research, please do not hesitate to contact me.**
 # 🔥 News
 - *2023.06*: &nbsp;🎉🎉 We won the 2nd place in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge).
 - *2023.05*: &nbsp;🎉🎉 We released [Segment Any Anomaly without Training via Hybrid Prompt Regularization](http://arxiv.org/abs/2305.10724).
+- *2023.05*: &nbsp;🎉🎉 Our paper addressed high-resolution image anomaly detection [High-Resolution Image Anomaly Detection via Spatiotemporal Consistency Incorporated Knowledge Distillation]() has been accepted by IEEE CASE 2023.
 - *2023.04*: &nbsp;🎉🎉 We built a project addressing [zero-shot anomaly detection](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection).
 - *2023.03*: &nbsp;🎉🎉 We published a new paper related to point cloud anomaly detection, Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection. 
   <div class="extra-links">
