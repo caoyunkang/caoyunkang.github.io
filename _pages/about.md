@@ -28,9 +28,9 @@ these techniques to **Industrial Inspection** problems and work on **Robotized I
 If you are interested in my research, please do not hesitate to contact me.**
 
 # 🔥 News
-- *2023.05*: &nbsp;🎉🎉 We receive a major revision for the paper submitted to KBS.
+- *2023.06*: &nbsp;🎉🎉 We won the 2nd place in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge).
+- *2023.05*: &nbsp;🎉🎉 We released [Segment Any Anomaly without Training via Hybrid Prompt Regularization](http://arxiv.org/abs/2305.10724).
 - *2023.04*: &nbsp;🎉🎉 We built a project addressing [zero-shot anomaly detection](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection).
-  We develop this interesting demo by combining Grounding DINO and Segment Anything!
 - *2023.03*: &nbsp;🎉🎉 We published a new paper related to point cloud anomaly detection, Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection. 
   <div class="extra-links">
     <a class="_blank" href="https://arxiv.org/ftp/arxiv/papers/2303/2303.13194.pdf" >
