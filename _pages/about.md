@@ -17,28 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings! My name is Yunkang CAO (曹云康) and I am a Ph.D. candidate at [Huazhong University of Science and Technology \(HUST\)](http://english.hust.edu.cn)
-under the supervision of [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). 
-I have a bachelor's degree in Mechanical Design, Manufacture & Automation from the same university.
+Hello! I'm Yunkang CAO (曹云康), a Ph.D. candidate at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn), where I'm fortunate to be working under the guidance of [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). I hold a bachelor's degree in Mechanical Design, Manufacture & Automation, also from HUST.
 
-My research interests are **Deep Learning** and **Computer Vision**, with a focus on **2D and 3D Anomaly Detection**. I apply
-these techniques to **Industrial Inspection** problems and work on **Robotized Intelligent Manufacturing** to explore fast and accurate quality inspection for large-scale multi-view objects.
+My academic interests revolve around **Deep Learning** and **Computer Vision**, with a specific focus on **Multi-modal Anomaly Detection**. Lately, my research has been centered on the application of foundational models like vision-language models in anomaly detection tasks, alongside my exploration of **Zero/Few-shot Anomaly Detection**.
 
-**I am looking for a visiting doctoral student position in 2023 with funding from CSC (China Scholarship Council). 
-If you are interested in my research, please do not hesitate to contact me.**
+I leverage these techniques to address challenges within the domain of **Industrial Inspection**, where my work is concentrated on advancing **Robotized Intelligent Manufacturing**. The primary goal is to develop swift and precise quality inspection solutions for large-scale multi-view objects.
+
+If you find my research intriguing, please don't hesitate to get in touch with me. I welcome any inquiries or discussions regarding my work! 😊
 
 # 🔥 News
+- *2023.09*: &nbsp;🎉🎉 Our paper addressed [Unsupervised Image Anomaly Detection]() is accepted by Knowledge-based Systems.
 - *2023.06*: &nbsp;🎉🎉 We won the 2nd place in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge).
-- *2023.05*: &nbsp;🎉🎉 We released [Segment Any Anomaly without Training via Hybrid Prompt Regularization](http://arxiv.org/abs/2305.10724) for zero-shot anomaly segmentation.
-- *2023.05*: &nbsp;🎉🎉 Our paper addressed high-resolution image anomaly detection [High-Resolution Image Anomaly Detection via Spatiotemporal Consistency Incorporated Knowledge Distillation]() has been accepted by IEEE CASE 2023.
-- *2023.04*: &nbsp;🎉🎉 We built a project addressing [zero-shot anomaly detection](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection).
+- *2023.05*: &nbsp;🎉🎉 We released **Segment Any Anomaly without Training via Hybrid Prompt Regularization** [(Paper)]((http://arxiv.org/abs/2305.10724)) [(Code)](https://github.com/caoyunkang/Segment-Any-Anomaly) for zero-shot anomaly segmentation.
+- *2023.05*: &nbsp;🎉🎉 Our paper addressed [High-Resolution Image Anomaly Detection]() has been accepted by IEEE CASE 2023.
 - *2023.03*: &nbsp;🎉🎉 We released [Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection](https://arxiv.org/abs/2303.13194) for point cloud anomaly detection.
-- *2023.01*: &nbsp;🎉🎉 [Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization](https://ieeexplore.ieee.org/document/10034849) is accepted by IEEE TII.
+- *2023.01*: &nbsp;🎉🎉 Our paper addressed [Unsupervised Image Anomaly Detection](https://ieeexplore.ieee.org/document/10034849) is accepted by IEEE TII.
 - *2022.09*: &nbsp;🎉🎉 One paper is accepted by Knowledge-based Systems.
 - *2022.05*: &nbsp;🎉🎉 One paper is accepted by IEEE CASE 2022.
 - *2022.05*: &nbsp;🎉🎉 We get **The Mathematical Modeling Stars Nomination** in the 18th China Post-graduate Mathematical Contest.
 - *2022.03*: &nbsp;🎉🎉 Two papers are accepted by IEEE CSCWD 2022.
-- *2022.03*: &nbsp;🎉🎉 [Informative Knowledge Distillation for image anomaly detection](https://www.sciencedirect.com/science/article/pii/S0950705122004038) is accepted by Knowledge-based System.
+- *2022.03*: &nbsp;🎉🎉 Our paper addressed [Unsupervised Image Anomaly Detection](https://www.sciencedirect.com/science/article/pii/S0950705122004038) is accepted by Knowledge-based Systems.
 
 
 # 📝 Publications 
@@ -101,11 +99,11 @@ IEEE Transactions on Cybernetics, Under Review
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/MaskedTeacher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## A Masked Reverse Knowledge Distillation Method for Anomaly Detection
+## A Masked Reverse Knowledge Distillation Method Incorporating Global and Local Information for Image Anomaly Detection
 
 Yuxin Jiang, **Yunkang Cao**, Weiming Shen
 
-Knowledge-based Systems, Major Revision
+Knowledge-based Systems
 
 </div>
 </div>
@@ -147,6 +145,28 @@ Knowledge-based Systems
         <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
     </a>
 </div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CASE 2023</div><img src='./images/CASE2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## High-Resolution Image Anomaly Detection via Spatiotemporal Consistency Incorporated Knowledge Distillation
+
+**Yunkang Cao**, Yiheng Zhang, Weiming Shen
+
+IEEE International Conference on Automation Science and Engineering 2023 (IEEE CASE 2023)
+
+[comment]: <> (<div class="extra-links">)
+
+[comment]: <> (    <a class="_blank" href="https://ieeexplore.ieee.org/document/9776026" >)
+
+[comment]: <> (        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper)
+
+[comment]: <> (    </a>)
+
+[comment]: <> (</div>)
+
 </div>
 </div>
 
@@ -216,7 +236,7 @@ Robot assisted Industrial inspection for workpieces with curved and reflective s
 </div>
 
 # 🥇 Selected Awards
-
+- **2nd place** in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge)
 - First-class Scholarship for Postgraduates, HUST, 2020.09, 2021.09, 2022.09
 - Student Award for Research and Innovation, 2022.05
 - **Mathematical Modeling Stars Nomination (TOP 2)** in the 18th China Post-graduate Mathematical Contest, 2022.05
