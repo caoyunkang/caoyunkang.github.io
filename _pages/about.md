@@ -105,6 +105,12 @@ Yuxin Jiang, **Yunkang Cao**, Weiming Shen
 
 Knowledge-based Systems
 
+<div class="extra-links">
+    <a class="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705123007323" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
 </div>
 </div>
 
@@ -236,7 +242,7 @@ Robot assisted Industrial inspection for workpieces with curved and reflective s
 </div>
 
 # 🥇 Selected Awards
-- **2nd place** in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge)
+- **2nd place**17 in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge)
 - First-class Scholarship for Postgraduates, HUST, 2020.09, 2021.09, 2022.09
 - Student Award for Research and Innovation, 2022.05
 - **Mathematical Modeling Stars Nomination (TOP 2)** in the 18th China Post-graduate Mathematical Contest, 2022.05
