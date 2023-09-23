@@ -41,60 +41,7 @@ If you find my research intriguing, please don't hesitate to get in touch with m
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/KBS-2022-3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-## Informative Knowledge Distillation for image anomaly detection
-
-**Yunkang Cao**, Qian Wan, Weiming Shen and Liang Gao
-
-Knowledge-based Systems
-
-<div class="extra-links">
-    <a class="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705122004038" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-    <a class="_blank" href="https://github.com/caoyunkang/IKD">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='./images/TII-CDO-2023-01.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization 
-
-**Yunkang Cao**, Xiaohao Xu, Zhaoge Liu, Weiming Shen
-
-IEEE Transactions on Industrial Informatics
-
-<div class="extra-links">
-    <a class="_blank" href="https://ieeexplore.ieee.org/document/10034849" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-    <a class="_blank" href="https://github.com/caoyunkang/CDO">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB</div><img src='./images/TCYB-2022-09.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Open-set Supervised Anomaly Localization via Union Discrepancy Learners
-
-**Yunkang Cao**, Xiaohao Xu, Weiming Shen
-
-IEEE Transactions on Cybernetics, Under Review
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/MaskedTeacher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -136,21 +83,15 @@ Pattern Recognition, Under Review
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/KBS-2022-8.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB</div><img src='./images/TCYB-2022-09.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## GON: End-to-end Optimization Framework for Constraint Graph Optimization Problems
+## Open-set Supervised Anomaly Localization via Union Discrepancy Learners
 
-Chuan Liu, Jingwei Wang, **Yunkang Cao**, Min Liu, Weiming Shen
+**Yunkang Cao**, Xiaohao Xu, Weiming Shen
 
-Knowledge-based Systems
+IEEE Transactions on Cybernetics, Under Review
 
-<div class="extra-links">
-    <a class="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705122008590" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-</div>
 </div>
 </div>
 
@@ -175,6 +116,68 @@ IEEE International Conference on Automation Science and Engineering 2023 (IEEE C
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='./images/TII-CDO-2023-01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization 
+
+**Yunkang Cao**, Xiaohao Xu, Zhaoge Liu, Weiming Shen
+
+IEEE Transactions on Industrial Informatics
+
+<div class="extra-links">
+    <a class="_blank" href="https://ieeexplore.ieee.org/document/10034849" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    <a class="_blank" href="https://github.com/caoyunkang/CDO">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/KBS-2022-3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Informative Knowledge Distillation for image anomaly detection
+
+**Yunkang Cao**, Qian Wan, Weiming Shen and Liang Gao
+
+Knowledge-based Systems
+
+<div class="extra-links">
+    <a class="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705122004038" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    <a class="_blank" href="https://github.com/caoyunkang/IKD">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/KBS-2022-8.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## GON: End-to-end Optimization Framework for Constraint Graph Optimization Problems
+
+Chuan Liu, Jingwei Wang, **Yunkang Cao**, Min Liu, Weiming Shen
+
+Knowledge-based Systems
+
+<div class="extra-links">
+    <a class="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705122008590" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCWD 2022</div><img src='./images/CSCWD2022-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -242,7 +245,7 @@ Robot assisted Industrial inspection for workpieces with curved and reflective s
 </div>
 
 # 🥇 Selected Awards
-- **2nd place**17 in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge)
+- **2nd place** in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge)
 - First-class Scholarship for Postgraduates, HUST, 2020.09, 2021.09, 2022.09
 - Student Award for Research and Innovation, 2022.05
 - **Mathematical Modeling Stars Nomination (TOP 2)** in the 18th China Post-graduate Mathematical Contest, 2022.05
