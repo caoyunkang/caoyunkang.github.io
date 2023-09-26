@@ -48,7 +48,7 @@ If you find my research intriguing, please don't hesitate to get in touch with m
 
 ## A Masked Reverse Knowledge Distillation Method Incorporating Global and Local Information for Image Anomaly Detection
 
-Yuxin Jiang, **Yunkang Cao**, Weiming Shen
+Yuxin Jiang, **Yunkang Cao**, Weiming Shen*
 
 Knowledge-based Systems
 
@@ -61,12 +61,32 @@ Knowledge-based Systems
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='./images/SAA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Segment Any Anomaly without Training via Hybrid Prompt Regularization
+
+**Yunkang Cao**, Xiaohao Xu, Chen Sun, Yuqi Cheng, Zongwei Du, Liang Gao, and Weiming Shen*
+
+<div class="extra-links">
+    <a class="_blank" href="http://arxiv.org/abs/2305.10724" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    <a class="_blank" href="https://github.com/caoyunkang/Segment-Any-Anomaly">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='./images/CPMF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection
 
-**Yunkang Cao**, Xiaohao Xu, Weiming Shen
+**Yunkang Cao**, Xiaohao Xu, Weiming Shen*
 
 Pattern Recognition, Under Review
 
@@ -83,14 +103,14 @@ Pattern Recognition, Under Review
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB</div><img src='./images/TCYB-2022-09.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB</div><img src='./images/TSMC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Open-set Supervised Anomaly Localization via Union Discrepancy Learners
+## BiaS: Incorporating Biased Knowledge to Boost Unsupervised Image Anomaly Localization
 
-**Yunkang Cao**, Xiaohao Xu, Weiming Shen
+**Yunkang Cao**, Xiaohao Xu, Chen Sun, Liang Gao, and Weiming Shen*
 
-IEEE Transactions on Cybernetics, Under Review
+IEEE Transactions on Systems, Man, and Cybernetics: Systems, Major Revision
 
 </div>
 </div>
@@ -100,7 +120,7 @@ IEEE Transactions on Cybernetics, Under Review
 
 ## High-Resolution Image Anomaly Detection via Spatiotemporal Consistency Incorporated Knowledge Distillation
 
-**Yunkang Cao**, Yiheng Zhang, Weiming Shen
+**Yunkang Cao**, Yiheng Zhang, Weiming Shen*
 
 IEEE International Conference on Automation Science and Engineering 2023 (IEEE CASE 2023)
 
@@ -122,7 +142,7 @@ IEEE International Conference on Automation Science and Engineering 2023 (IEEE C
 
 ## Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization 
 
-**Yunkang Cao**, Xiaohao Xu, Zhaoge Liu, Weiming Shen
+**Yunkang Cao**, Xiaohao Xu, Zhaoge Liu, Weiming Shen*
 
 IEEE Transactions on Industrial Informatics
 
@@ -143,7 +163,7 @@ IEEE Transactions on Industrial Informatics
 
 ## Informative Knowledge Distillation for image anomaly detection
 
-**Yunkang Cao**, Qian Wan, Weiming Shen and Liang Gao
+**Yunkang Cao**, Qian Wan, Weiming Shen* and Liang Gao
 
 Knowledge-based Systems
 
@@ -165,7 +185,7 @@ Knowledge-based Systems
 
 ## GON: End-to-end Optimization Framework for Constraint Graph Optimization Problems
 
-Chuan Liu, Jingwei Wang, **Yunkang Cao**, Min Liu, Weiming Shen
+Chuan Liu, Jingwei Wang, **Yunkang Cao**, Min Liu, Weiming Shen*
 
 Knowledge-based Systems
 
@@ -184,7 +204,7 @@ Knowledge-based Systems
 
 ## Semi-supervised Knowledge Distillation for Tiny Defect Detection
 
-**Yunkang Cao**, Yanan Song, Xiaohao Xu, Shuya Li, Yuhao Yu, Yiheng Zhang, Weiming Shen
+**Yunkang Cao**, Yanan Song, Xiaohao Xu, Shuya Li, Yuhao Yu, Yiheng Zhang, Weiming Shen*
 
 IEEE International Conference on Computer Supported Cooperative Work in Design 2022 (IEEE CSCWD 2022)
 
@@ -201,7 +221,7 @@ IEEE International Conference on Computer Supported Cooperative Work in Design 2
 
 ## Position Encoding Enhanced Feature Mapping for Image Anomaly Detection
 
-Qian Wan, **Yunkang Cao**, Liang Gao, Weiming Shen, Xinyu Li
+Qian Wan, **Yunkang Cao**, Liang Gao, Weiming Shen, Xinyu Li*
 
 IEEE International Conference on Automation Science and Engineering 2022 (IEEE CASE 2022)
 
@@ -221,7 +241,7 @@ IEEE International Conference on Automation Science and Engineering 2022 (IEEE C
 
 ## An Outlier-Aware Method for UWB Indoor Positioning in NLoS Situations
 
-Chuan Liu, **Yunkang Cao**, Chen Sun, Weiming Shen, Xinyu Li and Liang Gao
+Chuan Liu, **Yunkang Cao**, Chen Sun, Weiming Shen*, Xinyu Li and Liang Gao
 
 IEEE International Conference on Computer Supported Cooperative Work in Design 2022 (IEEE CSCWD 2022)
 
