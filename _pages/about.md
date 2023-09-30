@@ -120,19 +120,18 @@ IEEE Transactions on Systems, Man, and Cybernetics: Systems, Major Revision
 
 ## High-Resolution Image Anomaly Detection via Spatiotemporal Consistency Incorporated Knowledge Distillation
 
+
 **Yunkang Cao**, Yiheng Zhang, Weiming Shen*
 
 IEEE International Conference on Automation Science and Engineering 2023 (IEEE CASE 2023)
-
-[comment]: <> (<div class="extra-links">)
-
-[comment]: <> (    <a class="_blank" href="https://ieeexplore.ieee.org/document/9776026" >)
-
-[comment]: <> (        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper)
-
-[comment]: <> (    </a>)
-
-[comment]: <> (</div>)
+<div class="extra-links">
+    <a class="_blank" href="https://ieeexplore.ieee.org/abstract/document/10260338" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    <a class="_blank" href="">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
 
 </div>
 </div>
