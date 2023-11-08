@@ -26,10 +26,12 @@ I leverage these techniques to address challenges within the domain of **Industr
 If you find my research intriguing, please don't hesitate to get in touch with me. I welcome any inquiries or discussions regarding my work! 😊
 
 # 🔥 News
-- *2023.09*: &nbsp;🎉🎉 Our paper addressed [Unsupervised Image Anomaly Detection]() is accepted by Knowledge-based Systems.
+- *2023.011*: &nbsp;🎉🎉 We released [Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead](https://arxiv.org/abs/2311.02782)
+  [(Code)](https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection), the first comprehensive evaluation on GPT-4V for generic anomaly detection.
+- *2023.09*: &nbsp;🎉🎉 Our paper addressed [Unsupervised Image Anomaly Detection](https://www.sciencedirect.com/science/article/abs/pii/S0950705123007323) is accepted by Knowledge-based Systems.
 - *2023.06*: &nbsp;🎉🎉 We won the 2nd place in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge).
 - *2023.05*: &nbsp;🎉🎉 We released **Segment Any Anomaly without Training via Hybrid Prompt Regularization** [(Paper)]((http://arxiv.org/abs/2305.10724)) [(Code)](https://github.com/caoyunkang/Segment-Any-Anomaly) for zero-shot anomaly segmentation.
-- *2023.05*: &nbsp;🎉🎉 Our paper addressed [High-Resolution Image Anomaly Detection]() has been accepted by IEEE CASE 2023.
+- *2023.05*: &nbsp;🎉🎉 Our paper addressed [High-Resolution Image Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10260338) has been accepted by IEEE CASE 2023.
 - *2023.03*: &nbsp;🎉🎉 We released [Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection](https://arxiv.org/abs/2303.13194) for point cloud anomaly detection.
 - *2023.01*: &nbsp;🎉🎉 Our paper addressed [Unsupervised Image Anomaly Detection](https://ieeexplore.ieee.org/document/10034849) is accepted by IEEE TII.
 - *2022.09*: &nbsp;🎉🎉 One paper is accepted by Knowledge-based Systems.
@@ -41,7 +43,24 @@ If you find my research intriguing, please don't hesitate to get in touch with m
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='./images/generic-ad.png.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+## Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead
+
+**Yunkang Cao***, Xiaohao Xu*, Chen Sun*, Xiaonan Huang, Weiming Shen.
+
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/abs/2311.02782" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+    <a class="_blank" href="https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/MaskedTeacher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
