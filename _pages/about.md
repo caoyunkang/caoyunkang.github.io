@@ -26,7 +26,7 @@ I leverage these techniques to address challenges within the domain of **Industr
 If you find my research intriguing, please don't hesitate to get in touch with me. I welcome any inquiries or discussions regarding my work! 😊
 
 # 🔥 News
-- *2023.011*: &nbsp;🎉🎉 We released [Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead](https://arxiv.org/abs/2311.02782)
+- *2023.11*: &nbsp;🎉🎉 We released [Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead](https://arxiv.org/abs/2311.02782)
   [(Code)](https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection), the first comprehensive evaluation on GPT-4V for generic anomaly detection.
 - *2023.09*: &nbsp;🎉🎉 Our paper addressed [Unsupervised Image Anomaly Detection](https://www.sciencedirect.com/science/article/abs/pii/S0950705123007323) is accepted by Knowledge-based Systems.
 - *2023.06*: &nbsp;🎉🎉 We won the 2nd place in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge).
@@ -48,7 +48,7 @@ If you find my research intriguing, please don't hesitate to get in touch with m
 
 ## Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead
 
-**Yunkang Cao***, Xiaohao Xu*, Chen Sun*, Xiaonan Huang, Weiming Shen.
+**Yunkang Cao**, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen.
 
 <div class="extra-links">
     <a class="_blank" href="https://arxiv.org/abs/2311.02782" >
