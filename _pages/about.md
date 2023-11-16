@@ -48,7 +48,7 @@ If you find my research intriguing, please don't hesitate to get in touch with m
 
 ## Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead
 
-**Yunkang Cao**, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen.
+**Yunkang Cao**, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen*.
 
 <div class="extra-links">
     <a class="_blank" href="https://arxiv.org/abs/2311.02782" >
