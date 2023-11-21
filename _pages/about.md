@@ -299,8 +299,7 @@ Robot assisted Industrial inspection for workpieces with curved and reflective s
 - ### *2016.09 - 2020.06, Huazhong University of Science and Technology*
   ***B.S.*** in Mechanical Design, Manufacture & Automation &nbsp;&nbsp;&nbsp; 
   
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QltdrDBXR7cYztdXsLCBfSeruYl8EMVZ7i3zpSoGzP4&cl=ffffff&w=a"></script>
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=QltdrDBXR7cYztdXsLCBfSeruYl8EMVZ7i3zpSoGzP4&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
   <!-- Thesis: pass -->
 
 <!-- # 💬 Invited Talks
