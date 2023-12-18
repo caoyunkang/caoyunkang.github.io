@@ -26,6 +26,7 @@ I leverage these techniques to address challenges within the domain of **Industr
 If you find my research intriguing, please don't hesitate to get in touch with me. I welcome any inquiries or discussions regarding my work! 😊
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉🎉 Our paper addressed [Semi-supervised Image Anomaly Detection]() is accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 - *2023.11*: &nbsp;🎉🎉 We released [Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead](https://arxiv.org/abs/2311.02782)
   [(Code)](https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection), the first comprehensive evaluation on GPT-4V for generic anomaly detection.
 - *2023.09*: &nbsp;🎉🎉 Our paper addressed [Unsupervised Image Anomaly Detection](https://www.sciencedirect.com/science/article/abs/pii/S0950705123007323) is accepted by Knowledge-based Systems.
@@ -42,6 +43,18 @@ If you find my research intriguing, please don't hesitate to get in touch with m
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSMC</div><img src='./images/TSMC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## BiaS: Incorporating Biased Knowledge to Boost Unsupervised Image Anomaly Localization
+
+**Yunkang Cao**, Xiaohao Xu, Chen Sun, Liang Gao, and Weiming Shen*.
+
+IEEE Transactions on Systems, Man, and Cybernetics: Systems.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='./images/generic-ad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -122,23 +135,12 @@ Pattern Recognition, Under Review
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB</div><img src='./images/TSMC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-## BiaS: Incorporating Biased Knowledge to Boost Unsupervised Image Anomaly Localization
-
-**Yunkang Cao**, Xiaohao Xu, Chen Sun, Liang Gao, and Weiming Shen*
-
-IEEE Transactions on Systems, Man, and Cybernetics: Systems, Major Revision
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CASE 2023</div><img src='./images/CASE2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## High-Resolution Image Anomaly Detection via Spatiotemporal Consistency Incorporated Knowledge Distillation
-
 
 **Yunkang Cao**, Yiheng Zhang, Weiming Shen*
 
@@ -290,6 +292,10 @@ Robot assisted Industrial inspection for workpieces with curved and reflective s
 - Merit Postgraduate student, HUST, 2021.09
 - Excellent Graduates, HUST, 2019.06
 - National Scholarship (**the highest scholarship for B.E**), 2017.09, 2019.09
+
+# 💬 Invited Talks
+- *2023.11*, "Overview of Image Anomaly Detection—Review, Applications, and Future Prospects", Talk with Professor [Kevin Xu's](https://kevinkaixu.net/) group at the National University of Defense Technology.
+
 
 # 📖 Educations
 - ### *2020.09 - present, Huazhong University of Science and Technology*
