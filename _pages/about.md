@@ -26,6 +26,7 @@ I leverage these techniques to address challenges within the domain of **Industr
 If you find my research intriguing, please don't hesitate to get in touch with me. I welcome any inquiries or discussions regarding my work! 😊
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉🎉 Our paper addressed [Semi-supervised Image Anomaly Detection]() is accepted by IEEE Transactions on Instrumentation and Measurement.
 - *2023.12*: &nbsp;🎉🎉 Our paper addressed [Semi-supervised Image Anomaly Detection]() is accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 - *2023.11*: &nbsp;🎉🎉 We released [Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead](https://arxiv.org/abs/2311.02782)
   [(Code)](https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection), the first comprehensive evaluation on GPT-4V for generic anomaly detection.
