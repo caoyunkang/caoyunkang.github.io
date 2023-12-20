@@ -296,6 +296,9 @@ Robot assisted Industrial inspection for workpieces with curved and reflective s
 - Excellent Graduates, HUST, 2019.06
 - National Scholarship (**the highest scholarship for B.E**), 2017.09, 2019.09
 
+# 🎓📚 Academic Service 
+- *Reviewer*, CVPR, IEEE TII, IEEE TSMC, AAAI, ICRA, CASE, CSCWD
+
 # 💬 Invited Talks
 - *2023.11*, "Overview of Image Anomaly Detection—Review, Applications, and Future Prospects", Talk with Professor [Kevin Xu's](https://kevinkaixu.net/) group at the National University of Defense Technology.
 
