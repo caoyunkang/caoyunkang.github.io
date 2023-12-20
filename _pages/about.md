@@ -29,9 +29,11 @@ If you find my research intriguing, please don't hesitate to get in touch with m
 - *2023.12*: &nbsp;🎉🎉 Our paper addressed [Semi-supervised Image Anomaly Detection]() is accepted by IEEE Transactions on Instrumentation and Measurement.
 - *2023.12*: &nbsp;🎉🎉 Our paper addressed [Semi-supervised Image Anomaly Detection]() is accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 - *2023.11*: &nbsp;🎉🎉 We released [Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead](https://arxiv.org/abs/2311.02782)
-  [(Code)](https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection), the first comprehensive evaluation on GPT-4V for generic anomaly detection.
+  [(Code)](https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection), the first comprehensive evaluation on GPT-4V for generic anomaly detection. 
+  Press Coverage: [机器之心](https://mp.weixin.qq.com/s/2ABnyYBs1b0DRpyN-ocRIg).
 - *2023.09*: &nbsp;🎉🎉 Our paper addressed [Unsupervised Image Anomaly Detection](https://www.sciencedirect.com/science/article/abs/pii/S0950705123007323) is accepted by Knowledge-based Systems.
-- *2023.06*: &nbsp;🎉🎉 We won the 2nd place in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge).
+- *2023.06*: &nbsp;🎉🎉 We won the 2nd place in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge). 
+  Press Coverage: [华中科技大学](https://mp.weixin.qq.com/s/HJRslaPxo1RipTwom2mngQ), [我爱计算机视觉](https://mp.weixin.qq.com/s/_mJKn4o_U_VjEqlz7DXUFQ).
 - *2023.05*: &nbsp;🎉🎉 We released **Segment Any Anomaly without Training via Hybrid Prompt Regularization** [(Paper)]((http://arxiv.org/abs/2305.10724)) [(Code)](https://github.com/caoyunkang/Segment-Any-Anomaly) for zero-shot anomaly segmentation.
 - *2023.05*: &nbsp;🎉🎉 Our paper addressed [High-Resolution Image Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10260338) has been accepted by IEEE CASE 2023.
 - *2023.03*: &nbsp;🎉🎉 We released [Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection](https://arxiv.org/abs/2303.13194) for point cloud anomaly detection.
