@@ -26,7 +26,7 @@ I leverage these techniques to address challenges within the domain of **Industr
 If you find my research intriguing, please don't hesitate to get in touch with me. I welcome any inquiries or discussions regarding my work! 😊
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 Our paper addressed [Semi-supervised Image Anomaly Detection]() is accepted by IEEE Transactions on Instrumentation and Measurement.
+- *2023.12*: &nbsp;🎉🎉 Our paper addressed [Semi-supervised Image Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379172) is accepted by IEEE Transactions on Instrumentation and Measurement.
 - *2023.12*: &nbsp;🎉🎉 Our paper addressed [Semi-supervised Image Anomaly Detection]() is accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 - *2023.11*: &nbsp;🎉🎉 We released [Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead](https://arxiv.org/abs/2311.02782)
   [(Code)](https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection), the first comprehensive evaluation on GPT-4V for generic anomaly detection. 
@@ -46,6 +46,18 @@ If you find my research intriguing, please don't hesitate to get in touch with m
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='./images/DFC-TIM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Deep Feature Contrasting for Industrial Image Anomaly Segmentation
+
+Qian Wan, **Yunkang Cao**, Liang Gao, Xinyu Li*, Yiping Gao.
+
+IEEE Transactions on Instrumentation and Measurement.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSMC</div><img src='./images/TSMC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
