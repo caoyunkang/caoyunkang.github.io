@@ -31,7 +31,7 @@ If you find my research intriguing, please don't hesitate to get in touch with m
 
 # 🔥 News
 - *2023.12*: &nbsp;🎉🎉 Our paper addressed [Semi-supervised Image Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379172) is accepted by IEEE Transactions on Instrumentation and Measurement.
-- *2023.12*: &nbsp;🎉🎉 Our paper addressed [Semi-supervised Image Anomaly Detection]() is accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
+- *2023.12*: &nbsp;🎉🎉 Our paper addressed [Semi-supervised Image Anomaly Detection](https://ieeexplore.ieee.org/document/10402554/) is accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 - *2023.11*: &nbsp;🎉🎉 We released [Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead](https://arxiv.org/abs/2311.02782)
   [(Code)](https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection), the first comprehensive evaluation on GPT-4V for generic anomaly detection. 
   Press Coverage: [机器之心](https://mp.weixin.qq.com/s/2ABnyYBs1b0DRpyN-ocRIg).
@@ -60,6 +60,12 @@ Qian Wan, **Yunkang Cao**, Liang Gao, Xinyu Li*, Yiping Gao.
 
 IEEE Transactions on Instrumentation and Measurement.
 
+<div class="extra-links">
+    <a class="_blank" href="https://ieeexplore.ieee.org/document/10379172" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
 </div>
 </div>
 
@@ -71,6 +77,12 @@ IEEE Transactions on Instrumentation and Measurement.
 **Yunkang Cao**, Xiaohao Xu, Chen Sun, Liang Gao, and Weiming Shen*.
 
 IEEE Transactions on Systems, Man, and Cybernetics: Systems.
+
+<div class="extra-links">
+    <a class="_blank" href="https://ieeexplore.ieee.org/document/10402554" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
 
 </div>
 </div>
