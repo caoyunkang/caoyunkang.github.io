@@ -51,6 +51,24 @@ If you find my research intriguing, please don't hesitate to get in touch with m
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='./images/survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect
+
+**Yunkang Cao**, Xiaohao Xu, Jiangning Zhang, Yuqi Cheng, Xiaonan Huang, Guansong Pang, Weiming Shen.
+
+Submitted to IJCAI.
+
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/abs/2401.16402" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='./images/DFC-TIM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -325,7 +343,9 @@ Robot assisted Industrial inspection for workpieces with curved and reflective s
 - National Scholarship (**the highest scholarship for B.E**), 2017.09, 2019.09
 
 # 🎓📚 Academic Service 
-- *Reviewer*, CVPR, IEEE TII, IEEE TSMC, AAAI, ICRA, CASE, CSCWD
+- *Journal Reviewer*, IEEE TII, IEEE TSMC, IEEE TNNLS, IEEE TCSVT
+- *Conference Reviewer*, CVPR, AAAI, ICRA, CASE, CSCWD
+
 
 # 💬 Invited Talks
 - *2023.11*, "Overview of Image Anomaly Detection—Review, Applications, and Future Prospects", Talk with Professor [Kevin Xu's](https://kevinkaixu.net/) group at the National University of Defense Technology.
