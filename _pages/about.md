@@ -29,7 +29,10 @@ where my work is concentrated on advancing **Robotized Intelligent Manufacturing
 
 If you find my research intriguing, please don't hesitate to get in touch with me. I welcome any inquiries or discussions regarding my work! 😊
 
+Typically, I am open to any potential collaborations. Feel free to drop me an email if you are willing!
+
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 We are organizing a special session titled [Industrial Foundation Models and Applications in Smart Manufacturing (CODE: ypg7k)](https://2024.ieeecase.org/special-sessions/) in CASE 2024. We welcome contributions!
 - *2023.12*: &nbsp;🎉🎉 Our paper addressed [Semi-supervised Image Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379172) is accepted by IEEE Transactions on Instrumentation and Measurement.
 - *2023.12*: &nbsp;🎉🎉 Our paper addressed [Semi-supervised Image Anomaly Detection](https://ieeexplore.ieee.org/document/10402554/) is accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 - *2023.11*: &nbsp;🎉🎉 We released [Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead](https://arxiv.org/abs/2311.02782)
