@@ -346,8 +346,9 @@ Robot assisted Industrial inspection for workpieces with curved and reflective s
 - National Scholarship (**the highest scholarship for B.E**), 2017.09, 2019.09
 
 # 🎓📚 Academic Service 
-- *Journal Reviewer*, IEEE TII, IEEE TSMC, IEEE TNNLS, IEEE TCSVT
-- *Conference Reviewer*, CVPR, AAAI, ICRA, CASE, CSCWD
+- *Journal Reviewer*, IEEE Trans. Syst. Man Cybern. -Syst., IEEE Trans. Neural Netw. Learn. Syst., IEEE Trans. Ind. Inform., 
+  IEEE Trans. Circuits Syst. Video Technol., etc.
+- *Conference Reviewer*, CVPR, NeurIPS, AAAI, ICRA, etc.
 
 
 # 💬 Invited Talks
