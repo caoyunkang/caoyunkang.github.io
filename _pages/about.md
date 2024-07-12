@@ -29,9 +29,15 @@ where my work is concentrated on advancing **Robotized Intelligent Manufacturing
 
 If you find my research intriguing, please don't hesitate to get in touch with me. I welcome any inquiries or discussions regarding my work! 😊
 
-Typically, I am open to any potential collaborations. Feel free to drop me an email if you are willing!
+Recently, I have been looking for postdoctoral openings. If you have any opportunities or are interested in collaborating, please feel free to email me!
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 Our paper addressed [Knowledge Distillation](https://arxiv.org/pdf/2401.08332) is conditionally accepted by Knowledge-based Systems.
+- *2024.07*: &nbsp;🎉🎉 Our paper addressed [Few-shot Image Anomaly Detection](https://arxiv.org/pdf/2403.04151) is conditionally accepted by Knowledge-based Systems.
+- *2024.07*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://github.com/caoyunkang/AdaCLIP) is accepted by ECCV.
+- *2024.06*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Anomaly Detection](https://www.sciencedirect.com/science/article/pii/S0031320324005120) is accepted by Pattern Recognition.
+- *2024.05*: &nbsp;🎉🎉 Our paper addressed [Multi-class Image Anomaly Detection](https://ieeexplore.ieee.org/document/10574313) is accepted by IEEE TII.
+- *2024.05*: &nbsp;🎉🎉 Our papers addressed [Robust Image Anomaly Detection](https://arxiv.org/abs/2406.07176) and [Multi-Illumination Image Anomaly Detection](https://arxiv.org/abs/2406.04573) are accepted by IEEE CASE.
 - *2024.02*: &nbsp;🎉🎉 We are organizing a special session titled [Industrial Foundation Models and Applications in Smart Manufacturing (CODE: ypg7k)](https://2024.ieeecase.org/special-sessions/) in CASE 2024. We welcome contributions!
 - *2023.12*: &nbsp;🎉🎉 Our paper addressed [Semi-supervised Image Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379172) is accepted by IEEE Transactions on Instrumentation and Measurement.
 - *2023.12*: &nbsp;🎉🎉 Our paper addressed [Semi-supervised Image Anomaly Detection](https://ieeexplore.ieee.org/document/10402554/) is accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
@@ -54,287 +60,208 @@ Typically, I am open to any potential collaborations. Feel free to drop me an em
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='./images/survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<h2>
+  <a href="#First-Authored Peer-Reviewed Publications"><u>First-Authored Peer-Reviewed Publications</u></a>&nbsp; <br> 
+  <a href="#Other Peer-Reviewed Publications"><u>Other Peer-Reviewed Publications</u></a>&nbsp; <br> 
+  <a href="#First-Authored Manuscripts under Review"><u>First-Authored Manuscripts under Review</u></a>&nbsp; <br> 
+  <a href="#Other Manuscripts under Review"><u>Other Manuscripts under Review</u></a>&nbsp; <br>
+</h2>
+<span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
+
+
+<h2 id="First-Authored Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">First-Authored Peer-Reviewed Publications</h2>
+<ol reversed>
+  <li id="FA-Pub6"> 
+    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <br> 
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Jiangning Zhang, Luca Frittoli, Yuqi Cheng, Weiming Shen*, Giacomo Boracchi <br>
+    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
+  </li>
+  <li id="FA-Pub5"> 
+    Complementary pseudo multimodal feature for point cloud anomaly detection <a href="https://www.sciencedirect.com/science/article/pii/S0031320324005120">[Paper]</a> <a href="https://github.com/caoyunkang/CPMF">[Code]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Weiming Shen* <br>
+    <i>Pattern Recognition <strong>(PR).</strong></i> 2024.
+  </li>
+
+  <li id="FA-Pub4"> 
+    BiaS: Incorporating Biased Knowledge to Boost Unsupervised Image Anomaly Localization <a href="https://ieeexplore.ieee.org/document/10402554">[Paper]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Chen Sun, Liang Gao, Weiming Shen* <br>
+    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC).</strong></i> 2024.
+  </li>
+
+  <li id="FA-Pub3"> 
+    Collaborative discrepancy optimization for reliable image anomaly localization <a href="https://ieeexplore.ieee.org/document/10034849">[Paper]</a> <a href="https://github.com/caoyunkang/CDO">[Code]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Zhaoge Liu, Weiming Shen* <br>
+    <i>IEEE Transactions on Industrial Informatics <strong>(IEEE TII).</strong></i> 2023.
+  </li>
+
+  <li id="FA-Pub2"> 
+    High-Resolution Image Anomaly Detection via Spatiotemporal Consistency Incorporated Knowledge Distillation <a href="https://ieeexplore.ieee.org/abstract/document/10260338">[Paper]</a>  <br> 
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Yiheng Zhang, Weiming Shen* <br>
+    <i>IEEE International Conference on Automation Science and Engineering <strong>(IEEE CASE).</strong></i> 2023.
+  </li>
+
+  <li id="FA-Pub1"> 
+    Informative knowledge distillation for image anomaly segmentation <a href="https://www.sciencedirect.com/science/article/pii/S0950705122004038">[Paper]</a> <a href="https://github.com/caoyunkang/IKD">[Code]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Qian Wan, Weiming Shen*, Liang Gao <br>
+    <i>Knowledge-Based Systems <strong>(KBS).</strong></i> 2022.
+  </li>
+</ol>
+
+<h2 id="Other Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Other Peer-Reviewed Publications</h2>
+<ol reversed>
+
+  <li id="OT-Pub8"> 
+    Prior Normality Prompt Transformer for Multi-class Industrial Image Anomaly Detection <a href="https://ieeexplore.ieee.org/document/10574313">[Paper]</a> <br> 
+    Haiming Yao, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Wei Luo, Weihang Zhang, Wenyong Yu*, Weiming Shen <br>
+    <i>IEEE Transactions on Industrial Informatics <strong>(IEEE TII).</strong></i> 2024.
+  </li>
+
+  <li id="OT-Pub7"> 
+    Deep Feature Contrasting for Industrial Image Anomaly Segmentatio <a href="https://ieeexplore.ieee.org/document/10379172">[Paper]</a> <br> 
+    Qian Wan, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Liang Gao, Xinyu Li*, Yiping Gao <br>
+    <i>IEEE Transactions on Instrumentation and Measurement <strong>(IEEE TIM).</strong></i> 2024.
+  </li>
+
+  <li id="OT-Pub6"> 
+    Dual-path Frequency Discriminators for Few-shot Anomaly Detection <br> 
+    Yuhu Bai, Jiangning Zhang, Yuhang Dong, Guanzhong Tian*, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span> <br>
+    <i>Knowledge-Based Systems <strong>(KBS).</strong></i> 2024. (conditionally accepted)
+  </li>
+
+  <li id="OT-Pub5"> 
+    Generative Denoise Distillation: Simple Stochastic Noises Induce Efficient Knowledge Transfer for Dense Prediction <br> 
+    Zhaoge Liu, Xiaohao Xu, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Weiming Shen* <br>
+    <i>Knowledge-Based Systems <strong>(KBS).</strong></i> 2024. (conditionally accepted)
+  </li>
+
+  <li id="OT-Pub4"> 
+    RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection <a href="https://arxiv.org/abs/2406.07176">[Paper]</a>  <br> 
+    Yuqi Cheng, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Rui Chen, Weiming Shen* <br>
+    <i>IEEE International Conference on Automation Science and Engineering <strong>(IEEE CASE).</strong></i> 2024.
+  </li>
+
+  <li id="OT-Pub3"> 
+    Attention Fusion Reverse Distillation for Multi-Lighting Image Anomaly Detection <a href="https://arxiv.org/abs/2406.04573">[Paper]</a>  <br> 
+    Yiheng Zhang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Tianhang Zhang, Weiming Shen* <br>
+    <i>IEEE International Conference on Automation Science and Engineering <strong>(IEEE CASE).</strong></i> 2024.
+  </li>
+
+  <li id="OT-Pub2"> 
+    A masked reverse knowledge distillation method incorporating global and local information for image anomaly detection <a href="https://www.sciencedirect.com/science/article/pii/S0950705123007323">[Paper]</a> <a href="https://github.com/yuxin-jiang/MRKD">[Code]</a> <br>
+    Yuxin Jiang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Weiming Shen* <br>
+    <i>Knowledge-Based Systems <strong>(KBS).</strong></i> 2023.
+  </li>
+  <li id="OT-Pub1"> 
+    Position encoding enhanced feature mapping for image anomaly detection <a href="https://ieeexplore.ieee.org/abstract/document/9926547">[Paper]</a> <a href="https://github.com/caoyunkang/PFM-and-PEFM-for-Image-Anomaly-Detection-and-Segmentation">[Code]</a> <br>
+    Qian Wan, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Liang Gao, Weiming Shen, Xinyu Li* <br>
+    <i>IEEE International Conference on Automation Science and Engineering <strong>(IEEE CASE).</strong></i> 2022.
+  </li>
+</ol>
+
+
+<h2 id="First-Authored Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">First-Authored Manuscripts under Review</h2>
+<ol reversed>
+
+  <li id="FA-Manuscript5"> 
+    Segment any anomaly without training via hybrid prompt regularization <a href="https://arxiv.org/abs/2305.10724">[Paper]</a> <a href="https://github.com/caoyunkang/Segment-Any-Anomaly">[Code]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Chen Sun, Yuqi Cheng, Zongwei Du, Liang Gao, Weiming Shen* <br>
+    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (reject and resubmit)
+  </li>
+
+  <li id="FA-Manuscript4"> 
+    VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling <br> 
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Wei Luo, Weiming Shen* (under review) <br>
+
+[comment]: <> (    <i>IEEE Transactions on Industrial Informatics <strong>&#40;IEEE TII&#41;.</strong></i>. &#40;under review&#41;)
+  </li>
+
+  <li id="FA-Manuscript3"> 
+    A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect <a href="https://arxiv.org/abs/2401.16402">[Paper]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Jiangning Zhang, Yuqi Cheng, Xiaonan Huang, Guansong Pang, Weiming Shen* (under review) <br>
+
+[comment]: <> (    <i>IEEE Transactions on Industrial Informatics <strong>&#40;IEEE TII&#41;.</strong></i>. &#40;under review&#41;)
+  </li>
+
+  <li id="FA-Manuscript2"> 
+    Towards generic anomaly detection and understanding: Large-scale visual-linguistic model (gpt-4v) takes the lead <a href="https://arxiv.org/abs/2311.02782">[Paper]</a> <a href="https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection">[Code]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen* (under review) <br> 
+
+[comment]: <> (  <i>IEEE Transactions on Instrumentation and Measurement <strong>&#40;IEEE TIM&#41;.</strong></i> 2024.)
+  </li>
+
+  <li id="FA-Manuscript1"> 
+    Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework <br> 
+    Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
+    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (under review)
+  </li>
+</ol>
+
+<h2 id="Other Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Other Manuscripts under Review</h2>
+<ol reversed>
+
+  <li id="OT-Manuscript6"> 
+    Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection <br> 
+    Yuxin Jiang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Weiming Shen* <br>
+    <i>IEEE Transactions on Neural Networks and Learning Systems <strong>(IEEE TNNLS)</strong></i>. (reject and resubmit)
+  </li>
+
+  <li id="OT-Manuscript5"> 
+    CUT: A Controllable, Universal, and Training-Free Visual Anomaly Generation Framework <a href="https://arxiv.org/abs/2406.01078">[Paper]</a> <br> 
+    Han Sun, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Olga Fink* (under review) <br>
+
+[comment]: <> (    <i>Neural Information Processing Systems  <strong>&#40;NeurIPS&#41;.</strong></i>. &#40;under review&#41;)
+  </li>
+
+  <li id="OT-Manuscript4"> 
+    LogiCode: an LLM-Driven Framework for Logical Anomaly Detection <a href="https://arxiv.org/abs/2406.04687">[Paper]</a> <a href="https://github.com/22strongestme/LOCO-Annotations">[Code]</a> <br> 
+    Yiheng Zhang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Weiming Shen* <br>
+  <i>IEEE Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i>. (major revision)
+  </li>
+
+  <li id="OT-Manuscript3"> 
+    VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br> 
+    Yuxin Jiang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Yuqi Cheng, Yiheng Zhang, Weiming Shen* <br>
+    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (under review)
+  </li>
+
+  <li id="OT-Manuscript2"> 
+    Global-Regularized Neighborhood Regression for Efficient Zero-Shot Texture Anomaly Detection <br> 
+    Haiming Yao, Wei Luo, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Yiheng Zhang, Wenyong Yu*, Weiming Shen <br>
+    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i>. (under review)
+  </li>
+
+  <li id="OT-Manuscript1"> 
+    URA-Net: Uncertainty-Integrated Anomaly Perception and Restoration Attention Network for Unsupervised Anomaly Detection <br> 
+    Wei Luo, Peng Xing, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Weiming Shen, Zechao Li* (under review) <br>
+
+[comment]: <> (    <i>IEEE Transactions on Neural Networks and Learning Systems <strong>&#40;IEEE TNNLS&#41;.</strong></i>. )
+  </li>
+</ol>
 
-## A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect
-
-**Yunkang Cao**, Xiaohao Xu, Jiangning Zhang, Yuqi Cheng, Xiaonan Huang, Guansong Pang, Weiming Shen.
-
-Submitted to IJCAI.
-
-<div class="extra-links">
-    <a class="_blank" href="https://arxiv.org/abs/2401.16402" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-</div>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM</div><img src='./images/DFC-TIM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Deep Feature Contrasting for Industrial Image Anomaly Segmentation
-
-Qian Wan, **Yunkang Cao**, Liang Gao, Xinyu Li*, Yiping Gao.
-
-IEEE Transactions on Instrumentation and Measurement.
-
-<div class="extra-links">
-    <a class="_blank" href="https://ieeexplore.ieee.org/document/10379172" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-</div>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSMC</div><img src='./images/TSMC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## BiaS: Incorporating Biased Knowledge to Boost Unsupervised Image Anomaly Localization
-
-**Yunkang Cao**, Xiaohao Xu, Chen Sun, Liang Gao, and Weiming Shen*.
-
-IEEE Transactions on Systems, Man, and Cybernetics: Systems.
-
-<div class="extra-links">
-    <a class="_blank" href="https://ieeexplore.ieee.org/document/10402554" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-</div>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='./images/generic-ad.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead
-
-**Yunkang Cao**, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen*.
-
-<div class="extra-links">
-    <a class="_blank" href="https://arxiv.org/abs/2311.02782" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-    <a class="_blank" href="https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/MaskedTeacher.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## A Masked Reverse Knowledge Distillation Method Incorporating Global and Local Information for Image Anomaly Detection
-
-Yuxin Jiang, **Yunkang Cao**, Weiming Shen*
-
-Knowledge-based Systems
-
-<div class="extra-links">
-    <a class="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705123007323" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-</div>
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='./images/SAA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Segment Any Anomaly without Training via Hybrid Prompt Regularization
-
-**Yunkang Cao**, Xiaohao Xu, Chen Sun, Yuqi Cheng, Zongwei Du, Liang Gao, and Weiming Shen*
-
-<div class="extra-links">
-    <a class="_blank" href="http://arxiv.org/abs/2305.10724" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-    <a class="_blank" href="https://github.com/caoyunkang/Segment-Any-Anomaly">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='./images/CPMF.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection
-
-**Yunkang Cao**, Xiaohao Xu, Weiming Shen*
-
-Pattern Recognition, Under Review
-
-<div class="extra-links">
-    <a class="_blank" href="https://arxiv.org/ftp/arxiv/papers/2303/2303.13194.pdf" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-    <a class="_blank" href="https://github.com/caoyunkang/CPMF">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CASE 2023</div><img src='./images/CASE2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## High-Resolution Image Anomaly Detection via Spatiotemporal Consistency Incorporated Knowledge Distillation
-
-**Yunkang Cao**, Yiheng Zhang, Weiming Shen*
-
-IEEE International Conference on Automation Science and Engineering 2023 (IEEE CASE 2023)
-<div class="extra-links">
-    <a class="_blank" href="https://ieeexplore.ieee.org/abstract/document/10260338" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-    <a class="_blank" href="">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='./images/TII-CDO-2023-01.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization 
-
-**Yunkang Cao**, Xiaohao Xu, Zhaoge Liu, Weiming Shen*
-
-IEEE Transactions on Industrial Informatics
-
-<div class="extra-links">
-    <a class="_blank" href="https://ieeexplore.ieee.org/document/10034849" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-    <a class="_blank" href="https://github.com/caoyunkang/CDO">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/KBS-2022-3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Informative Knowledge Distillation for image anomaly detection
-
-**Yunkang Cao**, Qian Wan, Weiming Shen* and Liang Gao
-
-Knowledge-based Systems
-
-<div class="extra-links">
-    <a class="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705122004038" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-    <a class="_blank" href="https://github.com/caoyunkang/IKD">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS</div><img src='./images/KBS-2022-8.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## GON: End-to-end Optimization Framework for Constraint Graph Optimization Problems
-
-Chuan Liu, Jingwei Wang, **Yunkang Cao**, Min Liu, Weiming Shen*
-
-Knowledge-based Systems
-
-<div class="extra-links">
-    <a class="_blank" href="https://www.sciencedirect.com/science/article/pii/S0950705122008590" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-</div>
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCWD 2022</div><img src='./images/CSCWD2022-1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Semi-supervised Knowledge Distillation for Tiny Defect Detection
-
-**Yunkang Cao**, Yanan Song, Xiaohao Xu, Shuya Li, Yuhao Yu, Yiheng Zhang, Weiming Shen*
-
-IEEE International Conference on Computer Supported Cooperative Work in Design 2022 (IEEE CSCWD 2022)
-
-<div class="extra-links">
-    <a class="_blank" href="https://ieeexplore.ieee.org/document/9776026" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-</div>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CASE 2022</div><img src='./images/CASE2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Position Encoding Enhanced Feature Mapping for Image Anomaly Detection
-
-Qian Wan, **Yunkang Cao**, Liang Gao, Weiming Shen, Xinyu Li*
-
-IEEE International Conference on Automation Science and Engineering 2022 (IEEE CASE 2022)
-
-<div class="extra-links">
-    <a class="_blank" href="https://www.researchgate.net/publication/361254312_Position_Encoding_Enhanced_Feature_Mapping_for_Image_Anomaly_Detection" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-    <a class="_blank" href="https://github.com/caoyunkang/PFM-and-PEFM-for-Image-Anomaly-Detection-and-Segmentation">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCWD 2022</div><img src='./images/CSCWD2022-2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## An Outlier-Aware Method for UWB Indoor Positioning in NLoS Situations
-
-Chuan Liu, **Yunkang Cao**, Chen Sun, Weiming Shen*, Xinyu Li and Liang Gao
-
-IEEE International Conference on Computer Supported Cooperative Work in Design 2022 (IEEE CSCWD 2022)
-
-<div class="extra-links">
-    <a class="_blank" href="https://ieeexplore.ieee.org/document/9776125" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-</div>
-</div>
-</div>
 
 # 💻 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='./images/RobotDet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Multi-View Industrial Inspection with Robot Arms
-
-Robot assisted Industrial inspection for workpieces with curved and reflective surfaces (e.g. [VR glasses](../images/VR.png), Car's steering wheel covers)
+<div class="project clearfix">
+    <span class="project-title">Mobile E-Ink Screen Surface Defect Detection Equipment</span>
+    <span class="project-date">Jun. 2023 - Present</span>
 </div>
+<ul class="itemize">
+    <li>constructed a <em>high-resolution</em> defect inspection prototype for mobile e-ink screens.</li>
+    <li>collected a comprehensive dataset of high-resolution images for mobile e-ink screen inspection.</li>
+    <li>translated image anomaly detection into token prediction, and introduced state space models to predict the future tokens based on previous tokens.</li>
+    <li>achieved high detection efficiency with great global information capture capacity for high-resolution images.</li>
+</ul>
+
+<div class="project clearfix">
+    <span class="project-title">Complex Surface Part Inspection Equipment</span>
+    <span class="project-date">Jun. 2020 - Jun. 2024</span>
 </div>
+<ul class="itemize">
+    <li>constructed a <em>multi-view and multi-illumination</em> defect inspection prototype equipment for curved surface parts.</li>
+    <li>collected an automotive part inspection dataset featuring multi-illumination images.</li>
+    <li>proposed a multi-illumination visual anomaly detection task and extended reverse knowledge distillation for this task.</li>
+    <li>improved 6.5% detection AUROC with minimal additional overhead in comparison to anomaly detection under single illumination.</li>
+</ul>
 
 # 🥇 Selected Awards
 - **2nd place** in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge)
@@ -349,10 +276,12 @@ Robot assisted Industrial inspection for workpieces with curved and reflective s
 - *Journal Reviewer*, IEEE Trans. Syst. Man Cybern. -Syst., IEEE Trans. Neural Netw. Learn. Syst., IEEE Trans. Ind. Inform., 
   IEEE Trans. Circuits Syst. Video Technol., etc.
 - *Conference Reviewer*, CVPR, NeurIPS, AAAI, ICRA, etc.
-
+- *Co-organizer of special sessions*, <a href="https://2024.ieeecase.org/special-sessions/">[Industrial Foundation Models and Applications in Smart Manufacturing]</a> at the IEEE International Conference on Automation Science and Engineering (2024).
 
 # 💬 Invited Talks
-- *2023.11*, "Overview of Image Anomaly Detection—Review, Applications, and Future Prospects", Talk with Professor [Kevin Xu's](https://kevinkaixu.net/) group at the National University of Defense Technology.
+
+- *2024.07*, EPFL, "Application-Oriented Industrial Visual Anomaly Detection" <a href="https://drive.google.com/file/d/1quJnGImn981ZOGiGyvl59o9r6z8FivVO/view?usp=sharing">[Slides]</a>.
+- *2023.11*, National University of Defense Technology, "Overview of Image Anomaly Detection—Review, Applications, and Future Prospects" <a href="https://drive.google.com/file/d/1IBeVN-x-A_MO2iq6CQAm9f2XICVmkGZB/view?usp=drive_link">[Slides]</a>.
 
 
 # 📖 Educations
@@ -367,12 +296,3 @@ Robot assisted Industrial inspection for workpieces with curved and reflective s
 - ### *2016.09 - 2020.06, Huazhong University of Science and Technology*
   ***B.S.*** in Mechanical Design, Manufacture & Automation &nbsp;&nbsp;&nbsp; 
   
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=QltdrDBXR7cYztdXsLCBfSeruYl8EMVZ7i3zpSoGzP4&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>  
-<!-- Thesis: pass -->
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
