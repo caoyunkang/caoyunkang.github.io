@@ -171,22 +171,16 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
   <li id="FA-Manuscript4"> 
     VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling <br> 
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Wei Luo, Weiming Shen* (under review) <br>
-
-[comment]: <> (    <i>IEEE Transactions on Industrial Informatics <strong>&#40;IEEE TII&#41;.</strong></i>. &#40;under review&#41;)
   </li>
 
   <li id="FA-Manuscript3"> 
     A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect <a href="https://arxiv.org/abs/2401.16402">[Paper]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Jiangning Zhang, Yuqi Cheng, Xiaonan Huang, Guansong Pang, Weiming Shen* (under review) <br>
-
-[comment]: <> (    <i>IEEE Transactions on Industrial Informatics <strong>&#40;IEEE TII&#41;.</strong></i>. &#40;under review&#41;)
   </li>
 
   <li id="FA-Manuscript2"> 
     Towards generic anomaly detection and understanding: Large-scale visual-linguistic model (gpt-4v) takes the lead <a href="https://arxiv.org/abs/2311.02782">[Paper]</a> <a href="https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen* (under review) <br> 
-
-[comment]: <> (  <i>IEEE Transactions on Instrumentation and Measurement <strong>&#40;IEEE TIM&#41;.</strong></i> 2024.)
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen* (under review) <br>
   </li>
 
   <li id="FA-Manuscript1"> 
@@ -208,8 +202,6 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
   <li id="OT-Manuscript5"> 
     CUT: A Controllable, Universal, and Training-Free Visual Anomaly Generation Framework <a href="https://arxiv.org/abs/2406.01078">[Paper]</a> <br> 
     Han Sun, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Olga Fink* (under review) <br>
-
-[comment]: <> (    <i>Neural Information Processing Systems  <strong>&#40;NeurIPS&#41;.</strong></i>. &#40;under review&#41;)
   </li>
 
   <li id="OT-Manuscript4"> 
@@ -233,8 +225,6 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
   <li id="OT-Manuscript1"> 
     URA-Net: Uncertainty-Integrated Anomaly Perception and Restoration Attention Network for Unsupervised Anomaly Detection <br> 
     Wei Luo, Peng Xing, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Weiming Shen, Zechao Li* (under review) <br>
-
-[comment]: <> (    <i>IEEE Transactions on Neural Networks and Learning Systems <strong>&#40;IEEE TNNLS&#41;.</strong></i>. )
   </li>
 </ol>
 
