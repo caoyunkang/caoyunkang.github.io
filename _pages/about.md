@@ -212,13 +212,13 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 
   <li id="OT-Manuscript3"> 
     VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br> 
-    Yuxin Jiang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Yuqi Cheng, Yiheng Zhang, Weiming Shen* <br>
+    Yuxin Jiang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Yuqi Cheng, Yiheng Zhang, Weiming Shen* <br>
     <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (under review)
   </li>
 
   <li id="OT-Manuscript2"> 
     Global-Regularized Neighborhood Regression for Efficient Zero-Shot Texture Anomaly Detection <br> 
-    Haiming Yao, Wei Luo, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Yiheng Zhang, Wenyong Yu*, Weiming Shen <br>
+    Haiming Yao, Wei Luo, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Yiheng Zhang, Wenyong Yu*, Weiming Shen <br>
     <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i>. (under review)
   </li>
 
