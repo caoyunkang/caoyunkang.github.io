@@ -72,7 +72,7 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 <h2 id="First-Authored Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">First-Authored Peer-Reviewed Publications</h2>
 <ol reversed>
   <li id="FA-Pub6"> 
-    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <br> 
+    AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Jiangning Zhang, Luca Frittoli, Yuqi Cheng, Weiming Shen*, Giacomo Boracchi <br>
     <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2024.
   </li>
