@@ -256,11 +256,16 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 # 🥇 Selected Awards
 - **2nd place** in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge)
 - First-class Scholarship for Postgraduates, HUST, 2020.09, 2021.09, 2022.09
-- Student Award for Research and Innovation, 2022.05
+- Student Award for Research and Innovation, HUST, 2022.05
 - **Mathematical Modeling Stars Nomination (TOP 2)** in the 18th China Post-graduate Mathematical Contest, 2022.05
 - Merit Postgraduate student, HUST, 2021.09
 - Excellent Graduates, HUST, 2019.06
 - National Scholarship (**the highest scholarship for B.E**), 2017.09, 2019.09
+- Second Class Prize, Undergraduate Electronics Design Contest, Provincial, 2018.09
+- Third Class Prize, Undergraduate Intelligent Robotics Contest, National, 2018.05
+  
+
+
 
 # 🎓📚 Academic Service 
 - *Journal Reviewer*, IEEE Trans. Syst. Man Cybern. -Syst., IEEE Trans. Neural Netw. Learn. Syst., IEEE Trans. Ind. Inform., 
