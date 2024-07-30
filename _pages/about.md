@@ -24,8 +24,9 @@ Currently, I am visiting [Politecnico Milano (Polimi)](https://www.polimi.it/) u
 My academic interests revolve around **Deep Learning** and **Computer Vision**, with a specific focus on **Multi-modal Anomaly Detection**. Lately, my research has been centered on the application of foundational models like vision-language models in anomaly detection tasks, 
 alongside my exploration of **Zero/Few-shot Anomaly Detection**.
 
-I leverage these techniques to address challenges within the domain of **Industrial Inspection**, 
-where my work is concentrated on advancing **Robotized Intelligent Manufacturing**. The primary goal is to develop swift and precise quality inspection solutions for large-scale multi-view objects.
+Beyond visual anomaly detection, my long-term goal is to empower intelligent visual systems with reasoning and planning capabilities about anomalies. 
+This approach aims to enable these systems to handle and recover from potential open-world anomalies, 
+thereby achieving better robustness and safety for fields such as intelligent manufacturing and autonomous driving. 
 
 If you find my research intriguing, please don't hesitate to get in touch with me. I welcome any inquiries or discussions regarding my work! 😊
 
