@@ -33,8 +33,8 @@ If you find my research intriguing, please don't hesitate to get in touch with m
 Recently, I have been looking for postdoctoral openings. If you have any opportunities or are interested in collaborating, please feel free to email me!
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Our paper addressed [Knowledge Distillation](https://arxiv.org/pdf/2401.08332) is conditionally accepted by Knowledge-based Systems.
-- *2024.07*: &nbsp;🎉🎉 Our paper addressed [Few-shot Image Anomaly Detection](https://arxiv.org/pdf/2403.04151) is conditionally accepted by Knowledge-based Systems.
+- *2024.08*: &nbsp;🎉🎉 Our paper addressed [Knowledge Distillation](https://arxiv.org/pdf/2401.08332) is accepted by Knowledge-based Systems.
+- *2024.08*: &nbsp;🎉🎉 Our paper addressed [Few-shot Image Anomaly Detection](https://arxiv.org/pdf/2403.04151) is accepted by Knowledge-based Systems.
 - *2024.07*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://github.com/caoyunkang/AdaCLIP) is accepted by ECCV.
 - *2024.06*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Anomaly Detection](https://www.sciencedirect.com/science/article/pii/S0031320324005120) is accepted by Pattern Recognition.
 - *2024.05*: &nbsp;🎉🎉 Our paper addressed [Multi-class Image Anomaly Detection](https://ieeexplore.ieee.org/document/10574313) is accepted by IEEE TII.
