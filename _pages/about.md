@@ -171,7 +171,7 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 
   <li id="FA-Manuscript4"> 
     VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling <br> 
-    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Wei Luo, Weiming Shen* (under review) <br>
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Wei Luo, Weiming Shen* (reject and resubmit) <br>
   </li>
 
   <li id="FA-Manuscript3"> 
@@ -187,7 +187,7 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
   <li id="FA-Manuscript1"> 
     Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework <br> 
     Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
-    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (under review)
+    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (reject and resubmit)
   </li>
 </ol>
 
@@ -208,7 +208,7 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
   <li id="OT-Manuscript4"> 
     LogiCode: an LLM-Driven Framework for Logical Anomaly Detection <a href="https://arxiv.org/abs/2406.04687">[Paper]</a> <a href="https://github.com/22strongestme/LOCO-Annotations">[Code]</a> <br> 
     Yiheng Zhang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Weiming Shen* <br>
-  <i>IEEE Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i>. (major revision)
+  <i>IEEE Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i>. (conditionally accepted)
   </li>
 
   <li id="OT-Manuscript3"> 
@@ -220,7 +220,7 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
   <li id="OT-Manuscript2"> 
     Global-Regularized Neighborhood Regression for Efficient Zero-Shot Texture Anomaly Detection <br> 
     Haiming Yao, Wei Luo, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Yiheng Zhang, Wenyong Yu*, Weiming Shen <br>
-    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i>. (under review)
+    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i>. (reject and resubmit)
   </li>
 
   <li id="OT-Manuscript1"> 
