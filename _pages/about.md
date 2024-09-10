@@ -132,14 +132,14 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 
   <li id="OT-Pub6"> 
     Dual-path Frequency Discriminators for Few-shot Anomaly Detection <br> 
-    Yuhu Bai, Jiangning Zhang, Yuhang Dong, Guanzhong Tian*, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span> <br>
-    <i>Knowledge-Based Systems <strong>(KBS).</strong></i> 2024. (conditionally accepted)
+    Yuhu Bai#, Jiangning Zhang#, Zhaofeng Chen, Yuhang Dong,  <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Guanzhong Tian* <br>
+    <i>Knowledge-Based Systems <strong>(KBS).</strong></i> 2024. 
   </li>
 
   <li id="OT-Pub5"> 
     Generative Denoise Distillation: Simple Stochastic Noises Induce Efficient Knowledge Transfer for Dense Prediction <br> 
     Zhaoge Liu, Xiaohao Xu, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Weiming Shen* <br>
-    <i>Knowledge-Based Systems <strong>(KBS).</strong></i> 2024. (conditionally accepted)
+    <i>Knowledge-Based Systems <strong>(KBS).</strong></i> 2024. 
   </li>
 
   <li id="OT-Pub4"> 
