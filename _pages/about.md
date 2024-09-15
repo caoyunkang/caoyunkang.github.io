@@ -33,6 +33,7 @@ If you find my research intriguing, please don't hesitate to get in touch with m
 Recently, I have been looking for postdoctoral openings. If you have any opportunities or are interested in collaborating, please feel free to email me!
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Our paper addressed [Few-shot Anomaly Detection]() is accepted by IEEE TNNLS.
 - *2024.09*: &nbsp;🎉🎉 Our paper addressed [Logical Anomaly Detection](https://arxiv.org/abs/2406.04687) is accepted by IEEE TASE.
 - *2024.08*: &nbsp;🎉🎉 Our paper addressed [Knowledge Distillation](https://arxiv.org/pdf/2401.08332) is accepted by Knowledge-based Systems.
 - *2024.08*: &nbsp;🎉🎉 Our paper addressed [Few-shot Image Anomaly Detection](https://arxiv.org/pdf/2403.04151) is accepted by Knowledge-based Systems.
@@ -111,6 +112,12 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 
 <h2 id="Other Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Other Peer-Reviewed Publications</h2>
 <ol reversed>
+
+  <li id="OT-Pub10"> 
+    Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection <br> 
+    Yuxin Jiang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Weiming Shen* <br>
+    <i>IEEE Transactions on Neural Networks and Learning Systems <strong>(IEEE TNNLS)</strong></i>. 
+  </li>
 
   <li id="OT-Pub9"> 
     LogiCode: an LLM-Driven Framework for Logical Anomaly Detection <a href="https://arxiv.org/abs/2406.04687">[Paper]</a> <a href="https://github.com/22strongestme/LOCO-Annotations">[Code]</a> <br> 
@@ -201,11 +208,7 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 <h2 id="Other Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Other Manuscripts under Review</h2>
 <ol reversed>
 
-  <li id="OT-Manuscript5"> 
-    Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection <br> 
-    Yuxin Jiang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Weiming Shen* <br>
-    <i>IEEE Transactions on Neural Networks and Learning Systems <strong>(IEEE TNNLS)</strong></i>. (reject and resubmit)
-  </li>
+
 
   <li id="OT-Manuscript4"> 
     CUT: A Controllable, Universal, and Training-Free Visual Anomaly Generation Framework <a href="https://arxiv.org/abs/2406.01078">[Paper]</a> <br> 
