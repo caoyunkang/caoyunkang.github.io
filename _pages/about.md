@@ -278,6 +278,7 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 - *Journal Reviewer*, IEEE Trans. Syst. Man Cybern. -Syst., IEEE Trans. Neural Netw. Learn. Syst., IEEE Trans. Ind. Inform., 
   IEEE Trans. Circuits Syst. Video Technol., etc.
 - *Conference Reviewer*, CVPR, NeurIPS, AAAI, ICRA, etc.
+- *Co-organizer of special sessions*, <a href="https://adfmw.github.io/ijcai24/index.html">[Anomaly Detection with Foundation Models (ADFM)]</a> at IJCAI (2024).
 - *Co-organizer of special sessions*, <a href="https://2024.ieeecase.org/special-sessions/">[Industrial Foundation Models and Applications in Smart Manufacturing]</a> at the IEEE International Conference on Automation Science and Engineering (2024).
 
 # 💬 Invited Talks
