@@ -177,6 +177,12 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 <h2 id="First-Authored Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">First-Authored Manuscripts under Review</h2>
 <ol reversed>
 
+  <li id="FA-Manuscript6"> 
+    A Generalized Medical Anomaly Detection Suite: Detecting Anomalies in Multi-Source and Multi-Modality Images. <br> 
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Haiming Yao#, Yu Cai, Hao Chen, Weiming Shen* <br>
+    <i>IEEE Transactions on Medical Imaging <strong>(IEEE TMI)</strong></i>. (under review)
+  </li>
+
   <li id="FA-Manuscript5"> 
     Segment any anomaly without training via hybrid prompt regularization <a href="https://arxiv.org/abs/2305.10724">[Paper]</a> <a href="https://github.com/caoyunkang/Segment-Any-Anomaly">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Chen Sun, Yuqi Cheng, Zongwei Du, Liang Gao, Weiming Shen* <br>
