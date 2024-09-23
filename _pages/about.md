@@ -191,7 +191,7 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 
   <li id="FA-Manuscript4"> 
     VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling <br> 
-    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Wei Luo, Weiming Shen* (reject and resubmit) <br>
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Wei Luo, Weiming Shen* (major revision) <br>
   </li>
 
   <li id="FA-Manuscript3"> 
@@ -204,8 +204,9 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen* (under review) <br>
   </li>
 
+
   <li id="FA-Manuscript1"> 
-    Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework <br> 
+    Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework  <a href="https://arxiv.org/abs/2409.13162">[Paper]</a> <a href="https://github.com/hustCYQ/MVP-PCLIP">[Code]</a>  <br>
     Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
     <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (reject and resubmit)
   </li>
