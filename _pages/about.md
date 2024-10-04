@@ -153,7 +153,10 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
   </li>
 
   <li id="OT-Pub4"> 
-    RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection <a href="https://arxiv.org/abs/2406.07176">[Paper]</a>  <br> 
+    RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection 
+<a href="https://arxiv.org/abs/2406.07176">[Paper]</a>  
+<a href="https://github.com/hustCYQ/RAD-dataset">[Code]</a>
+<br> 
     Yuqi Cheng, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Rui Chen, Weiming Shen* <br>
     <i>IEEE International Conference on Automation Science and Engineering <strong>(IEEE CASE).</strong></i> 2024.
   </li>
@@ -189,7 +192,7 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
   <li id="FA-Manuscript5"> 
     Segment any anomaly without training via hybrid prompt regularization <a href="https://arxiv.org/abs/2305.10724">[Paper]</a> <a href="https://github.com/caoyunkang/Segment-Any-Anomaly">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Chen Sun, Yuqi Cheng, Zongwei Du, Liang Gao, Weiming Shen* <br>
-    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (reject and resubmit)
+    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (major revision)
   </li>
 
   <li id="FA-Manuscript4"> 
@@ -211,7 +214,7 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
   <li id="FA-Manuscript1"> 
     Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework  <a href="https://arxiv.org/abs/2409.13162">[Paper]</a> <a href="https://github.com/hustCYQ/MVP-PCLIP">[Code]</a>  <br>
     Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
-    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (reject and resubmit)
+    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (major revision)
   </li>
 </ol>
 
@@ -229,13 +232,16 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
   <li id="OT-Manuscript3"> 
     VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br> 
     Yuxin Jiang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Yuqi Cheng, Yiheng Zhang, Weiming Shen* <br>
-    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (under review)
+    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (major revision)
   </li>
 
   <li id="OT-Manuscript2"> 
-    Global-Regularized Neighborhood Regression for Efficient Zero-Shot Texture Anomaly Detection <br> 
+    Global-Regularized Neighborhood Regression for Efficient Zero-Shot Texture Anomaly Detection 
+<a href="https://arxiv.org/abs/2406.07333">[Paper]</a>  
+<a href="https://github.com/hmyao22/GRNR">[Code]</a>
+<br> 
     Haiming Yao, Wei Luo, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Yiheng Zhang, Wenyong Yu*, Weiming Shen <br>
-    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i>. (reject and resubmit)
+    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i>. (major revision)
   </li>
 
   <li id="OT-Manuscript1"> 
