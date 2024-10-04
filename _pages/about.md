@@ -114,7 +114,10 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 <ol reversed>
 
   <li id="OT-Pub10"> 
-    Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection <br> 
+    Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection 
+<a href="https://ieeexplore.ieee.org/document/10702559">[Paper]</a> 
+<a href="https://github.com/yuxin-jiang/PCSNet">[Code]</a>
+<br> 
     Yuxin Jiang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Weiming Shen* <br>
     <i>IEEE Transactions on Neural Networks and Learning Systems <strong>(IEEE TNNLS)</strong></i>. 
   </li>
