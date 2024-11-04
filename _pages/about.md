@@ -186,7 +186,7 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
   <li id="FA-Manuscript6"> 
     A Generalized Medical Anomaly Detection Suite: Detecting Anomalies in Multi-Source and Multi-Modality Images. <br> 
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Haiming Yao#, Yu Cai, Hao Chen, Weiming Shen* <br>
-    <i>IEEE Transactions on Medical Imaging <strong>(IEEE TNNLS)</strong></i>. (under review)
+    <i>IEEE Transactions on Neural Networks and Learning Systems <strong>(IEEE TNNLS)</strong></i>. (under review)
   </li>
 
   <li id="FA-Manuscript5"> 
