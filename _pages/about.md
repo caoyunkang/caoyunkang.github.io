@@ -33,6 +33,8 @@ If you find my research intriguing, please don't hesitate to get in touch with m
 Recently, I have been looking for postdoctoral openings. If you have any opportunities or are interested in collaborating, please feel free to email me!
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 Our paper addressed [High-Resolution Image Anomaly Detection]https://arxiv.org/abs/2412.17263) has been accepted by IEEE TII.
+- *2024.11*: &nbsp;🎉🎉 I won the National Scholarship for Ph.D., thank you all!
 - *2024.09*: &nbsp;🎉🎉 Our paper addressed [Few-shot Anomaly Detection]() is accepted by IEEE TNNLS.
 - *2024.09*: &nbsp;🎉🎉 Our paper addressed [Logical Anomaly Detection](https://arxiv.org/abs/2406.04687) is accepted by IEEE TASE.
 - *2024.08*: &nbsp;🎉🎉 Our paper addressed [Knowledge Distillation](https://arxiv.org/pdf/2401.08332) is accepted by Knowledge-based Systems.
@@ -74,6 +76,12 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 
 <h2 id="First-Authored Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">First-Authored Peer-Reviewed Publications</h2>
 <ol reversed>
+  <li id="FA-Pub7"> 
+    VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling <br> 
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Wei Luo, Weiming Shen* <br>
+    <i>IEEE Transactions on Industrial Informatics <strong>(IEEE TII).</strong></i> 2025.
+  </li>
+
   <li id="FA-Pub6"> 
     AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2407.15795">[Paper]</a> <a href="https://github.com/caoyunkang/AdaCLIP">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Jiangning Zhang, Luca Frittoli, Yuqi Cheng, Weiming Shen*, Giacomo Boracchi <br>
@@ -183,22 +191,18 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 <h2 id="First-Authored Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">First-Authored Manuscripts under Review</h2>
 <ol reversed>
 
-  <li id="FA-Manuscript6"> 
+  <li id="FA-Manuscript5"> 
     A Generalized Medical Anomaly Detection Suite: Detecting Anomalies in Multi-Source and Multi-Modality Images. <br> 
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Haiming Yao#, Yu Cai, Hao Chen, Weiming Shen* <br>
     <i>IEEE Transactions on Neural Networks and Learning Systems <strong>(IEEE TNNLS)</strong></i>. (under review)
   </li>
 
-  <li id="FA-Manuscript5"> 
+  <li id="FA-Manuscript4"> 
     Segment any anomaly without training via hybrid prompt regularization <a href="https://arxiv.org/abs/2305.10724">[Paper]</a> <a href="https://github.com/caoyunkang/Segment-Any-Anomaly">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Chen Sun, Yuqi Cheng, Zongwei Du, Liang Gao, Weiming Shen* <br>
     <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (major revision)
   </li>
 
-  <li id="FA-Manuscript4"> 
-    VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling <br> 
-    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Wei Luo, Weiming Shen* (major revision) <br>
-  </li>
 
   <li id="FA-Manuscript3"> 
     A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect <a href="https://arxiv.org/abs/2401.16402">[Paper]</a> <br> 
@@ -220,8 +224,6 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 
 <h2 id="Other Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Other Manuscripts under Review</h2>
 <ol reversed>
-
-
 
   <li id="OT-Manuscript4"> 
     CUT: A Controllable, Universal, and Training-Free Visual Anomaly Generation Framework <a href="https://arxiv.org/abs/2406.01078">[Paper]</a> <br> 
@@ -276,6 +278,7 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 </ul>
 
 # 🥇 Selected Awards
+- National Scholarship (**the highest scholarship for Ph.D.**), 2024.11
 - Provincial Second Prize, China International College Students' Innovation Competition, 2024.08
 - **2nd place** in [CVPR VAND Zero-shot Anomaly Detection Challenge](https://sites.google.com/view/vand-cvpr23/challenge)
 - First-class Scholarship for Postgraduates, HUST, 2020.09, 2021.09, 2022.09
@@ -286,14 +289,12 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 - National Scholarship (**the highest scholarship for B.E**), 2017.09, 2019.09
 - Second Class Prize, Undergraduate Electronics Design Contest, Provincial, 2018.09
 - Third Class Prize, Undergraduate Intelligent Robotics Contest, National, 2018.05
-  
-
 
 
 # 🎓📚 Academic Service 
 - *Journal Reviewer*, IEEE Trans. Syst. Man Cybern. -Syst., IEEE Trans. Neural Netw. Learn. Syst., IEEE Trans. Ind. Inform., 
   IEEE Trans. Circuits Syst. Video Technol., etc.
-- *Conference Reviewer*, CVPR, NeurIPS, AAAI, ICRA, etc.
+- *Conference Reviewer*, CVPR, NeurIPS, ICML, AAAI, ICRA, etc.
 - *Co-organizer of special sessions*, <a href="https://adfmw.github.io/ijcai24/index.html">[Anomaly Detection with Foundation Models (ADFM)]</a> at IJCAI (2024).
 - *Co-organizer of special sessions*, <a href="https://2024.ieeecase.org/special-sessions/">[Industrial Foundation Models and Applications in Smart Manufacturing]</a> at the IEEE International Conference on Automation Science and Engineering (2024).
 
