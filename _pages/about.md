@@ -33,7 +33,7 @@ If you find my research intriguing, please don't hesitate to get in touch with m
 Recently, I have been looking for postdoctoral openings. If you have any opportunities or are interested in collaborating, please feel free to email me!
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our paper addressed [High-Resolution Image Anomaly Detection]https://arxiv.org/abs/2412.17263) has been accepted by IEEE TII.
+- *2024.12*: &nbsp;🎉🎉 Our paper addressed [High-Resolution Image Anomaly Detection](https://arxiv.org/abs/2412.17263) has been accepted by IEEE TII.
 - *2024.11*: &nbsp;🎉🎉 I won the National Scholarship for Ph.D., thank you all!
 - *2024.09*: &nbsp;🎉🎉 Our paper addressed [Few-shot Anomaly Detection]() is accepted by IEEE TNNLS.
 - *2024.09*: &nbsp;🎉🎉 Our paper addressed [Logical Anomaly Detection](https://arxiv.org/abs/2406.04687) is accepted by IEEE TASE.
