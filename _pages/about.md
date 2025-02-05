@@ -31,7 +31,7 @@ Additionally, I am currently exploring postdoctoral opportunities. If you know o
 - *2025.01*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2412.17263) has been accepted by IEEE TCYB.
 - *2024.12*: &nbsp;🎉🎉 Our paper addressed [High-Resolution Image Anomaly Detection](https://arxiv.org/abs/2412.17263) has been accepted by IEEE TII.
 - *2024.11*: &nbsp;🎉🎉 I won the National Scholarship for Ph.D., thank you all!
-- *2024.09*: &nbsp;🎉🎉 Our paper addressed [Few-shot Anomaly Detection]() is accepted by IEEE TNNLS.
+- *2024.09*: &nbsp;🎉🎉 Our paper addressed [Few-shot Anomaly Detection](https://ieeexplore.ieee.org/document/10702559) is accepted by IEEE TNNLS.
 - *2024.09*: &nbsp;🎉🎉 Our paper addressed [Logical Anomaly Detection](https://arxiv.org/abs/2406.04687) is accepted by IEEE TASE.
 - *2024.08*: &nbsp;🎉🎉 Our paper addressed [Knowledge Distillation](https://arxiv.org/pdf/2401.08332) is accepted by Knowledge-based Systems.
 - *2024.08*: &nbsp;🎉🎉 Our paper addressed [Few-shot Image Anomaly Detection](https://arxiv.org/pdf/2403.04151) is accepted by Knowledge-based Systems.
