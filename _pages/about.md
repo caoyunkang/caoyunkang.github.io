@@ -62,13 +62,12 @@ Additionally, I am currently exploring postdoctoral opportunities. If you know o
 # 📝 Publications 
 
 <h2>
-  <a href="#Peer-Reviewed Publications"><u>First-Authored Peer-Reviewed Publications</u></a>&nbsp; <br> 
-  <a href="#Manuscripts under Review"><u>Other Manuscripts under Review</u></a>&nbsp; <br>
+  <a href="#Peer-Reviewed Publications"><u>Peer-Reviewed Publications</u></a>&nbsp; <br> 
+  <a href="#Manuscripts under Review"><u>Manuscripts under Review</u></a>&nbsp; <br>
 </h2>
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
-
-<h2 id="First-Authored Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">First-Authored Peer-Reviewed Publications</h2>
+<h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Peer-Reviewed Publications</h2>
 <ol reversed>
   <li id="FA-Pub8"> 
     Personalizing Vision-Language Models with Hybrid Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2305.10724">[Paper]</a> <a href="https://github.com/caoyunkang/Segment-Any-Anomaly">[Code]</a> <br> 
@@ -183,9 +182,8 @@ Additionally, I am currently exploring postdoctoral opportunities. If you know o
   </li>
 
 
-<h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">First-Authored Manuscripts under Review</h2>
+<h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;"> Manuscripts under Review</h2>
 <ol reversed>
-
   <li id="FA-Manuscript5"> 
     A Generalized Medical Anomaly Detection Suite: Detecting Anomalies in Multi-Source and Multi-Modality Images. <br> 
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Haiming Yao#, Yu Cai, Hao Chen, Weiming Shen* <br>
