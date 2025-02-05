@@ -180,7 +180,7 @@ Additionally, I am currently exploring postdoctoral opportunities. If you know o
     Qian Wan, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Liang Gao, Weiming Shen, Xinyu Li* <br>
     <i>IEEE International Conference on Automation Science and Engineering <strong>(IEEE CASE).</strong></i> 2022.
   </li>
-
+</ol>
 
 <h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;"> Manuscripts under Review</h2>
 <ol reversed>
@@ -200,7 +200,6 @@ Additionally, I am currently exploring postdoctoral opportunities. If you know o
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Chen Sun, Xiaonan Huang, Weiming Shen* (under review) <br>
   </li>
 
-
   <li id="FA-Manuscript1"> 
     Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework  <a href="https://arxiv.org/abs/2409.13162">[Paper]</a> <a href="https://github.com/hustCYQ/MVP-PCLIP">[Code]</a>  <br>
     Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
@@ -211,7 +210,6 @@ Additionally, I am currently exploring postdoctoral opportunities. If you know o
     CUT: A Controllable, Universal, and Training-Free Visual Anomaly Generation Framework <a href="https://arxiv.org/abs/2406.01078">[Paper]</a> <br> 
     Han Sun, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Olga Fink* (under review) <br>
   </li>
-
 
   <li id="OT-Manuscript3"> 
     VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br> 
