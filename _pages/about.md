@@ -285,7 +285,7 @@ Additionally, I am currently exploring postdoctoral opportunities. If you know o
 
 
 # 📖 Educations
-- ### *2023.10 - present, Politecnico di Milano*
+- ### *2023.10 - 2024.10, Politecnico di Milano*
   Department of Electronics, Information and Bioengineering                              
   ***Visiting Ph.D.*** in Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: [Giacomo Boracchi](https://boracchi.faculty.polimi.it/)
   
