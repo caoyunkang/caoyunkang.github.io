@@ -17,22 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I'm Yunkang Cao (曹云康), a Ph.D. candidate at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn), 
-where I am fortunate to be working under the guidance of [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). 
-Currently, I am visiting [Politecnico Milano (Polimi)](https://www.polimi.it/) under the supervision of [Giacomo Boracchi](https://boracchi.faculty.polimi.it/).
+Hello! I’m Yunkang Cao (曹云康), a Ph.D. candidate at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn), where I am honored to be working under the guidance of [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). I am also grateful for the opportunity to visit [Politecnico di Milano (Polimi)](https://www.polimi.it/) for one year, working under the supervision of [Prof. Giacomo Boracchi](https://boracchi.faculty.polimi.it/).
 
-My academic interests revolve around **Deep Learning** and **Computer Vision**, with a specific focus on **Multi-modal Anomaly Detection**. Lately, my research has been centered on the application of foundational models like vision-language models in anomaly detection tasks, 
-alongside my exploration of **Zero/Few-shot Anomaly Detection**.
+My academic research primarily focuses on **Deep Learning** and **Computer Vision**, with a particular emphasis on **Multi-modal Anomaly Detection**. Recently, my work has concentrated on leveraging foundational models such as vision-language models for anomaly detection tasks, as well as exploring **Zero/Few-shot Anomaly Detection**.
+Beyond visual anomaly detection, my long-term goal is to enhance intelligent visual systems with reasoning and planning capabilities to address and recover from open-world anomalies. This approach is designed to improve the robustness and safety of applications in fields like intelligent manufacturing and autonomous driving.
+If you find my research interesting, I would love to connect! Feel free to reach out if you have any questions or would like to discuss my work. 😊
 
-Beyond visual anomaly detection, my long-term goal is to empower intelligent visual systems with reasoning and planning capabilities about anomalies. 
-This approach aims to enable these systems to handle and recover from potential open-world anomalies, 
-thereby achieving better robustness and safety for fields such as intelligent manufacturing and autonomous driving. 
+Additionally, I am currently exploring postdoctoral opportunities. If you know of any openings or are interested in potential collaborations, please don’t hesitate to email me!
 
-If you find my research intriguing, please don't hesitate to get in touch with me. I welcome any inquiries or discussions regarding my work! 😊
 
-Recently, I have been looking for postdoctoral openings. If you have any opportunities or are interested in collaborating, please feel free to email me!
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2412.17263) has been accepted by IEEE TCYB.
 - *2024.12*: &nbsp;🎉🎉 Our paper addressed [High-Resolution Image Anomaly Detection](https://arxiv.org/abs/2412.17263) has been accepted by IEEE TII.
 - *2024.11*: &nbsp;🎉🎉 I won the National Scholarship for Ph.D., thank you all!
 - *2024.09*: &nbsp;🎉🎉 Our paper addressed [Few-shot Anomaly Detection]() is accepted by IEEE TNNLS.
@@ -66,16 +62,20 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
 # 📝 Publications 
 
 <h2>
-  <a href="#First-Authored Peer-Reviewed Publications"><u>First-Authored Peer-Reviewed Publications</u></a>&nbsp; <br> 
-  <a href="#Other Peer-Reviewed Publications"><u>Other Peer-Reviewed Publications</u></a>&nbsp; <br> 
-  <a href="#First-Authored Manuscripts under Review"><u>First-Authored Manuscripts under Review</u></a>&nbsp; <br> 
-  <a href="#Other Manuscripts under Review"><u>Other Manuscripts under Review</u></a>&nbsp; <br>
+  <a href="#Peer-Reviewed Publications"><u>First-Authored Peer-Reviewed Publications</u></a>&nbsp; <br> 
+  <a href="#Manuscripts under Review"><u>Other Manuscripts under Review</u></a>&nbsp; <br>
 </h2>
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 
 <h2 id="First-Authored Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">First-Authored Peer-Reviewed Publications</h2>
 <ol reversed>
+  <li id="FA-Pub8"> 
+    Personalizing Vision-Language Models with Hybrid Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2305.10724">[Paper]</a> <a href="https://github.com/caoyunkang/Segment-Any-Anomaly">[Code]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Yuqi Cheng, Chen Sun, Zongwei Du, Liang Gao, Weiming Shen* <br>
+    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. 
+  </li>
+
   <li id="FA-Pub7"> 
     VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling <br> 
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Wei Luo, Weiming Shen* <br>
@@ -116,10 +116,6 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Qian Wan, Weiming Shen*, Liang Gao <br>
     <i>Knowledge-Based Systems <strong>(KBS).</strong></i> 2022.
   </li>
-</ol>
-
-<h2 id="Other Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Other Peer-Reviewed Publications</h2>
-<ol reversed>
 
   <li id="OT-Pub10"> 
     Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection 
@@ -185,10 +181,9 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
     Qian Wan, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Liang Gao, Weiming Shen, Xinyu Li* <br>
     <i>IEEE International Conference on Automation Science and Engineering <strong>(IEEE CASE).</strong></i> 2022.
   </li>
-</ol>
 
 
-<h2 id="First-Authored Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">First-Authored Manuscripts under Review</h2>
+<h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">First-Authored Manuscripts under Review</h2>
 <ol reversed>
 
   <li id="FA-Manuscript5"> 
@@ -196,13 +191,6 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Haiming Yao#, Yu Cai, Hao Chen, Weiming Shen* <br>
     <i>IEEE Transactions on Neural Networks and Learning Systems <strong>(IEEE TNNLS)</strong></i>. (under review)
   </li>
-
-  <li id="FA-Manuscript4"> 
-    Segment any anomaly without training via hybrid prompt regularization <a href="https://arxiv.org/abs/2305.10724">[Paper]</a> <a href="https://github.com/caoyunkang/Segment-Any-Anomaly">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Chen Sun, Yuqi Cheng, Zongwei Du, Liang Gao, Weiming Shen* <br>
-    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (major revision)
-  </li>
-
 
   <li id="FA-Manuscript3"> 
     A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect <a href="https://arxiv.org/abs/2401.16402">[Paper]</a> <br> 
@@ -220,10 +208,6 @@ Recently, I have been looking for postdoctoral openings. If you have any opportu
     Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
     <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (major revision)
   </li>
-</ol>
-
-<h2 id="Other Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Other Manuscripts under Review</h2>
-<ol reversed>
 
   <li id="OT-Manuscript4"> 
     CUT: A Controllable, Universal, and Training-Free Visual Anomaly Generation Framework <a href="https://arxiv.org/abs/2406.01078">[Paper]</a> <br> 
