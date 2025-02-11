@@ -28,6 +28,7 @@ Additionally, I am currently exploring postdoctoral opportunities. If you know o
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Anomaly Detection]() has been accepted by IEEE TASE.
 - *2025.01*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2412.17263) has been accepted by IEEE TCYB.
 - *2024.12*: &nbsp;🎉🎉 Our paper addressed [High-Resolution Image Anomaly Detection](https://arxiv.org/abs/2412.17263) has been accepted by IEEE TII.
 - *2024.11*: &nbsp;🎉🎉 I won the National Scholarship for Ph.D., thank you all!
@@ -72,7 +73,7 @@ Additionally, I am currently exploring postdoctoral opportunities. If you know o
   <li id="FA-Pub8"> 
     Personalizing Vision-Language Models with Hybrid Prompts for Zero-Shot Anomaly Detection <a href="https://arxiv.org/abs/2305.10724">[Paper]</a> <a href="https://github.com/caoyunkang/Segment-Any-Anomaly">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Yuqi Cheng, Chen Sun, Zongwei Du, Liang Gao, Weiming Shen* <br>
-    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. 
+    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. 2025.
   </li>
 
   <li id="FA-Pub7"> 
@@ -116,19 +117,25 @@ Additionally, I am currently exploring postdoctoral opportunities. If you know o
     <i>Knowledge-Based Systems <strong>(KBS).</strong></i> 2022.
   </li>
 
+  <li id="OT-Pub11"> 
+    Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection
+<br> Yuqi Cheng, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Dongfang Wang, Weiming Shen*, Wenlong Li <br>
+  <i>IEEE Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i>. 2025.
+  </li>
+
   <li id="OT-Pub10"> 
     Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection 
 <a href="https://ieeexplore.ieee.org/document/10702559">[Paper]</a> 
 <a href="https://github.com/yuxin-jiang/PCSNet">[Code]</a>
 <br> 
     Yuxin Jiang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Weiming Shen* <br>
-    <i>IEEE Transactions on Neural Networks and Learning Systems <strong>(IEEE TNNLS)</strong></i>. 
+    <i>IEEE Transactions on Neural Networks and Learning Systems <strong>(IEEE TNNLS)</strong></i>.  2024.
   </li>
 
   <li id="OT-Pub9"> 
     LogiCode: an LLM-Driven Framework for Logical Anomaly Detection <a href="https://arxiv.org/abs/2406.04687">[Paper]</a> <a href="https://github.com/22strongestme/LOCO-Annotations">[Code]</a> <br> 
     Yiheng Zhang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Weiming Shen* <br>
-  <i>IEEE Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i>. 
+  <i>IEEE Transactions on Automation Science and Engineering <strong>(IEEE TASE)</strong></i>. 2024.
   </li>
 
   <li id="OT-Pub8"> 
