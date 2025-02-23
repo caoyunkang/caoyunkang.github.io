@@ -28,7 +28,7 @@ Additionally, I am currently exploring postdoctoral opportunities. If you know o
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Anomaly Detection]() has been accepted by IEEE TASE.
+- *2025.02*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Anomaly Detection](https://ieeexplore.ieee.org/document/10898004) has been accepted by IEEE TASE.
 - *2025.01*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2412.17263) has been accepted by IEEE TCYB.
 - *2024.12*: &nbsp;🎉🎉 Our paper addressed [High-Resolution Image Anomaly Detection](https://arxiv.org/abs/2412.17263) has been accepted by IEEE TII.
 - *2024.11*: &nbsp;🎉🎉 I won the National Scholarship for Ph.D., thank you all!
