@@ -74,7 +74,7 @@ Additionally, I am currently exploring postdoctoral opportunities. If you know o
 <ol reversed>
   <li id="FA-Pub10"> 
     Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection <a href="">[Paper]</a> <a href="">[Code]</a> <br> 
-Wei Luo, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Xiaotian Zhang, Jianan Lou, Yuqi Cheng, Weiming Shen, Wenyong Yu* <br>
+Wei Luo#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Haiming Yao#, Xiaotian Zhang, Jianan Lou, Yuqi Cheng, Weiming Shen, Wenyong Yu* <br>
     <i>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong></i>. 2025.
   </li>
 
@@ -86,7 +86,7 @@ Wei Luo, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haim
 
   <li id="FA-Manuscript2"> 
     Customizing Visual-Language Foundation Models for Multi-Modal Anomaly Detection and Reasoning <a href="https://arxiv.org/abs/2403.11083">[Paper]</a> <a href="https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection">[Code]</a> <br> 
-    Xiahao Xu, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Huaxin Zhang, Nong Sang, Xiaonan Huang, Weiming Shen*<br>
+    Xiahao Xu#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Huaxin Zhang, Nong Sang, Xiaonan Huang, Weiming Shen*<br>
   </li>
 
   <li id="FA-Pub8"> 
