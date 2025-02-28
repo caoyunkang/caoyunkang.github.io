@@ -29,7 +29,7 @@ Additionally, I am currently exploring postdoctoral opportunities. If you know o
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 Two papers addressed [Unified Anomaly Detection]() and [Unseen Anomaly Generation](https://arxiv.org/html/2406.01078v2) and has been accepted by CVPR.
-- *2025.02*: &nbsp;🎉🎉 OUr paper addressed [MLLM-based Anomaly Detection](https://arxiv.org/abs/2403.11083) has been accepted by CSCWD.
+- *2025.02*: &nbsp;🎉🎉 Our paper addressed [MLLM-based Anomaly Detection](https://arxiv.org/abs/2403.11083) has been accepted by CSCWD.
 - *2025.02*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Anomaly Detection](https://ieeexplore.ieee.org/document/10898004) has been accepted by IEEE TASE.
 - *2025.01*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2412.17263) has been accepted by IEEE TCYB.
 - *2024.12*: &nbsp;🎉🎉 Our paper addressed [High-Resolution Image Anomaly Detection](https://arxiv.org/abs/2412.17263) has been accepted by IEEE TII.
