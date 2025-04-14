@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hello! I’m Yunkang Cao (曹云康), an incoming Assistant Professor in the [Hunan University Robotics Department](http://robotics.hnu.edu.cn/). Currently, I am a Ph.D. candidate at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), where I am honored to be working under the guidance of [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). I am also grateful for the opportunity to visit [Politecnico di Milano (Polimi)](https://www.polimi.it/) for one year, working under the supervision of [Prof. Giacomo Boracchi](https://boracchi.faculty.polimi.it/).
+Hello! I’m Yunkang Cao (曹云康), an incoming Assistant Professor in the [School of Robotics, Hunan University](http://robotics.hnu.edu.cn/). Currently, I am a Ph.D. candidate at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), where I am honored to be working under the guidance of [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). I am also grateful for the opportunity to visit [Politecnico di Milano (Polimi)](https://www.polimi.it/) for one year, working under the supervision of [Prof. Giacomo Boracchi](https://boracchi.faculty.polimi.it/).
 
 My academic research primarily focuses on **Deep Learning** and **Computer Vision**, with a particular emphasis on **Anomaly Detection & Reasoning for Embodied Intelligence**, especially in manufacturing scenarios.
 My long-term goal is to make robotics more safe and more understandable. I aim to enhance intelligent visual systems with reasoning and planning capabilities to address and recover from open-world anomalies.
