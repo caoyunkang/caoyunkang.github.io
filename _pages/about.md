@@ -37,7 +37,7 @@ If you find my research interesting, I would love to connect! Feel free to reach
 - **Technical Expertise**: Proficient in adapting models such as CLIP/LLM/Stable Diffusion, multimodal anomaly detection, and full-stack development for industrial quality inspection systems
 
 # 🔥 News
-- *2025.04*: 🎉🎉 We successfully organized the [CVPR Paper Sharing Session (2nd "Donghu Forum" Frontier Paper Sharing by CSIG Wuhan Member Activity Center, CVPR2025 Pre-conference "Industrial Vision" Special Session)](https://mp.weixin.qq.com/s/opOMTAN2s7kLVwVaNfwAfg), which attracted over 4,000 online viewers!
+- *2025.04*: 🎉🎉 We successfully organized the [CVPR2025 Pre-conference "Industrial Vision" Special Session)](https://mp.weixin.qq.com/s/opOMTAN2s7kLVwVaNfwAfg), which attracted over 5,000 online viewers!
 - *2025.03*: &nbsp;🎉🎉 Two papers addressed [Unified Anomaly Detection](https://arxiv.org/pdf/2503.02424) and [Unseen Anomaly Generation](https://arxiv.org/html/2406.01078v2) and has been accepted by CVPR.
 - *2025.02*: &nbsp;🎉🎉 Our paper addressed [MLLM-based Anomaly Detection](https://arxiv.org/abs/2403.11083) has been accepted by CSCWD.
 - *2025.02*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Anomaly Detection](https://ieeexplore.ieee.org/document/10898004) has been accepted by IEEE TASE.
