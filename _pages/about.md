@@ -17,18 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I’m Yunkang Cao (曹云康), a Ph.D. candidate at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn), where I am honored to be working under the guidance of [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). I am also grateful for the opportunity to visit [Politecnico di Milano (Polimi)](https://www.polimi.it/) for one year, working under the supervision of [Prof. Giacomo Boracchi](https://boracchi.faculty.polimi.it/).
 
-My academic research primarily focuses on **Deep Learning** and **Computer Vision**, with a particular emphasis on **Multi-modal Anomaly Detection**. Recently, my work has concentrated on leveraging foundational models such as vision-language models for anomaly detection tasks, as well as exploring **Zero/Few-shot Anomaly Detection**.
-Beyond visual anomaly detection, my long-term goal is to enhance intelligent visual systems with reasoning and planning capabilities to address and recover from open-world anomalies. This approach is designed to improve the robustness and safety of applications in fields like intelligent manufacturing and autonomous driving.
+Hello! I’m Yunkang Cao (曹云康), an incoming Assistant Professor in the [Hunan University Robotics Department](http://robotics.hnu.edu.cn/). Currently, I am a Ph.D. candidate at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), where I am honored to be working under the guidance of [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). I am also grateful for the opportunity to visit [Politecnico di Milano (Polimi)](https://www.polimi.it/) for one year, working under the supervision of [Prof. Giacomo Boracchi](https://boracchi.faculty.polimi.it/).
+
+My academic research primarily focuses on **Deep Learning** and **Computer Vision**, with a particular emphasis on **Anomaly Detection & Reasoning for Embodied Intelligence**, especially in manufacturing scenarios.
+My long-term goal is to make robotics more safe, more understandable, and their actions fixable. I aim to enhance intelligent visual systems with reasoning and planning capabilities to address and recover from open-world anomalies.
+
+
 If you find my research interesting, I would love to connect! Feel free to reach out if you have any questions or would like to discuss my work. 😊
 
-Additionally, I am currently exploring postdoctoral opportunities. If you know of any openings or are interested in potential collaborations, please don’t hesitate to email me!
+# 🏆 Personal Highlights
 
+- **Academic Impact**: 10 first-authored papers accepted (including venues like ECCV, CVPR), over 500 citations, and runner-up in a CVPR competition
 
+- **Open-Source Contributions**: 1600+ GitHub stars, led four projects that have garnered over 100 stars each, with one repository achieving nearly 800 stars
+
+- **Engineering Projects**: Led university-industry collaboration projects with companies like CATL and Tesla suppliers, solving real-world product quality inspection challenges and contributing to over 20 patents
+
+- **Technical Expertise**: Proficient in adapting models such as CLIP/LLM/Stable Diffusion, multimodal anomaly detection, and full-stack development for industrial quality inspection systems
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Two papers addressed [Unified Anomaly Detection]() and [Unseen Anomaly Generation](https://arxiv.org/html/2406.01078v2) and has been accepted by CVPR.
+- *2025.04*: 🎉🎉 We successfully organized the [CVPR Paper Sharing Session (2nd "Donghu Forum" Frontier Paper Sharing by CSIG Wuhan Member Activity Center, CVPR2025 Pre-conference "Industrial Vision" Special Session)](https://mp.weixin.qq.com/s/opOMTAN2s7kLVwVaNfwAfg), which attracted over 4,000 online viewers!
+- *2025.03*: &nbsp;🎉🎉 Two papers addressed [Unified Anomaly Detection](https://arxiv.org/pdf/2503.02424) and [Unseen Anomaly Generation](https://arxiv.org/html/2406.01078v2) and has been accepted by CVPR.
 - *2025.02*: &nbsp;🎉🎉 Our paper addressed [MLLM-based Anomaly Detection](https://arxiv.org/abs/2403.11083) has been accepted by CSCWD.
 - *2025.02*: &nbsp;🎉🎉 Our paper addressed [Point Cloud Anomaly Detection](https://ieeexplore.ieee.org/document/10898004) has been accepted by IEEE TASE.
 - *2025.01*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2412.17263) has been accepted by IEEE TCYB.
