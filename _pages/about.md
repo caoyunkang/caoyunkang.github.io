@@ -37,6 +37,8 @@ If you find my research interesting, I would love to connect! Feel free to reach
 - **Technical Expertise**: Proficient in adapting models such as CLIP/LLM/Stable Diffusion, multimodal anomaly detection, and full-stack development for industrial quality inspection systems
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 We are deeply honored to have been awarded the <span style="color:#b02418; font-weight:bold;">Best Student Paper Award</span> at CSCWD2025 for our paper [MLLM-based Anomaly Detection](https://arxiv.org/abs/2403.11083).
+- *2025.04*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection]() has been accepted by IJCAI.
 - *2025.04*: 🎉🎉 We successfully organized the [CVPR2025 Pre-conference "Industrial Vision" Special Session)](https://mp.weixin.qq.com/s/opOMTAN2s7kLVwVaNfwAfg), which attracted over 5,000 online viewers!
 - *2025.03*: &nbsp;🎉🎉 Two papers addressed [Unified Anomaly Detection](https://arxiv.org/pdf/2503.02424) and [Unseen Anomaly Generation](https://arxiv.org/html/2406.01078v2) and has been accepted by CVPR.
 - *2025.02*: &nbsp;🎉🎉 Our paper addressed [MLLM-based Anomaly Detection](https://arxiv.org/abs/2403.11083) has been accepted by CSCWD.
@@ -82,6 +84,7 @@ If you find my research interesting, I would love to connect! Feel free to reach
 
 <h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Peer-Reviewed Publications</h2>
 <ol reversed>
+
   <li id="FA-Pub10"> 
     Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection <a href="">[Paper]</a> <a href="">[Code]</a> <br> 
 Wei Luo#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Haiming Yao#, Xiaotian Zhang, Jianan Lou, Yuqi Cheng, Weiming Shen, Wenyong Yu* <br>
@@ -96,7 +99,7 @@ Wei Luo#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Ha
 
   <li id="FA-Manuscript2"> 
     Customizing Visual-Language Foundation Models for Multi-Modal Anomaly Detection and Reasoning <a href="https://arxiv.org/abs/2403.11083">[Paper]</a> <a href="https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection">[Code]</a> <br> 
-    Xiahao Xu#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Huaxin Zhang, Nong Sang, Xiaonan Huang, Weiming Shen*<br>
+    Xiahao Xu#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Huaxin Zhang, Nong Sang, Xiaonan Huang, Weiming Shen*<br> <span style="color:#b02418; font-weight:bold;">Best Student Paper Award</span>
   </li>
 
   <li id="FA-Pub8"> 
