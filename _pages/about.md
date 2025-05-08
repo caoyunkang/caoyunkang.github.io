@@ -28,7 +28,7 @@ If you find my research interesting, I would love to connect! Feel free to reach
 
 # 🏆 Personal Highlights
 
-- **Academic Impact**: 10 first-authored papers accepted (including venues like ECCV, CVPR), over 500 citations, and runner-up in a CVPR competition
+- **Academic Impact**: 10 first-authored papers accepted (including venues like ECCV, CVPR), over 600 citations, and runner-up in a CVPR competition
 
 - **Open-Source Contributions**: 1600+ GitHub stars, led four projects that have garnered over 100 stars each, with one repository achieving nearly 800 stars
 
@@ -99,7 +99,7 @@ Wei Luo#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Ha
 
   <li id="FA-Manuscript2"> 
     Customizing Visual-Language Foundation Models for Multi-Modal Anomaly Detection and Reasoning <a href="https://arxiv.org/abs/2403.11083">[Paper]</a> <a href="https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection">[Code]</a> <br> 
-    Xiahao Xu#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Huaxin Zhang, Nong Sang, Xiaonan Huang, Weiming Shen*<br> <span style="color:#b02418; font-weight:bold;">Best Student Paper Award</span>
+    Xiahao Xu#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Huaxin Zhang, Nong Sang, Xiaonan Huang, Weiming Shen* <span style="color:#b02418; font-weight:bold;">Best Student Paper Award</span> <br>
   </li>
 
   <li id="FA-Pub8"> 
