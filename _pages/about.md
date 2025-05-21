@@ -16,15 +16,21 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# Yunkang Cao (曹云康)
 
+I am currently an Assistant Professor at the [School of Robotics, Hunan University](http://robotics.hnu.edu.cn/). I received my Ph.D. from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), where I had the privilege of being mentored by [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra) (FCAE, FIEEE). During my doctoral studies, I completed a one-year research visit to [Politecnico di Milano (Polimi)](https://www.polimi.it/) under the supervision of [Prof. Giacomo Boracchi](https://boracchi.faculty.polimi.it/).
 
-Hello! I’m Yunkang Cao (曹云康), an incoming Assistant Professor in the [School of Robotics, Hunan University](http://robotics.hnu.edu.cn/). Currently, I am a Ph.D. candidate at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), where I am honored to be working under the guidance of [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). I am also grateful for the opportunity to visit [Politecnico di Milano (Polimi)](https://www.polimi.it/) for one year, working under the supervision of [Prof. Giacomo Boracchi](https://boracchi.faculty.polimi.it/).
+My research centers on **Deep Learning** and **Computer Vision**, with specialized expertise in **Anomaly Detection & Reasoning for Embodied Intelligence**. I particularly focus on developing intelligent solutions for manufacturing applications. The long-term vision driving my work is to advance robotic systems through enhanced safety and interpretability, equipping intelligent visual systems with robust reasoning and planning capabilities to diagnose and recover from open-world anomalies.
 
-My academic research primarily focuses on **Deep Learning** and **Computer Vision**, with a particular emphasis on **Anomaly Detection & Reasoning for Embodied Intelligence**, especially in manufacturing scenarios.
-My long-term goal is to make robotics more safe and more understandable. I aim to enhance intelligent visual systems with reasoning and planning capabilities to address and recover from open-world anomalies.
+本课题组目前正在招收硕士研究生、研究助理和访问学生，同时欢迎有志向的本科生提前参与科研工作。
+本课题组注重平等交流，沟通融洽，与华中科技大学机械学院、湖南大学机器人学院、福耀科技大学的其他导师团队、以及腾讯优图、宁德时代算法团队具有紧密合作，能够提供共同学习讨论，科研交流，和企业合作的机会。
 
+如您对以下研究方向感兴趣，欢迎邮件联系探讨合作可能：
+- 工业视觉异常检测
+- 具身智能决策系统
+- 开放环境下的机器人感知
 
-If you find my research interesting, I would love to connect! Feel free to reach out if you have any questions or would like to discuss my work. 😊
+📩 **电子邮箱**: [caoyunkang0207@gmail.com](mailto:caoyunkang0207@gmail.com)
 
 # 🏆 Personal Highlights
 
