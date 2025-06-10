@@ -309,9 +309,8 @@ Wei Luo#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Ha
 
 
 # 🎓📚 Academic Service 
-- *Journal Reviewer*, IEEE Trans. Syst. Man Cybern. -Syst., IEEE Trans. Neural Netw. Learn. Syst., IEEE Trans. Ind. Inform., 
-  IEEE Trans. Circuits Syst. Video Technol., etc.
-- *Conference Reviewer*, CVPR, NeurIPS, ICML, AAAI, ICRA, etc.
+- *Journal Reviewer*, IEEE TSMC, IEEE TNNLS, IEEE TII, IEEE TKDE, IEEE TCSVT, IEEE TASE, PR, etc.
+- *Conference Reviewer*, CVPR2024/2025, NeurIPS2024/2025, ICML2025, AAAI2023/2024/2025, ECCV2024, ICLR2025, ICRA2024, IROS2024/2025, etc.
 - *Co-organizer of special sessions*, <a href="https://adfmw.github.io/ijcai24/index.html">[Anomaly Detection with Foundation Models (ADFM)]</a> at IJCAI (2024).
 - *Co-organizer of special sessions*, <a href="https://2024.ieeecase.org/special-sessions/">[Industrial Foundation Models and Applications in Smart Manufacturing]</a> at the IEEE International Conference on Automation Science and Engineering (2024).
 
