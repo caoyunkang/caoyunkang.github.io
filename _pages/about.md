@@ -43,6 +43,9 @@ My research centers on **Deep Learning** and **Computer Vision**, with specializ
 - **Technical Expertise**: Proficient in adapting models such as CLIP/LLM/Stable Diffusion, multimodal anomaly detection, and full-stack development for industrial quality inspection systems
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://github.com/hmyao22/GRNR) has been accepted by IEEE TSMC.
+- *2025.07*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2507.11003) has been accepted by ICCV ADFM.
+- *2025.07*: &nbsp;🎉🎉 Our papers addressed [Point Cloud Anomaly Detection](https://arxiv.org/abs/2507.21555) and [Fully Unsupervised Anomaly Detection](https://github.com/hustzhangyuxin/LLBNAD) have been accepted by IEEE SMC.
 - *2025.05*: &nbsp;🎉🎉 We are deeply honored to have been awarded the <span style="color:#b02418; font-weight:bold;">Best Student Paper Award</span> at CSCWD2025 for our paper [MLLM-based Anomaly Detection](https://arxiv.org/abs/2403.11083).
 - *2025.04*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection]() has been accepted by IJCAI.
 - *2025.04*: 🎉🎉 We successfully organized the [CVPR2025 Pre-conference "Industrial Vision" Special Session)](https://mp.weixin.qq.com/s/opOMTAN2s7kLVwVaNfwAfg), which attracted over 5,000 online viewers!
@@ -80,16 +83,30 @@ My research centers on **Deep Learning** and **Computer Vision**, with specializ
 - *2022.03*: &nbsp;🎉🎉 Our paper addressed [Unsupervised Image Anomaly Detection](https://www.sciencedirect.com/science/article/pii/S0950705122004038) is accepted by Knowledge-based Systems.
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
+(For the complete list of publications, please refer [My Google Scholar Page](https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ&view_op=list_works&sortby=pubdate))
 
-<h2>
-  <a href="#Peer-Reviewed Publications"><u>Peer-Reviewed Publications</u></a>&nbsp; <br> 
-  <a href="#Manuscripts under Review"><u>Manuscripts under Review</u></a>&nbsp; <br>
-</h2>
+[comment]: <> (<h2>)
+
+[comment]: <> (  <a href="#Peer-Reviewed Publications"><u>Peer-Reviewed Publications</u></a>&nbsp; <br> )
+
+[comment]: <> (  <a href="#Manuscripts under Review"><u>Manuscripts under Review</u></a>&nbsp; <br>)
+
+[comment]: <> (</h2>)
+
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
-<h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Peer-Reviewed Publications</h2>
+[comment]: <> (<h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Peer-Reviewed Publications</h2>)
 <ol reversed>
+
+  <li id="OT-Manuscript2"> 
+    Global-Regularized Neighborhood Regression for Efficient Zero-Shot Texture Anomaly Detection 
+<a href="https://arxiv.org/abs/2406.07333">[Paper]</a>  
+<a href="https://github.com/hmyao22/GRNR">[Code]</a>
+<br> 
+    Haiming Yao, Wei Luo, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Yiheng Zhang, Wenyong Yu*, Weiming Shen <br>
+    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i>. 
+  </li>
 
   <li id="FA-Pub10"> 
     Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection <a href="">[Paper]</a> <a href="">[Code]</a> <br> 
@@ -228,46 +245,58 @@ Wei Luo#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Ha
   </li>
 </ol>
 
-<h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;"> Manuscripts under Review</h2>
-<ol reversed>
-  <li id="FA-Manuscript5"> 
-    A Generalized Medical Anomaly Detection Suite: Detecting Anomalies in Multi-Source and Multi-Modality Images. <br> 
-    <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Haiming Yao#, Yu Cai, Hao Chen, Weiming Shen* <br>
-    <i>IEEE Transactions on Neural Networks and Learning Systems <strong>(IEEE TNNLS)</strong></i>. (under review)
-  </li>
+[comment]: <> (<h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;"> Manuscripts under Review</h2>)
 
-  <li id="FA-Manuscript3"> 
-    A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect <a href="https://arxiv.org/abs/2401.16402">[Paper]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Jiangning Zhang, Yuqi Cheng, Xiaonan Huang, Guansong Pang, Weiming Shen* (under review) <br>
-  </li>
+[comment]: <> (<ol reversed>)
+
+[comment]: <> (  <li id="FA-Manuscript5"> )
+
+[comment]: <> (    A Generalized Medical Anomaly Detection Suite: Detecting Anomalies in Multi-Source and Multi-Modality Images. <br> )
+
+[comment]: <> (    <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Haiming Yao#, Yu Cai, Hao Chen, Weiming Shen* <br>)
+
+[comment]: <> (    <i>IEEE Transactions on Neural Networks and Learning Systems <strong>&#40;IEEE TNNLS&#41;</strong></i>. &#40;under review&#41;)
+
+[comment]: <> (  </li>)
+
+[comment]: <> (  <li id="FA-Manuscript3"> )
+
+[comment]: <> (    A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect <a href="https://arxiv.org/abs/2401.16402">[Paper]</a> <br> )
+
+[comment]: <> (    <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Jiangning Zhang, Yuqi Cheng, Xiaonan Huang, Guansong Pang, Weiming Shen* &#40;under review&#41; <br>)
+
+[comment]: <> (  </li>)
 
 
-  <li id="FA-Manuscript1"> 
-    Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework  <a href="https://arxiv.org/abs/2409.13162">[Paper]</a> <a href="https://github.com/hustCYQ/MVP-PCLIP">[Code]</a>  <br>
-    Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
-    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i> . (major revision)
-  </li>
+[comment]: <> (  <li id="FA-Manuscript1"> )
 
-  <li id="OT-Manuscript3"> 
-    VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br> 
-    Yuxin Jiang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Yuqi Cheng, Yiheng Zhang, Weiming Shen* <br>
-    <i>IEEE Transactions on Cybernetics <strong>(IEEE TCYB)</strong></i>. (major revision)
-  </li>
+[comment]: <> (    Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework  <a href="https://arxiv.org/abs/2409.13162">[Paper]</a> <a href="https://github.com/hustCYQ/MVP-PCLIP">[Code]</a>  <br>)
 
-  <li id="OT-Manuscript2"> 
-    Global-Regularized Neighborhood Regression for Efficient Zero-Shot Texture Anomaly Detection 
-<a href="https://arxiv.org/abs/2406.07333">[Paper]</a>  
-<a href="https://github.com/hmyao22/GRNR">[Code]</a>
-<br> 
-    Haiming Yao, Wei Luo, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Yiheng Zhang, Wenyong Yu*, Weiming Shen <br>
-    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC)</strong></i>. (major revision)
-  </li>
+[comment]: <> (    Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>)
 
-  <li id="OT-Manuscript1"> 
-    URA-Net: Uncertainty-Integrated Anomaly Perception and Restoration Attention Network for Unsupervised Anomaly Detection <br> 
-    Wei Luo, Peng Xing, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Weiming Shen, Zechao Li* (under review) <br>
-  </li>
-</ol>
+[comment]: <> (    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>&#40;IEEE TSMC&#41;</strong></i> . &#40;major revision&#41;)
+
+[comment]: <> (  </li>)
+
+[comment]: <> (  <li id="OT-Manuscript3"> )
+
+[comment]: <> (    VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection <br> )
+
+[comment]: <> (    Yuxin Jiang, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Yuqi Cheng, Yiheng Zhang, Weiming Shen* <br>)
+
+[comment]: <> (    <i>IEEE Transactions on Cybernetics <strong>&#40;IEEE TCYB&#41;</strong></i>. &#40;major revision&#41;)
+
+[comment]: <> (  </li>)
+
+[comment]: <> (  <li id="OT-Manuscript1"> )
+
+[comment]: <> (    URA-Net: Uncertainty-Integrated Anomaly Perception and Restoration Attention Network for Unsupervised Anomaly Detection <br> )
+
+[comment]: <> (    Wei Luo, Peng Xing, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Weiming Shen, Zechao Li* &#40;under review&#41; <br>)
+
+[comment]: <> (  </li>)
+
+[comment]: <> (</ol>)
 
 
 # 💻 Projects
