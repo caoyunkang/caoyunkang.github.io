@@ -43,6 +43,7 @@ My research centers on **Deep Learning** and **Computer Vision**, with specializ
 - **Technical Expertise**: Proficient in adapting models such as CLIP/LLM/Stable Diffusion, multimodal anomaly detection, and full-stack development for industrial quality inspection systems
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Our paper addressed [Unsupervised Image Anomaly Detection]() has been accepted by IEEE TCSVT.
 - *2025.07*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://github.com/hmyao22/GRNR) has been accepted by IEEE TSMC.
 - *2025.07*: &nbsp;🎉🎉 Our paper addressed [Zero-shot Image Anomaly Detection](https://arxiv.org/abs/2507.11003) has been accepted by ICCV ADFM.
 - *2025.07*: &nbsp;🎉🎉 Our papers addressed [Point Cloud Anomaly Detection](https://arxiv.org/abs/2507.21555) and [Fully Unsupervised Anomaly Detection](https://github.com/hustzhangyuxin/LLBNAD) have been accepted by IEEE SMC.
