@@ -171,7 +171,7 @@ If you are eager to make systematic contributions at the intersection of **Indus
 
   <li id="FA-Manuscript2"> 
     Customizing Visual-Language Foundation Models for Multi-Modal Anomaly Detection and Reasoning <a href="https://arxiv.org/abs/2403.11083">[Paper]</a> <a href="https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection">[Code]</a> <br> 
-    Xiahao Xu#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Huaxin Zhang, Nong Sang, Xiaonan Huang, Weiming Shen* <br>
+    Xiaohao Xu#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Huaxin Zhang, Nong Sang, Xiaonan Huang, Weiming Shen* <br>
     <i>IEEE International Conference on Computer Supported Cooperative Work in Design <strong>(CSCWD)</strong></i>. 2025. <span style="color:#b02418; font-weight:bold;">Best Student Paper Award</span> 
   </li>
 
