@@ -129,27 +129,27 @@ If you are eager to make systematic contributions at the intersection of **Indus
   </li>
 
 <li id="JMS25"> 
-  A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects <br>
+  A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects  <a href="https://arxiv.org/abs/2507.13378">[Paper]</a> <a href="https://github.com/hustCYQ/Towards-Practical-Industrial-Anomaly-Detection">[Code]</a> <br>
   Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Haiming Yao, Wei Luo, Cheng Jiang, Hui Zhang, Weiming Shen* <br>
   <i>Journal of Manufacturing Systems <strong>(JMS)</strong></i>. 2026. (In Press)
 </li>
 
 <li id="AAAI26-1"> 
   IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection <br>
-  Yanhui Li, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Chengliang Liu, Yuan Xiong, Xinghui Dong, Chao Huang <br>
+  Yanhui Li, <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Chengliang Liu, Yuan Xiong, Xinghui Dong, Chao Huang <a href="https://arxiv.org/abs/2508.09178">[Paper]</a> <a href="https://github.com/Yanhui-Lee/IAD-R1">[Code]</a> <br>
   <i>The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong></i>. 2026. 
   <span style="color:#b02418; font-weight:bold;">(Oral Presentation)</span>
 </li>
 
 <li id="AAAI26-2"> 
-  Towards High-resolution 3D Anomaly Detection: A Scalable Dataset and Real-time Framework for Subtle Industrial Defects <br>
+  Towards High-resolution 3D Anomaly Detection: A Scalable Dataset and Real-time Framework for Subtle Industrial Defects <a href="https://arxiv.org/abs/2507.07435">[Paper]</a> <a href="https://github.com/hustCYQ/MiniShift-Simple3D">[Code]</a> <br>
   Yuqi Cheng, Yihan Sun, Hui Zhang, Weiming Shen, <span style="color:#b02418; font-weight:bold;">Yunkang Cao*</span><span style="color:#b02418; font-weight:bold;"></span><br>
   <i>The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong></i>. 2026. 
   <span style="color:#b02418; font-weight:bold;">(Oral Presentation)</span>
 </li>
 
 <li id="AAAI26-3"> 
-  Anomagic: Cross-modal Prompt-driven Zero-shot Anomaly Generation <br>
+  Anomagic: Cross-modal Prompt-driven Zero-shot Anomaly Generation <a href="https://arxiv.org/abs/2511.10020">[Paper]</a> <a href="https://github.com/yuxin-jiang/Anomagic">[Code]</a> <br>
   Yuxin Jiang, Wei Luo, Hui Zhang, Qiyu Chen, Haiming Yao, Weiming Shen, <span style="color:#b02418; font-weight:bold;">Yunkang Cao*</span> <br>
   <i>The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong></i>. 2026. (Poster Presentation)
 </li>
@@ -188,7 +188,7 @@ If you are eager to make systematic contributions at the intersection of **Indus
   </li>
 
   <li id="FA-Pub7"> 
-    VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling <br> 
+    VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling <a href="https://ieeexplore.ieee.org/document/10843956">[Paper]</a> <a href="https://github.com/caoyunkang/VarAD">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Haiming Yao, Wei Luo, Weiming Shen* <br>
     <i>IEEE Transactions on Industrial Informatics <strong>(IEEE TII).</strong></i> 2025.
   </li>
@@ -206,7 +206,7 @@ If you are eager to make systematic contributions at the intersection of **Indus
   </li>
 
   <li id="FA-Pub4"> 
-    BiaS: Incorporating Biased Knowledge to Boost Unsupervised Image Anomaly Localization <a href="https://ieeexplore.ieee.org/document/10402554">[Paper]</a> <br> 
+    BiaS: Incorporating Biased Knowledge to Boost Unsupervised Image Anomaly Localization <a href="https://ieeexplore.ieee.org/document/10402554">[Paper]</a> <a href="https://github.com/caoyunkang/CDO">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yunkang Cao</span>, Xiaohao Xu, Chen Sun, Liang Gao, Weiming Shen* <br>
     <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC).</strong></i> 2024.
   </li>
