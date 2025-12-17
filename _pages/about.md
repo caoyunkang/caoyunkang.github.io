@@ -94,7 +94,7 @@ If you are eager to make systematic contributions at the intersection of **Indus
 
 
 # 🔥 News
-
+- *2025.12*: &nbsp;🏆 **[Top Journal]** Our paper on [Zero-shot 3D Anomaly Detection](https://arxiv.org/pdf/2409.13162) has been accepted by **IEEE TSMC** (IF=8.7)!
 - *2025.12*: &nbsp;🏆 **[Top Journal]** Our paper *"A Comprehensive Survey for Real-World Industrial Defect Detection"* has been accepted by **Journal of Manufacturing Systems (JMS)** (IF=12.2)!
 - *2025.11*: &nbsp;🎉 **[Big News]** **Three papers** have been accepted by **AAAI 2026**! 
   - **2 Orals** regarding Consistent Reasoning (IAD-R1) and High-resolution 3D Anomaly Detection.
@@ -121,6 +121,12 @@ If you are eager to make systematic contributions at the intersection of **Indus
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 <ol reversed>
+
+  <li id="TSMC"> 
+    Towards zero-shot point cloud anomaly detection: A multi-view projection framework <a href="https://arxiv.org/pdf/2409.13162">[Paper]</a> <a href="https://github.com/hustCYQ/MVP-PCLIP">[Code]</a> <br> 
+    Yuqi Cheng#, <span style="color:#b02418; font-weight:bold;">Yunkang Cao#</span>, Guoyang Xie, Zhichao Lu, Weiming Shen* <br>
+    <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems <strong>(IEEE TSMC).</strong></i> 2026.
+  </li>
 
 <li id="JMS25"> 
   A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects <br>
