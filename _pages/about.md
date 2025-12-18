@@ -113,7 +113,7 @@ If you are eager to make systematic contributions at the intersection of **Indus
 
 # 📝 Selected Publications 
 
-[![Citations](https://img.shields.io/badge/Citations-1100%2B-007ec6?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ)
+[![Citations](https://img.shields.io/badge/Citations-1200%2B-007ec6?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ)
 [![Top Tier Papers](https://img.shields.io/badge/Top_Tier_Papers-40%2B-FF6B6B?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ)
 [![GitHub Stars](https://img.shields.io/badge/GitHub_Stars-1.8k%2B-181717?logo=github&logoColor=white)](https://github.com/caoyunkang)
 
