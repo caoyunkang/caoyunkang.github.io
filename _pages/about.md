@@ -333,21 +333,29 @@ If you are eager to make systematic contributions at the intersection of **Indus
 - *2023.11*, National University of Defense Technology (NUDT), "Overview of Image Anomaly Detection—Review, Applications, and Future Prospects" <a href="https://drive.google.com/file/d/1IBeVN-x-A_MO2iq6CQAm9f2XICVmkGZB/view?usp=drive_link">[Slides]</a>.
 
 
-# 📖 Education
-- ### *2023.10 - 2024.10, Politecnico di Milano*
-  Department of Electronics, Information and Bioengineering                              
-  ***Visiting Ph.D.*** in Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: [Giacomo Boracchi](https://boracchi.faculty.polimi.it/)
-  
-- ### *2020.09 - 2025.06, Huazhong University of Science and Technology*
-  State Key Laboratory of Digital Manufacturing Equipment and Technology                               
-  ***Ph.D. Candidate*** in Mechanical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: [Weiming Shen](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate)
- 
-- ### *2016.09 - 2020.06, Huazhong University of Science and Technology*
-  ***B.S.*** in Mechanical Design, Manufacture & Automation &nbsp;&nbsp;&nbsp; 
+[comment]: <> (# 📖 Education)
 
-# 📋 Work Experience
-- ### *2025.06 - Present, Hunan University*
-  ***Assistant Professor***, School of Artificial Intelligence and Robotics, Hunan University 
+[comment]: <> (- ### *2023.10 - 2024.10, Politecnico di Milano*)
+
+[comment]: <> (  Department of Electronics, Information and Bioengineering                              )
+
+[comment]: <> (  ***Visiting Ph.D.*** in Computer Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: [Giacomo Boracchi]&#40;https://boracchi.faculty.polimi.it/&#41;)
+  
+[comment]: <> (- ### *2020.09 - 2025.06, Huazhong University of Science and Technology*)
+
+[comment]: <> (  State Key Laboratory of Digital Manufacturing Equipment and Technology                               )
+
+[comment]: <> (  ***Ph.D. Candidate*** in Mechanical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: [Weiming Shen]&#40;https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate&#41;)
+ 
+[comment]: <> (- ### *2016.09 - 2020.06, Huazhong University of Science and Technology*)
+
+[comment]: <> (  ***B.S.*** in Mechanical Design, Manufacture & Automation &nbsp;&nbsp;&nbsp; )
+
+[comment]: <> (# 📋 Work Experience)
+
+[comment]: <> (- ### *2025.06 - Present, Hunan University*)
+
+[comment]: <> (  ***Assistant Professor***, School of Artificial Intelligence and Robotics, Hunan University )
   
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=QltdrDBXR7cYztdXsLCBfSeruYl8EMVZ7i3zpSoGzP4&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
