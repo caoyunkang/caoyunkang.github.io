@@ -1,3 +1,7 @@
 _site/
 push.sh
 .DS_Store
+.bundle/
+.jekyll-cache/
+.sass-cache/
+.local-preview/
