@@ -21,13 +21,11 @@ redirect_from:
 
 <div class="profile-lead">
   <p class="role-line lang-en"><i class="fas fa-user-graduate" aria-hidden="true"></i> Assistant Professor / Associate Research Fellow / Ph.D. Supervisor / Deputy Director of the Department of Robotics Engineering</p>
-  <p class="role-line cn lang-zh"><i class="fas fa-user-graduate" aria-hidden="true"></i> 助理教授 / 副研究员 / 博士生导师 / 机器人工程系副主任</p>
+  <p class="role-line cn lang-zh"><i class="fas fa-user-graduate" aria-hidden="true"></i> 助理教授 · 副研究员 · 博士生导师 · 机器人工程系副主任</p>
   <div class="profile-meta">
     <span class="lang-en"><i class="fas fa-university" aria-hidden="true"></i> School of Artificial Intelligence and Robotics, Hunan University</span>
     <span class="lang-zh"><i class="fas fa-university" aria-hidden="true"></i> 湖南大学人工智能与机器人学院</span>
     <span><i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:caoyunkang0207@gmail.com">caoyunkang0207@gmail.com</a></span>
-    <span class="lang-en"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> Room C1-310, Taizihu Campus, Hunan University</span>
-    <span class="lang-zh"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> 湖南大学桃子湖校区人工智能与机器人学院 C1-310</span>
   </div>
   <div class="profile-links">
     <a href="https://scholar.google.com/citations?user=aLJ8_G4AAAAJ&hl=zh-CN"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
@@ -41,7 +39,7 @@ redirect_from:
 </div>
 
 <nav class="quick-nav" aria-label="Quick links">
-  <a href="#about"><i class="fas fa-id-card" aria-hidden="true"></i><span class="lang-en">About</span><span class="lang-zh">基本情况</span></a>
+  <a href="#about"><i class="fas fa-id-card" aria-hidden="true"></i><span class="lang-en">About</span><span class="lang-zh">个人简介</span></a>
   <a href="#openings"><i class="fas fa-user-plus" aria-hidden="true"></i><span class="lang-en">Openings</span><span class="lang-zh">招生</span></a>
   <a href="#research"><i class="fas fa-microscope" aria-hidden="true"></i><span class="lang-en">Research</span><span class="lang-zh">研究方向</span></a>
   <a href="#works"><i class="fas fa-layer-group" aria-hidden="true"></i><span class="lang-en">Works</span><span class="lang-zh">代表成果</span></a>
@@ -57,18 +55,39 @@ redirect_from:
   var initialLang = params.get("lang") === "en" ? "en" : "zh";
   var root = document.documentElement;
   var mainNavLabels = {
-    "/#about-me": { zh: "首页", en: "About" },
-    "../files/CV_Yunkang_CAO.pdf": { zh: "简历", en: "CV" },
-    "/#openings": { zh: "招生", en: "Openings" },
-    "/#research": { zh: "研究方向", en: "Research" },
-    "/#works": { zh: "代表成果", en: "Works" },
-    "/#publications": { zh: "代表论文", en: "Publications" },
-    "/#service": { zh: "学术服务", en: "Service" }
+    "#about-me": { zh: "首页", en: "Home" },
+    "#openings": { zh: "招生", en: "Openings" },
+    "#research": { zh: "研究方向", en: "Research" },
+    "#works": { zh: "代表成果", en: "Works" },
+    "#publications": { zh: "代表论文", en: "Publications" },
+    "#service": { zh: "学术服务", en: "Service" },
+    "/files/CV_Yunkang_CAO.pdf": { zh: "简历", en: "CV" }
   };
+
+  function getMainNavLabels(link) {
+    var href = link.getAttribute("href");
+    if (mainNavLabels[href]) {
+      return mainNavLabels[href];
+    }
+
+    try {
+      var url = new URL(href, window.location.href);
+      if (url.pathname === "/files/CV_Yunkang_CAO.pdf") {
+        return mainNavLabels["/files/CV_Yunkang_CAO.pdf"];
+      }
+      if (url.origin === window.location.origin && url.hash && (url.pathname === "/" || url.pathname === window.location.pathname)) {
+        return mainNavLabels[url.hash];
+      }
+    } catch (error) {
+      return null;
+    }
+
+    return null;
+  }
 
   function updateMainNav(lang) {
     document.querySelectorAll(".masthead a[href], .greedy-nav a[href]").forEach(function (link) {
-      var labels = mainNavLabels[link.getAttribute("href")];
+      var labels = getMainNavLabels(link);
       if (labels) {
         link.textContent = labels[lang];
       }
@@ -106,6 +125,24 @@ redirect_from:
     document.querySelectorAll("[data-lang-switch]").forEach(function (button) {
       button.addEventListener("click", function () {
         setLanguage(button.getAttribute("data-lang-switch"), true);
+      });
+    });
+
+    document.querySelectorAll(".masthead a[href^='#'], .quick-nav a[href^='#']").forEach(function (link) {
+      link.addEventListener("click", function (event) {
+        var hash = link.getAttribute("href");
+        var target = hash ? document.querySelector(hash) : null;
+        if (!target) {
+          return;
+        }
+
+        event.preventDefault();
+        target.scrollIntoView({ block: "start" });
+        if (window.history && window.history.replaceState) {
+          window.history.replaceState({}, "", window.location.pathname + window.location.search + hash);
+        } else {
+          window.location.hash = hash;
+        }
       });
     });
   });
@@ -341,30 +378,24 @@ html[data-lang="en"] .lang-zh {
 
 <span class='anchor' id='about'></span>
 
-# <i class="fas fa-id-card section-icon" aria-hidden="true"></i><span class="lang-en">About</span><span class="lang-zh">基本情况</span>
+# <i class="fas fa-id-card section-icon" aria-hidden="true"></i><span class="lang-en">About</span><span class="lang-zh">个人简介</span>
 
 I am an Assistant Professor and Ph.D. supervisor at the [School of Artificial Intelligence and Robotics, Hunan University (HNU)](http://robotics.hnu.edu.cn/), an Associate Research Fellow at the National Engineering Research Center of Robot Visual Perception and Control Technology, and Deputy Director of the Department of Robotics Engineering. I am a core member of the research team led by [Yaonan Wang (王耀南院士)](https://robotics.hnu.edu.cn/info/1176/3098.htm) and [Hui Zhang (张辉院长)](https://robotics.hnu.edu.cn/info/1176/2966.htm).
 {: .lang-en}
 
-曹云康，博士，湖南大学人工智能与机器人学院助理教授、博士生导师，机器人视觉感知与控制技术国家工程研究中心副研究员，兼任机器人工程系副主任，王耀南院士、张辉院长团队核心成员。
+曹云康，湖南大学人工智能与机器人学院助理教授、博士生导师，机器人视觉感知与控制技术国家工程研究中心副研究员，机器人工程系副主任，王耀南院士、张辉院长团队核心成员。
 {: .lang-zh}
 
-My research focuses on industrial visual inspection, multimodal foundation models, and robotic embodied perception. I aim to move industrial inspection systems from defect detection toward anomaly understanding, cause analysis, active inspection, and autonomous recovery. The long-term goal is to build deployable perception and reasoning systems for intelligent manufacturing, intelligent breeding, and other real-world industrial scenarios.
+I received my Ph.D. in Mechanical Engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/), where I was advised by [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). From 2023 to 2024, I was a visiting Ph.D. researcher at [Politecnico di Milano](https://www.polimi.it/) under the supervision of [Prof. Giacomo Boracchi](https://boracchi.faculty.polimi.it/).
 {: .lang-en}
 
-本人主要从事工业视觉检测、多模态基础模型与机器人具身感知研究，重点关注工业检测系统如何从“发现缺陷”走向“理解异常、分析成因、主动巡检和自主恢复”。相关研究面向智能制造、智能育种等实际场景，致力于发展可部署、可解释、可闭环运行的工业感知与推理技术。
+2025 年获华中科技大学机械工程博士学位，师从[沈卫明教授](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra)。博士期间于 2023 至 2024 年赴[米兰理工大学](https://www.polimi.it/)访学，合作导师为 [Giacomo Boracchi 教授](https://boracchi.faculty.polimi.it/)。
 {: .lang-zh}
 
-My work is organized around four connected directions: anomaly generation, anomaly detection, anomaly understanding, and embodied perception for industrial inspection. Representative outcomes include Anomagic for anomaly generation, IAD-R1 for industrial anomaly reasoning, and INP-Former for universal visual anomaly detection. INP-Former was adopted as a core method by four of the top five teams in the CVPR VAND Challenge.
+My research centers on industrial inspection and covers four connected directions: anomaly generation, anomaly detection, anomaly understanding, and embodied perception. I study how inspection systems can learn from limited defect data, detect and explain anomalies in open environments, and guide robots to gather evidence through active observation. The goal is to develop practical methods that connect perception, reasoning, and action in industrial settings.
 {: .lang-en}
 
-研究工作围绕异常生成、异常检测、异常理解与具身感知四条主线展开，已形成异常生成方法 Anomagic、工业异常推理模型 IAD-R1，以及面向通用视觉异常检测的 INP-Former 等代表性成果。其中，INP-Former 被 CVPR VAND 挑战赛前五名中的四支队伍采用为核心方法。
-{: .lang-zh}
-
-I have published more than 60 papers in journals and conferences including IEEE TCYB, IEEE TII, IEEE TSMC, Pattern Recognition, CVPR, ECCV, AAAI, IJCAI, and ICCV Workshop. My work has received over 2,100 Google Scholar citations with an H-index of 21. I have published 17 papers as first or corresponding author, and two papers have been selected as ESI Highly Cited Papers.
-{: .lang-en}
-
-近年来在 IEEE TCYB、IEEE TII、IEEE TSMC、Pattern Recognition 等国际期刊及 CVPR、ECCV、AAAI、IJCAI、ICCV Workshop 等会议发表论文 60 余篇，Google Scholar 引用 2100 余次，H 指数 21；其中以第一作者或通讯作者发表论文 17 篇，2 篇入选 ESI 高被引论文。
+主要研究工业场景中的异常生成、异常检测、异常理解和具身感知。针对缺陷数据少、生产环境变化大等问题，研究可控缺陷生成、开放场景异常检测和多模态异常推理，并将相关方法用于机器人主动巡检。代表性工作包括 Anomagic、INP-Former、IAD-R1 等。
 {: .lang-zh}
 
 <div class="metrics-grid">
@@ -374,17 +405,6 @@ I have published more than 60 papers in journals and conferences including IEEE 
   <div class="metric-item"><i class="fas fa-user-edit" aria-hidden="true"></i><strong>17</strong><span class="lang-en">First or Corresponding</span><span class="lang-zh">一作或通讯</span></div>
 </div>
 
-In technology transfer, I have led or participated in projects supported by Yuelushan Laboratory, central university research funds, key laboratory open funds, and industrial partners. The developed defect generation and multimodal open-set detection algorithms have been integrated into the SEER Robotics Xiangyun algorithm platform and deployed in core manufacturing scenarios through industry collaborations.
-{: .lang-en}
-
-在应用转化方面，主持岳麓山实验室种业专项、中央高校基本科研基金、教育部重点实验室开放基金及多项企业委托项目，并作为核心成员参与国家自然科学基金重大项目“跨物种多感官多粒度仿生感知”。相关缺陷生成与多模态开集检测算法已集成到视比特机器人翔云算法平台，并用于多项行业合作中的核心制造环节。
-{: .lang-zh}
-
-I serve on the editorial board of *Pattern Recognition* and lead the Special Issue on "Foundation Models for Anomaly Detection, Reasoning, and Recovery." I also review for more than twenty journals and conferences, including TPAMI, IJCV, CVPR, and NeurIPS. I have organized or co-organized workshops, special sessions, and forums on industrial inspection, anomaly detection, foundation models, and embodied perception.
-{: .lang-en}
-
-在学术服务方面，担任中科院一区期刊 Pattern Recognition 编委，牵头组织“面向缺陷检测、推理与修复的基础模型”专题特刊；长期担任 TPAMI、IJCV、CVPR、NeurIPS 等二十余个期刊与会议审稿人，并围绕工业检测、异常检测、基础模型与具身感知等主题组织国际研讨会和专题论坛。
-{: .lang-zh}
 
 -----
 
@@ -403,35 +423,35 @@ I serve on the editorial board of *Pattern Recognition* and lead the Special Iss
 
 <span class='anchor' id='openings'></span>
 
-# <i class="fas fa-user-plus section-icon" aria-hidden="true"></i><span class="lang-en">Openings and Mentoring</span><span class="lang-zh">招生与培养理念</span>
+# <i class="fas fa-user-plus section-icon" aria-hidden="true"></i><span class="lang-en">Openings and Mentoring</span><span class="lang-zh">招生与培养</span>
 
 <div class="opening-highlight">
-<p class="lang-en"><i class="fas fa-bullhorn" aria-hidden="true"></i>Openings: I am recruiting master's students, research assistants, and visiting students. Strong undergraduates are welcome to join early for research training.</p>
-<p class="lang-zh"><i class="fas fa-bullhorn" aria-hidden="true"></i>招生：长期招收硕士研究生、研究助理和访问学生。也欢迎数理基础扎实、愿意认真做科研的本科生提前进组学习。欢迎对人工智能、计算机视觉、具身智能、机器人、工业视觉检测和多模态大模型感兴趣的同学联系。</p>
+<p class="lang-en"><i class="fas fa-bullhorn" aria-hidden="true"></i>The 2027 Ph.D. quota is full. I am currently recruiting master's students and research assistants. Applicants from artificial intelligence, automation, computer science, mechanical engineering, and related fields are welcome. Master's students may join through recommendation-based admission, the national entrance examination, or transfer admission.</p>
+<p class="lang-zh"><i class="fas fa-bullhorn" aria-hidden="true"></i>2027 年博士研究生招生名额已满。目前主要招收硕士研究生和科研助理，欢迎人工智能、自动化、计算机、机械等相关专业的同学联系。硕士招生包括推免、统考和调剂。</p>
 </div>
 
-I value careful problem formulation, solid implementation, and steady research training. New members will receive close guidance throughout their first project, from reading papers and designing experiments to writing code, preparing manuscripts, and responding to reviewers.
+I work directly with students on topic selection, research design, and paper writing. New members begin with a concrete research problem and learn how to complete a full project, including literature review, experiment design, implementation, and manuscript preparation. Undergraduate students are encouraged to start research early. Research assistant positions may be remote or on site, and a commitment of about one year is recommended for those seeking sustained research experience or preparing for further study.
 {: .lang-en}
 
-课题组注重把问题凝练、代码实现、实验复现和论文写作打通。新成员入组后，将围绕第一个课题接受系统训练，包括文献阅读、实验设计、代码实现、论文撰写、投稿修改和学术交流，逐步培养独立开展研究的能力。
+我会直接参与选题、研究设计和论文指导。新同学入组后，通常先从一个具体课题做起，学习查阅文献、设计实验、实现算法和撰写论文。课题安排会结合个人基础和后续规划。本科生可提前进组；科研助理可线上或线下参与，建议连续投入一年左右，完成一个完整的研究项目。
 {: .lang-zh}
 
-I have advised students in national-level undergraduate innovation training projects and key-area support projects. Student work has received Best Student Paper Awards at CSCWD 2025 and ICAIS & ISAS 2026.
+I advised Yuhuan Du, an undergraduate from the 2023 cohort, on *OmniPose-AD: Canonical Normal Rendering for Unaligned 3D Anomaly Detection*. He is the first author, and I am the corresponding author. The paper received the Best Student Paper Award at ICAIS & ISAS 2026. Another student paper received the Best Student Paper Award at IEEE CSCWD 2025.
 {: .lang-en}
 
-目前已指导学生获批国家级大学生创新训练项目和重点领域支持项目，并获得 IEEE CSCWD 2025 Best Student Paper Award、ICAIS & ISAS 2026 Best Student Paper Award。
+2023 级本科生杜禹寰以第一作者完成论文 *OmniPose-AD: Canonical Normal Rendering for Unaligned 3D Anomaly Detection*，获 ICAIS & ISAS 2026 Best Student Paper Award，本人为通讯作者。另有一篇学生论文获 IEEE CSCWD 2025 Best Student Paper Award。
 {: .lang-zh}
 
-The group maintains collaborations with the University of Oxford, Politecnico di Milano, Tsinghua University, Huazhong University of Science and Technology, Huawei, Tencent Youtu Lab, CATL, SEER Robotics, and other academic and industrial partners. Students will have opportunities to work on real industrial scenarios, participate in technology transfer, and attend leading conferences such as CVPR, ICCV, AAAI, and IJCAI.
+The group collaborates with the University of Oxford, Politecnico di Milano, Tsinghua University, Huazhong University of Science and Technology, Huawei, Tencent Youtu Lab, CATL, and SEER Robotics. Students have access to computing resources, robotic platforms, research projects, paper-writing support, and academic or industrial collaboration opportunities.
 {: .lang-en}
 
-课题组与牛津大学、米兰理工大学、清华大学、华中科技大学等国内外高校保持合作，并与华为、腾讯优图、宁德时代、视比特机器人等企业建立合作关系。学生有机会参与真实工业项目，接触技术转化和工程落地过程，也鼓励参加 CVPR、ICCV、AAAI、IJCAI 等国际会议，拓展学术视野。
+课题组与牛津大学、米兰理工大学、清华大学、华中科技大学等高校保持合作，也与华为、腾讯优图、宁德时代、视比特机器人等企业开展联合研究。学生可使用团队的计算资源和机器人实验平台，并参与学术交流和企业合作项目。
 {: .lang-zh}
 
-**Contact**: Please send your CV to [caoyunkang0207@gmail.com](mailto:caoyunkang0207@gmail.com). Please briefly describe your research interests, prior experience, technical skills, and future research thoughts in the email.
+**Contact**: Please send your CV to [caoyunkang0207@gmail.com](mailto:caoyunkang0207@gmail.com). Use the subject line "Master's Application / Research Assistant Application - Name - University - Major - Expected Start Date."
 {: .lang-en}
 
-联系时请先阅读“研究方向介绍”和代表性成果，并在邮件中简要说明研究兴趣、过往经历、技能基础及未来科研思考，便于后续沟通。
+申请时请将个人简历发送至 [caoyunkang0207@gmail.com](mailto:caoyunkang0207@gmail.com)，邮件标题请注明“硕士申请 / 科研助理申请 - 姓名 - 学校 - 专业 - 预计参与时间”。
 {: .lang-zh}
 
 -----
@@ -440,42 +460,42 @@ The group maintains collaborations with the University of Oxford, Politecnico di
 
 # <i class="fas fa-microscope section-icon" aria-hidden="true"></i><span class="lang-en">Research Directions</span><span class="lang-zh">研究方向</span>
 
-The group studies four connected problems in industrial inspection: anomaly generation, anomaly detection, anomaly understanding, and embodied perception. The aim is to build systems that learn from limited defect data, generalize across open industrial environments, and connect perception with robotic inspection and recovery.
+The group studies four connected problems in industrial inspection: anomaly generation, anomaly detection, anomaly understanding, and embodied perception. Our work examines how inspection systems can learn from limited defect data, operate in open industrial environments, explain their findings, and guide robots to collect additional evidence and respond to anomalies.
 {: .lang-en}
 
-课题组围绕工业检测中的异常生成、异常检测、异常理解和具身感知开展研究。我们关注缺陷样本少、场景开放、工况变化大等实际问题，希望在这些约束下建立易训练、泛化能力强、便于部署的检测系统，并将其接入机器人主动巡检和异常恢复流程。
+我的研究主要包括以下四个方向，均面向工业检测，具体关注缺陷样本不足、未知异常识别、异常原因分析和机器人自主巡检等问题。
 {: .lang-zh}
 
 ## <i class="fas fa-magic section-icon" aria-hidden="true"></i><span class="lang-en">1. Anomaly Generation</span><span class="lang-zh">1. 异常生成</span>
 
-We build controllable anomaly generation methods for industrial inspection, including diffusion-based synthesis, multimodal prompt-driven generation, and defect transfer. The goal is to create realistic and diverse defects for detector training, benchmarking, and failure-case analysis when real anomaly data are scarce.
+We study physics-informed generation of realistic industrial defects. Our work combines generative models with physical priors and explores foundation-model agents that can plan the generation process, assess sample quality, and refine results iteratively. The generated data support detector training, benchmarking, and long-tail anomaly analysis when real defects are scarce.
 {: .lang-en}
 
-针对工业现场缺陷样本少、异常形态难以穷举的问题，研究生成式模型、扩散模型和多模态提示驱动的异常生成方法，按需生成真实、多样、可控制的缺陷样本，用于检测模型训练、评测集构建和长尾异常分析，降低工业检测对真实缺陷数据的依赖。
+真实缺陷通常数量少、类型有限，采集和标注成本也较高。本方向研究引入物理先验的缺陷生成方法，使合成样本在外观和成因上更接近真实缺陷；同时探索大模型智能体在生成方案设计、样本筛选和自动迭代中的应用。生成数据主要用于检测模型训练、评测集构建和长尾异常分析。
 {: .lang-zh}
 
 ## <i class="fas fa-search section-icon" aria-hidden="true"></i><span class="lang-en">2. Anomaly Detection</span><span class="lang-zh">2. 异常检测</span>
 
-We develop unsupervised, few-shot, and zero-shot anomaly detection methods for industrial images, point clouds, 3D geometry, and multi-view inspection. The focus is on foundation models, vision-language models, normal prototype modeling, high-resolution localization, and robust generalization across products, defect types, and production sites.
+We develop unsupervised, few-shot, zero-shot, and unified anomaly detection methods for industrial images, point clouds, 3D geometry, and multi-view data. The research covers foundation models, vision-language models, normal prototype modeling, fine-grained localization, and generalization across products, defect types, and production sites.
 {: .lang-en}
 
-研究在正常样本有限、甚至没有目标域样本时发现未知异常的方法，覆盖 2D 图像、点云、3D 几何和多视角检测。重点关注基础模型、视觉语言模型、正常原型建模、高分辨率细粒度定位和跨产品泛化，使模型面对新产线、新类别和新缺陷时仍能稳定工作。代表性成果包括首届 CVPR VAND 挑战赛全球亚军方法 Segment Any Anomaly，以及被多支获奖队伍采用的 INP-Former。
+研究无监督、少样本、零样本和统一异常检测，数据形式包括 2D 图像、点云、3D 几何和多视角图像。重点关注正常原型建模、视觉语言模型、细粒度定位和跨产品泛化，希望模型在更换产线、产品或缺陷类型后仍能稳定使用。代表性成果包括首届 CVPR VAND 挑战赛全球亚军方法 Segment Any Anomaly，以及被多支获奖队伍采用的 INP-Former。
 {: .lang-zh}
 
 ## <i class="fas fa-brain section-icon" aria-hidden="true"></i><span class="lang-en">3. Anomaly Understanding</span><span class="lang-zh">3. 异常理解</span>
 
-We study multimodal anomaly understanding with large models. Beyond anomaly scores and heatmaps, the goal is to describe anomaly appearance, identify semantic attributes, infer possible causes, and provide information that engineers can verify and act on.
+We study multimodal anomaly understanding with foundation models. The research covers anomaly description, attribute recognition, cause analysis, visual question answering, risk assessment, and recovery suggestions. Representative work includes IAD-R1, which applies reinforcement learning to industrial anomaly reasoning.
 {: .lang-en}
 
-异常理解关注检测结果之后的“为什么”和“怎么办”。在多模态大模型基础上，研究异常描述、属性识别、成因线索推断、处置建议和检测报告生成，使系统不只输出分数或热力图，还能说明异常现象和可能原因，帮助工程人员复核与决策。
+传统异常检测通常只给出分数和热力图，难以直接回答异常是什么、为什么出现以及如何处理。本方向研究基于多模态大模型的异常描述、属性识别、原因分析、视觉问答、风险评估和恢复建议。代表性成果 IAD-R1 将强化学习用于工业异常推理。
 {: .lang-zh}
 
 ## <i class="fas fa-robot section-icon" aria-hidden="true"></i><span class="lang-en">4. Embodied Perception</span><span class="lang-zh">4. 具身感知</span>
 
-We integrate anomaly detection and anomaly understanding into robots and unmanned inspection systems. The aim is to let robots actively plan viewpoints and paths, gather multi-view and multimodal evidence, re-check suspicious regions, discover anomalies in open industrial sites, and support localization, recording, alerts, and recovery.
+We integrate anomaly detection and understanding into robots and unmanned inspection systems. Robots actively select viewpoints, plan observation paths, gather multimodal evidence, and revisit suspicious regions. This allows them to discover, verify, and understand anomalies in open industrial environments and provide evidence for subsequent decisions and recovery actions.
 {: .lang-en}
 
-具身感知强调把检测、理解能力与机器人主动行动结合起来。我们将异常检测和异常理解能力集成到机器人与无人巡检系统中，使其能够围绕检测任务主动规划视角和路径，采集多视角、多模态信息，在开放工业现场发现异常、复核疑似区域，并为定位、记录、报警和自主恢复提供依据。
+具身感知面向机器人巡检。我们将异常检测和异常理解模型部署到机器人上，让机器人根据当前观测主动调整视角和路线，必要时返回疑似区域复查。这样，机器人可以在开放工业环境中完成异常发现、确认和解释，并将结果用于后续处置。
 {: .lang-zh}
 
 -----
@@ -487,7 +507,7 @@ We integrate anomaly detection and anomaly understanding into robots and unmanne
 The following works illustrate the current research line from anomaly generation and detection to understanding and embodied inspection.
 {: .lang-en}
 
-这里展示几项代表性成果，呈现课题组从异常生成、异常检测到异常理解和机器人主动巡检的研究脉络。
+以下列出几项与研究方向对应的代表性工作。
 {: .lang-zh}
 
 <div class="works-grid">
@@ -499,7 +519,7 @@ The following works illustrate the current research line from anomaly generation
       <p class="work-kicker"><i class="fas fa-magic" aria-hidden="true"></i><span class="lang-en">Anomaly Generation</span><span class="lang-zh">异常生成</span></p>
       <h3>Anomagic</h3>
       <p class="lang-en">Crossmodal prompt-driven zero-shot anomaly generation for controllable defect synthesis.</p>
-      <p class="lang-zh">面向零样本异常生成，用视觉和文本提示共同控制缺陷合成，为检测、分割和推理模型提供可合成的异常样本。</p>
+      <p class="lang-zh">利用视觉和文本提示控制缺陷的位置与形态，在没有真实异常样本的情况下生成训练数据。</p>
       <p class="work-links"><a href="https://github.com/yuxin-jiang/Anomagic" target="_blank" rel="noopener">Repository</a></p>
     </div>
   </article>
@@ -512,7 +532,7 @@ The following works illustrate the current research line from anomaly generation
       <p class="work-kicker"><i class="fas fa-cubes" aria-hidden="true"></i><span class="lang-en">Anomaly Generation</span><span class="lang-zh">3D 缺陷合成</span></p>
       <h3>Synthesis4AD</h3>
       <p class="lang-en">A practical pipeline for 3D anomaly synthesis, model training, and online inference in industrial inspection.</p>
-      <p class="lang-zh">围绕 3D 缺陷合成、检测模型训练和在线推理构建流程，把“合成数据”接入可部署的工业检测系统。</p>
+      <p class="lang-zh">面向 3D 工业检测，将缺陷合成、模型训练和在线推理组织为一套完整流程。</p>
       <p class="work-links"><a href="https://github.com/hustCYQ/Synthesis4AD" target="_blank" rel="noopener">Repository</a></p>
     </div>
   </article>
@@ -525,7 +545,7 @@ The following works illustrate the current research line from anomaly generation
       <p class="work-kicker"><i class="fas fa-search" aria-hidden="true"></i><span class="lang-en">Anomaly Detection</span><span class="lang-zh">通用异常检测</span></p>
       <h3>INP-Former</h3>
       <p class="lang-en">Intrinsic normal prototypes extracted from a single image for universal anomaly detection.</p>
-      <p class="lang-zh">从单张图像中挖掘内在正常原型，用于跨类别、跨场景的通用异常检测，并被 CVPR VAND 多支获奖队伍采用。</p>
+      <p class="lang-zh">从单张图像中提取正常原型，用于跨类别的通用异常检测。该方法被 CVPR VAND 多支获奖队伍采用。</p>
       <p class="work-links"><a href="https://github.com/luow23/INP-Former" target="_blank" rel="noopener">Repository</a></p>
     </div>
   </article>
@@ -538,7 +558,7 @@ The following works illustrate the current research line from anomaly generation
       <p class="work-kicker"><i class="fas fa-database" aria-hidden="true"></i><span class="lang-en">Benchmark</span><span class="lang-zh">多视角多光照检测</span></p>
       <h3>M2AD</h3>
       <p class="lang-en">A large-scale benchmark for visual anomaly detection under coupled view and illumination changes.</p>
-      <p class="lang-zh">面向真实部署中常见的视角和光照变化，构建多视角、多光照工业异常检测数据集，用于检验模型在复杂成像条件下的鲁棒性。</p>
+      <p class="lang-zh">针对视角和光照变化，构建多视角、多光照工业异常检测数据集，用于评估模型在复杂成像条件下的稳定性。</p>
       <p class="work-links"><a href="https://hustcyq.github.io/M2AD/" target="_blank" rel="noopener"><span class="lang-en">Project Page</span><span class="lang-zh">项目主页</span></a></p>
     </div>
   </article>
@@ -551,7 +571,7 @@ The following works illustrate the current research line from anomaly generation
       <p class="work-kicker"><i class="fas fa-brain" aria-hidden="true"></i><span class="lang-en">Anomaly Understanding</span><span class="lang-zh">异常理解</span></p>
       <h3>IAD-R1</h3>
       <p class="lang-en">A post-training framework for industrial anomaly reasoning with vision-language models.</p>
-      <p class="lang-zh">面向工业异常理解，对视觉语言模型进行后训练，使模型能够判断异常、定位异常，并给出更贴近工程复核需求的解释。</p>
+      <p class="lang-zh">通过后训练提升视觉语言模型的异常推理能力，使其能够判断和定位异常，并说明判断原因。</p>
       <p class="work-links"><a href="https://github.com/Yanhui-Lee/IAD-R1" target="_blank" rel="noopener">Repository</a></p>
     </div>
   </article>
@@ -564,7 +584,7 @@ The following works illustrate the current research line from anomaly generation
       <p class="work-kicker"><i class="fas fa-cube" aria-hidden="true"></i><span class="lang-en">3D Anomaly Detection</span><span class="lang-zh">点云异常检测</span></p>
       <h3>CPMF</h3>
       <p class="lang-en">Complementary pseudo multimodal features for point cloud anomaly detection.</p>
-      <p class="lang-zh">融合 3D 点云与多视角 2D 表征，提升点云异常检测中的细粒度定位和跨模态信息利用能力。</p>
+      <p class="lang-zh">结合 3D 点云和多视角 2D 特征，改进点云异常检测与细粒度定位。</p>
       <p class="work-links"><a href="https://github.com/caoyunkang/CPMF" target="_blank" rel="noopener">Repository</a></p>
     </div>
   </article>
@@ -607,6 +627,7 @@ The following works illustrate the current research line from anomaly generation
 
 # <i class="far fa-calendar-alt section-icon" aria-hidden="true"></i><span class="lang-en">News</span><span class="lang-zh">最新动态</span>
 
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.07*: I advised Wenzhuo Sun on an application to the National Undergraduate Innovation Training Program in a key support area. The application, *"Zero-shot Industrial Anomaly Detection Based on Active Embodied Vision and a Digital Twin,"* has been submitted internally at Hunan University.</span><span class="lang-zh">*2026.07*: 指导孙文卓申报国家级大学生创新训练计划重点支持领域项目“基于主动具身视觉与数字孪生的零样本工业异常检测关键技术研究”，项目已完成校内申报。</span>
 - <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.06*: I was elected Deputy Director of the Department of Robotics Engineering, School of Artificial Intelligence and Robotics, Hunan University.</span><span class="lang-zh">*2026.06*: 当选湖南大学人工智能与机器人学院机器人工程系副主任。</span>
 - <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.05*: Our paper *"Cross-source Medical Anomaly Detection via Prompt-guided Diffusion Representations"* has been accepted by **Pattern Recognition**.</span><span class="lang-zh">*2026.05*: 论文 *"Cross-source Medical Anomaly Detection via Prompt-guided Diffusion Representations"* 被 Pattern Recognition 录用。</span>
 - <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.04*: The *Pattern Recognition* Special Issue on *Foundation Models for Anomaly Detection, Reasoning, and Recovery* officially closed for submissions, receiving more than 230 manuscripts.</span><span class="lang-zh">*2026.04*: Pattern Recognition 特刊 *"Foundation Models for Anomaly Detection, Reasoning, and Recovery"* 正式截止投稿，累计收到 230 余篇稿件。</span>
@@ -705,7 +726,7 @@ Note: \* indicates equal contribution. † indicates corresponding author.
   <li><span class="lang-en">Key Technologies and Applications of Multimodal Perception and Collaborative Optimization for Collaborative Intelligent Manufacturing, Gold Award of the 29th National Invention Exhibition, 3rd ranked, Oct. 2025.</span><span class="lang-zh">面向协同智能制造的多模态感知与协同优化关键技术及应用，第二十九届全国发明展览会金奖，排名第三，2025年10月。</span></li>
   <li><span class="lang-en">Yunkang Cao, Xiaohao Xu, Chen Sun, Yuqi Cheng, Liang Gao, Weiming Shen. Runner-up, CVPR Visual Anomaly and Novelty Detection Challenge, Jun. 2023.</span><span class="lang-zh">Yunkang Cao, Xiaohao Xu, Chen Sun, Yuqi Cheng, Liang Gao, Weiming Shen. CVPR Visual Anomaly and Novelty Detection Challenge，全球亚军，2023年6月。</span></li>
   <li><span class="lang-en">Xiaohao Xu, Yunkang Cao, Huaxin Zhang, Nong Sang, Xiaonan Huang. Best Student Paper Award, IEEE Computer Supported Cooperative Work in Design, May 2025.</span><span class="lang-zh">Xiaohao Xu, Yunkang Cao, Huaxin Zhang, Nong Sang, Xiaonan Huang. IEEE Computer Supported Cooperative Work in Design，Best Student Paper Award，2025年5月。</span></li>
-  <li><span class="lang-en">Du Y, Zhang H, Cheng Y, Huang C, Cao Y. Best Student Paper Award, ICAIS & ISAS, 2026.</span><span class="lang-zh">Du Y, Zhang H, Cheng Y, Huang C, Cao Y. ICAIS & ISAS，Best Student Paper Award，2026年。</span></li>
+  <li><span class="lang-en">Yuhuan Du et al. <i>OmniPose-AD: Canonical Normal Rendering for Unaligned 3D Anomaly Detection</i>, Best Student Paper Award, ICAIS & ISAS, 2026. Yuhuan Du is the student first author; Yunkang Cao is the corresponding author.</span><span class="lang-zh">杜禹寰等，<i>OmniPose-AD: Canonical Normal Rendering for Unaligned 3D Anomaly Detection</i>，ICAIS & ISAS 2026 Best Student Paper Award。杜禹寰为学生第一作者，曹云康为通讯作者。</span></li>
   <li><span class="lang-en">Yunkang Cao, National Scholarship for Ph.D. Students, Nov. 2024.</span><span class="lang-zh">曹云康，博士研究生国家奖学金，2024年11月。</span></li>
 </ol>
 

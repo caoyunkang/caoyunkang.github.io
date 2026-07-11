@@ -1,25 +1,22 @@
 # main links links
 main:
-  - title: "About"
-    url: "/#about-me"
-
   - title: "CV"
-    url: "../files/CV_Yunkang_CAO.pdf"
+    url: "/files/CV_Yunkang_CAO.pdf"
 
   - title: "Openings"
-    url: "/#openings"
+    url: "#openings"
 
   - title: "Research"
-    url: "/#research"
+    url: "#research"
 
   - title: "Works"
-    url: "/#works"
+    url: "#works"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "#publications"
 
   - title: "Service"
-    url: "/#service"
+    url: "#service"
 
 
   # - title: "Invited Talks"
