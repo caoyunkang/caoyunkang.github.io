@@ -44,7 +44,7 @@ redirect_from:
   <a href="#research"><i class="fas fa-microscope" aria-hidden="true"></i><span class="lang-en">Research</span><span class="lang-zh">研究方向</span></a>
   <a href="#works"><i class="fas fa-layer-group" aria-hidden="true"></i><span class="lang-en">Works</span><span class="lang-zh">代表成果</span></a>
   <a href="#projects"><i class="fas fa-tasks" aria-hidden="true"></i><span class="lang-en">Projects</span><span class="lang-zh">科研项目</span></a>
-  <a href="#teaching"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i><span class="lang-en">Teaching</span><span class="lang-zh">课程</span></a>
+  <a href="#news"><i class="far fa-calendar-alt" aria-hidden="true"></i><span class="lang-en">News</span><span class="lang-zh">最新动态</span></a>
   <a href="#publications"><i class="fas fa-book-open" aria-hidden="true"></i><span class="lang-en">Publications</span><span class="lang-zh">代表论文</span></a>
   <a href="#service"><i class="fas fa-hands-helping" aria-hidden="true"></i><span class="lang-en">Service</span><span class="lang-zh">学术服务</span></a>
 </nav>
@@ -278,6 +278,26 @@ html[data-lang="en"] .lang-zh {
   margin-right: 0.35rem;
 }
 
+.news-archive {
+  border-top: 1px solid #d8e1ed;
+  margin-top: 0.75rem;
+  padding-top: 0.55rem;
+}
+
+.news-archive summary {
+  color: #365f91;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.news-archive[open] summary {
+  margin-bottom: 0.5rem;
+}
+
+.news-archive-list ul {
+  margin-top: 0;
+}
+
 .opening-highlight i {
   color: #b02418;
 }
@@ -404,6 +424,34 @@ My research centers on industrial inspection and covers four connected direction
   <div class="metric-item"><i class="fas fa-chart-line" aria-hidden="true"></i><strong>21</strong><span class="lang-en">H-index</span><span class="lang-zh">H 指数</span></div>
   <div class="metric-item"><i class="fas fa-user-edit" aria-hidden="true"></i><strong>17</strong><span class="lang-en">First or Corresponding</span><span class="lang-zh">一作或通讯</span></div>
 </div>
+
+-----
+
+<span class='anchor' id='news'></span>
+
+# <i class="far fa-calendar-alt section-icon" aria-hidden="true"></i><span class="lang-en">News</span><span class="lang-zh">最新动态</span>
+
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.07*: Congratulations to Wenzhuo Sun. His project, *"Zero-shot Industrial Anomaly Detection Based on Active Embodied Vision and a Digital Twin,"* supervised by me, has been approved under the National Undergraduate Innovation Training Program in a key support area.</span><span class="lang-zh">*2026.07*: 恭喜孙文卓同学！由其负责、本人指导的项目《基于主动具身视觉与数字孪生的零样本工业异常检测关键技术研究》获国家级大学生创新训练计划重点支持领域项目立项。</span>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.06*: I was elected Deputy Director of the Department of Robotics Engineering, School of Artificial Intelligence and Robotics, Hunan University.</span><span class="lang-zh">*2026.06*: 当选湖南大学人工智能与机器人学院机器人工程系副主任。</span>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.05*: Congratulations to Yuhuan Du. His first-author paper, *"OmniPose-AD: Canonical Normal Rendering for Unaligned 3D Anomaly Detection,"* received the Best Student Paper Award at ICAIS & ISAS 2026. I am the corresponding author.</span><span class="lang-zh">*2026.05*: 恭喜杜禹寰！由其担任第一作者的论文《OmniPose-AD: Canonical Normal Rendering for Unaligned 3D Anomaly Detection》获 ICAIS & ISAS 2026 Best Student Paper Award，本人为通讯作者。</span>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.05*: Our paper *"Cross-source Medical Anomaly Detection via Prompt-guided Diffusion Representations"* has been accepted by **Pattern Recognition**.</span><span class="lang-zh">*2026.05*: 论文 *"Cross-source Medical Anomaly Detection via Prompt-guided Diffusion Representations"* 被 Pattern Recognition 录用。</span>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.04*: The *Pattern Recognition* Special Issue on *Foundation Models for Anomaly Detection, Reasoning, and Recovery* officially closed for submissions, receiving more than 230 manuscripts.</span><span class="lang-zh">*2026.04*: Pattern Recognition 特刊 *"Foundation Models for Anomaly Detection, Reasoning, and Recovery"* 正式截止投稿，累计收到 230 余篇稿件。</span>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.03*: Our paper *"Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark"* has been accepted by **Pattern Recognition**.</span><span class="lang-zh">*2026.03*: 论文 *"Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark"* 被 Pattern Recognition 录用。</span>
+
+<details class="news-archive">
+<summary><span class="lang-en">View earlier news</span><span class="lang-zh">查看往期动态</span></summary>
+<div class="news-archive-list" markdown="1">
+
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.01*: Our survey paper *"A Comprehensive Survey for Real-World Industrial Defect Detection"* has been accepted by **Journal of Manufacturing Systems (JMS)**.</span><span class="lang-zh">*2026.01*: 综述论文 *"A Comprehensive Survey for Real-World Industrial Defect Detection"* 被 Journal of Manufacturing Systems 录用。</span>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.12*: Our paper on [Zero-shot 3D Anomaly Detection](https://arxiv.org/pdf/2409.13162) has been accepted by **IEEE TSMC**.</span><span class="lang-zh">*2025.12*: 零样本 3D 异常检测论文被 IEEE TSMC 录用。</span>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.11*: Three papers on high-resolution point cloud anomaly detection, zero-shot anomaly generation, and foundation models for anomaly detection have been accepted by **AAAI 2026**, including two oral presentations.</span><span class="lang-zh">*2025.11*: 课题组 3 篇论文获 AAAI 2026 录用，分别围绕高分辨率点云异常检测、零样本异常生成和异常检测基础模型展开，其中 2 篇入选 Oral。</span>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.09*: I serve as the Executive Guest Editor for the *Pattern Recognition* Special Issue on *Foundation Models for Anomaly Detection, Reasoning, and Recovery*.</span><span class="lang-zh">*2025.09*: 担任 Pattern Recognition 特刊 *"Foundation Models for Anomaly Detection, Reasoning, and Recovery"* 执行客座编辑。</span>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.05*: Congratulations to Xiaohao Xu. The paper *"Customizing Visual-Language Foundation Models for Multi-Modal Anomaly Detection and Reasoning,"* co-first-authored by Xiaohao Xu and me, received the Best Student Paper Award at **IEEE CSCWD 2025**.</span><span class="lang-zh">*2025.05*: 恭喜徐晓豪！我与徐晓豪共同作为第一作者完成的论文《Customizing Visual-Language Foundation Models for Multi-Modal Anomaly Detection and Reasoning》获 IEEE CSCWD 2025 Best Student Paper Award。</span>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.04*: We organized the CVPR 2025 pre-conference "Industrial Vision" special session, attracting more than 5,000 online viewers.</span><span class="lang-zh">*2025.04*: 组织 CVPR 2025 预会议“工业视觉”专场，线上观看人数超过 5000。</span>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.03*: Two papers on unified anomaly detection and unseen anomaly generation have been accepted by **CVPR 2025**.</span><span class="lang-zh">*2025.03*: 关于统一异常检测和未见异常生成的 2 篇论文被 CVPR 2025 录用。</span>
+
+</div>
+</details>
 
 
 -----
@@ -620,26 +668,6 @@ The following works illustrate the current research line from anomaly generation
 
 - <span class="lang-en">Philosophy and Ethics in Artificial Intelligence, 32 hours</span><span class="lang-zh">人工智能中的哲学与伦理，32 学时</span>
 - <span class="lang-en">Robotics for the Future, 32 hours</span><span class="lang-zh">面向未来的机器人，32 学时</span>
-
------
-
-<span class='anchor' id='news'></span>
-
-# <i class="far fa-calendar-alt section-icon" aria-hidden="true"></i><span class="lang-en">News</span><span class="lang-zh">最新动态</span>
-
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.07*: Congratulations to Wenzhuo Sun. His project, *"Zero-shot Industrial Anomaly Detection Based on Active Embodied Vision and a Digital Twin,"* supervised by me, has been approved under the National Undergraduate Innovation Training Program in a key support area.</span><span class="lang-zh">*2026.07*: 恭喜孙文卓同学！由其负责、本人指导的项目《基于主动具身视觉与数字孪生的零样本工业异常检测关键技术研究》获国家级大学生创新训练计划重点支持领域项目立项。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.06*: I was elected Deputy Director of the Department of Robotics Engineering, School of Artificial Intelligence and Robotics, Hunan University.</span><span class="lang-zh">*2026.06*: 当选湖南大学人工智能与机器人学院机器人工程系副主任。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.05*: Congratulations to Yuhuan Du. His first-author paper, *"OmniPose-AD: Canonical Normal Rendering for Unaligned 3D Anomaly Detection,"* received the Best Student Paper Award at ICAIS & ISAS 2026. I am the corresponding author.</span><span class="lang-zh">*2026.05*: 恭喜杜禹寰！由其担任第一作者的论文《OmniPose-AD: Canonical Normal Rendering for Unaligned 3D Anomaly Detection》获 ICAIS & ISAS 2026 Best Student Paper Award，本人为通讯作者。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.05*: Our paper *"Cross-source Medical Anomaly Detection via Prompt-guided Diffusion Representations"* has been accepted by **Pattern Recognition**.</span><span class="lang-zh">*2026.05*: 论文 *"Cross-source Medical Anomaly Detection via Prompt-guided Diffusion Representations"* 被 Pattern Recognition 录用。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.04*: The *Pattern Recognition* Special Issue on *Foundation Models for Anomaly Detection, Reasoning, and Recovery* officially closed for submissions, receiving more than 230 manuscripts.</span><span class="lang-zh">*2026.04*: Pattern Recognition 特刊 *"Foundation Models for Anomaly Detection, Reasoning, and Recovery"* 正式截止投稿，累计收到 230 余篇稿件。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.03*: Our paper *"Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark"* has been accepted by **Pattern Recognition**.</span><span class="lang-zh">*2026.03*: 论文 *"Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark"* 被 Pattern Recognition 录用。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.01*: Our survey paper *"A Comprehensive Survey for Real-World Industrial Defect Detection"* has been accepted by **Journal of Manufacturing Systems (JMS)**.</span><span class="lang-zh">*2026.01*: 综述论文 *"A Comprehensive Survey for Real-World Industrial Defect Detection"* 被 Journal of Manufacturing Systems 录用。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.12*: Our paper on [Zero-shot 3D Anomaly Detection](https://arxiv.org/pdf/2409.13162) has been accepted by **IEEE TSMC**.</span><span class="lang-zh">*2025.12*: 零样本 3D 异常检测论文被 IEEE TSMC 录用。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.11*: Three papers on high-resolution point cloud anomaly detection, zero-shot anomaly generation, and foundation models for anomaly detection have been accepted by **AAAI 2026**, including two oral presentations.</span><span class="lang-zh">*2025.11*: 课题组 3 篇论文获 AAAI 2026 录用，分别围绕高分辨率点云异常检测、零样本异常生成和异常检测基础模型展开，其中 2 篇入选 Oral。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.09*: I serve as the Executive Guest Editor for the *Pattern Recognition* Special Issue on *Foundation Models for Anomaly Detection, Reasoning, and Recovery*.</span><span class="lang-zh">*2025.09*: 担任 Pattern Recognition 特刊 *"Foundation Models for Anomaly Detection, Reasoning, and Recovery"* 执行客座编辑。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.05*: Congratulations to Xiaohao Xu. The paper *"Customizing Visual-Language Foundation Models for Multi-Modal Anomaly Detection and Reasoning,"* co-first-authored by Xiaohao Xu and me, received the Best Student Paper Award at **IEEE CSCWD 2025**.</span><span class="lang-zh">*2025.05*: 恭喜徐晓豪！我与徐晓豪共同作为第一作者完成的论文《Customizing Visual-Language Foundation Models for Multi-Modal Anomaly Detection and Reasoning》获 IEEE CSCWD 2025 Best Student Paper Award。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.04*: We organized the CVPR 2025 pre-conference "Industrial Vision" special session, attracting more than 5,000 online viewers.</span><span class="lang-zh">*2025.04*: 组织 CVPR 2025 预会议“工业视觉”专场，线上观看人数超过 5000。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.03*: Two papers on unified anomaly detection and unseen anomaly generation have been accepted by **CVPR 2025**.</span><span class="lang-zh">*2025.03*: 关于统一异常检测和未见异常生成的 2 篇论文被 CVPR 2025 录用。</span>
 
 -----
 
