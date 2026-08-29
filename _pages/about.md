@@ -420,7 +420,7 @@ My research spans intelligent industrial inspection and AI + Bio-Breeding. In in
 
 <div class="metrics-grid">
   <div class="metric-item"><i class="fas fa-file-alt" aria-hidden="true"></i><strong>60+</strong><span class="lang-en">Publications</span><span class="lang-zh">论文</span></div>
-  <div class="metric-item"><i class="fas fa-quote-right" aria-hidden="true"></i><strong>2100+</strong><span class="lang-en">Citations</span><span class="lang-zh">引用</span></div>
+  <div class="metric-item"><i class="fas fa-quote-right" aria-hidden="true"></i><strong>2300+</strong><span class="lang-en">Citations</span><span class="lang-zh">引用</span></div>
   <div class="metric-item"><i class="fas fa-chart-line" aria-hidden="true"></i><strong>21</strong><span class="lang-en">H-index</span><span class="lang-zh">H 指数</span></div>
   <div class="metric-item"><i class="fas fa-user-edit" aria-hidden="true"></i><strong>17</strong><span class="lang-en">First or Corresponding</span><span class="lang-zh">一作或通讯</span></div>
 </div>
@@ -691,7 +691,7 @@ Note: \* indicates equal contribution. † indicates corresponding author.
 说明：\* 表示共同第一作者，† 表示通讯作者。完整列表请见 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ&view_op=list_works&sortby=pubdate).
 {: .lang-zh}
 
-[![Citations](https://img.shields.io/badge/Citations-2100%2B-007ec6?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ)
+[![Citations](https://img.shields.io/badge/Citations-2300%2B-007ec6?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ)
 [![H-index](https://img.shields.io/badge/H--index-21-2563eb?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ)
 [![GitHub](https://img.shields.io/badge/GitHub-caoyunkang-181717?logo=github&logoColor=white)](https://github.com/caoyunkang)
 
