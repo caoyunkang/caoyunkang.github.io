@@ -420,7 +420,7 @@ My research spans intelligent industrial inspection and AI + Bio-Breeding. In in
 
 <div class="metrics-grid">
   <div class="metric-item"><i class="fas fa-file-alt" aria-hidden="true"></i><strong>60+</strong><span class="lang-en">Publications</span><span class="lang-zh">论文</span></div>
-  <div class="metric-item"><i class="fas fa-quote-right" aria-hidden="true"></i><strong>2300+</strong><span class="lang-en">Citations</span><span class="lang-zh">引用</span></div>
+  <div class="metric-item"><i class="fas fa-quote-right" aria-hidden="true"></i><strong>2500+</strong><span class="lang-en">Citations</span><span class="lang-zh">引用</span></div>
   <div class="metric-item"><i class="fas fa-chart-line" aria-hidden="true"></i><strong>21</strong><span class="lang-en">H-index</span><span class="lang-zh">H 指数</span></div>
   <div class="metric-item"><i class="fas fa-user-edit" aria-hidden="true"></i><strong>17</strong><span class="lang-en">First or Corresponding</span><span class="lang-zh">一作或通讯</span></div>
 </div>
@@ -431,6 +431,8 @@ My research spans intelligent industrial inspection and AI + Bio-Breeding. In in
 
 # <i class="far fa-calendar-alt section-icon" aria-hidden="true"></i><span class="lang-en">News</span><span class="lang-zh">最新动态</span>
 
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.09*: Our paper [*"Towards Explainable Industrial Anomaly Detection via Knowledge-Guided Latent Reasoning"*](https://arxiv.org/abs/2602.09850) has been accepted by **NeurIPS 2026**.</span><span class="lang-zh">*2026.09*: 论文 [*“Towards Explainable Industrial Anomaly Detection via Knowledge-Guided Latent Reasoning”*](https://arxiv.org/abs/2602.09850) 获 **NeurIPS 2026** 录用。</span>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.09*: Our paper [*"M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional Benchmark and Framework for Industrial Anomaly Detection"*](https://arxiv.org/abs/2603.00055) has been accepted by **NeurIPS 2026**.</span><span class="lang-zh">*2026.09*: 论文 [*“M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional Benchmark and Framework for Industrial Anomaly Detection”*](https://arxiv.org/abs/2603.00055) 获 **NeurIPS 2026** 录用。</span>
 - <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.09*: Our paper [*"ArcAD: Anomaly-Rectified Calibration for Cold-Start Supervised Anomaly Detection"*](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=aLJ8_G4AAAAJ&sortby=pubdate&citation_for_view=aLJ8_G4AAAAJ:Tiz5es2fbqcC) has been accepted by **ECCV 2026** and selected as a **Spotlight** paper.</span><span class="lang-zh">*2026.09*: 论文 [*“ArcAD: Anomaly-Rectified Calibration for Cold-Start Supervised Anomaly Detection”*](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=aLJ8_G4AAAAJ&sortby=pubdate&citation_for_view=aLJ8_G4AAAAJ:Tiz5es2fbqcC) 获 **ECCV 2026** 录用，并入选 **Spotlight**。</span>
 - <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.08*: Our paper [*"Irregularity-Aware 3D Anomaly Detection for Product Quality Control"*](https://ieeexplore.ieee.org/document/11670526/) has been accepted by **IEEE Transactions on Automation Science and Engineering (TASE)**.</span><span class="lang-zh">*2026.08*: 论文 [*"Irregularity-Aware 3D Anomaly Detection for Product Quality Control"*](https://ieeexplore.ieee.org/document/11670526/) 获 IEEE Transactions on Automation Science and Engineering（TASE）录用。</span>
 - <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.07*: Our paper *"Towards Active Real-to-Twin Inspection: A New Paradigm for Zero-Shot Anomaly Detection"* was selected as a Best Student Paper Finalist at **IEEE CYBER 2026**.</span><span class="lang-zh">*2026.07*: 论文 *"Towards Active Real-to-Twin Inspection: A New Paradigm for Zero-Shot Anomaly Detection"* 入选 IEEE CYBER 2026 Best Student Paper Finalist。</span>
@@ -692,7 +694,7 @@ Note: \* indicates equal contribution. † indicates corresponding author.
 说明：\* 表示共同第一作者，† 表示通讯作者。完整列表请见 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ&view_op=list_works&sortby=pubdate).
 {: .lang-zh}
 
-[![Citations](https://img.shields.io/badge/Citations-2300%2B-007ec6?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ)
+[![Citations](https://img.shields.io/badge/Citations-2500%2B-007ec6?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ)
 [![H-index](https://img.shields.io/badge/H--index-21-2563eb?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ)
 [![GitHub](https://img.shields.io/badge/GitHub-caoyunkang-181717?logo=github&logoColor=white)](https://github.com/caoyunkang)
 
