@@ -725,6 +725,8 @@ Note: \* indicates equal contribution. † indicates corresponding author.
 ## <i class="fas fa-brain section-icon" aria-hidden="true"></i><span class="lang-en">Anomaly Understanding</span><span class="lang-zh">异常理解</span>
 
 <ol>
+  <li>Chen P, Huang C, Cao Y（曹云康）, Liu C, Wang W, Wang W, Yang M, Shen L, Ren W, Cao X. <a href="https://arxiv.org/abs/2602.09850">Towards Explainable Industrial Anomaly Detection via Knowledge-Guided Latent Reasoning</a>. <i>Advances in Neural Information Processing Systems</i>, 2026. NeurIPS 2026.</li>
+  <li>Huang C, Li Y, Cao Y（曹云康）, Wang W, Huang H, Wen J, Ren W, Cao X. <a href="https://arxiv.org/abs/2603.00055">M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional Benchmark and Framework for Industrial Anomaly Detection</a>. <i>Advances in Neural Information Processing Systems</i>, 2026. NeurIPS 2026.</li>
   <li>Li Y, Cao Y（曹云康）, Liu C, et al. IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection. <i>AAAI Conference on Artificial Intelligence</i>, 2026. doi:10.48550/arXiv.2508.09178. CCF-A, Oral.</li>
   <li>Xu X, Cao Y（曹云康）, Zhang H, Sang N, Huang X. Customizing Visual-Language Foundation Models for Multi-Modal Anomaly Detection and Reasoning. <i>International Conference on Computer Supported Cooperative Work in Design</i>, 2025. CCF-C, Best Student Paper Award.</li>
   <li>Zhang Y, Cao Y（曹云康）, Xu X, et al. LogiCode: An LLM-Driven Framework for Logical Anomaly Detection. <i>IEEE Transactions on Automation Science and Engineering</i>, 22: 7712-7723, 2025. 中科院二区.</li>
